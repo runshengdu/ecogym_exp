@@ -23,8 +23,13 @@ import time
 import re
 import statistics
 from typing import List, Dict, Any, Optional
-from dotenv import load_dotenv
 from openai import OpenAI
+
+from agno.utils.model_registry import (
+    get_model_config,
+    get_model_request_params,
+    create_openai_client,
+)
 
 from agno.tools.toolkit import Toolkit
 
@@ -40,17 +45,9 @@ class TaskEstimationTools(Toolkit):
         self.config_path = config_path
         self.config = self._load_config(config_path)
         
-        env_path = self.config.get("system_config", {}).get("env_path")
-        if env_path: load_dotenv(env_path)
-            
-        self.api_key = api_key or os.getenv("OPENAI_API_KEY") or os.environ.get("API_KEY")
-        self.api_url = api_url or os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL") or os.getenv("API_URL")
-        
-        if self.api_key:
-            self.client = OpenAI(api_key=self.api_key, base_url=self.api_url)
-        else:
-            self.client = None
-            print("[Warn] TaskEstimationTools: OpenAI API Key is missing.")
+        self.client = None
+        self._model_clients: Dict[str, OpenAI] = {}
+        self._model_request_params: Dict[str, Dict[str, Any]] = {}
 
         self.sys_conf = self.config.get("system_config", {})
         self.temperature = self.sys_conf.get("temperature", 1.0)
@@ -108,12 +105,6 @@ class TaskEstimationTools(Toolkit):
             }
             These values act as the baseline for the final settlement negotiation.
         """
-        if not self.client:
-            return json.dumps({
-                "status": "error", 
-                "message": "OpenAI Client not initialized."
-            }, ensure_ascii=False)
-
         defaults = self.sys_conf.get("defaults", {})
         model_names_list = defaults.get("initial_voting_models", ["gpt-4o", "gpt-4o-mini"])
 
@@ -130,7 +121,7 @@ class TaskEstimationTools(Toolkit):
         valid_payments = []
 
         for i, model in enumerate(model_names_list):
-            result = self._call_llm(prompt, model_name=model)
+            result = self._call_llm(prompt, model)
 
             if result:
                 e = float(result.get("estimated_effort", 0.0))
@@ -189,16 +180,50 @@ class TaskEstimationTools(Toolkit):
         
         return {}
 
+    def _get_client_and_params(self, model_name: str) -> Optional[Dict[str, Any]]:
+        if model_name in self._model_clients:
+            return {
+                "client": self._model_clients[model_name],
+                "params": self._model_request_params.get(model_name, {})
+            }
+
+        try:
+            model_config = get_model_config(model_name)
+        except Exception as e:
+            print(f"[Warn] TaskEstimationTools: {e}")
+            return None
+
+        try:
+            client = create_openai_client(model_config)
+        except Exception as e:
+            print(f"[Warn] TaskEstimationTools: Failed to create client for {model_name}: {e}")
+            return None
+
+        params = get_model_request_params(model_config)
+        if "temperature" not in params:
+            params["temperature"] = self.temperature
+
+        self._model_clients[model_name] = client
+        self._model_request_params[model_name] = params
+
+        return {"client": client, "params": params}
+
     def _call_llm(self, prompt: str, model_name: str) -> Dict[str, Any]:
+        client_bundle = self._get_client_and_params(model_name)
+        if not client_bundle:
+            return {}
+
+        client = client_bundle["client"]
+        params = dict(client_bundle["params"])
         for attempt in range(self.max_retries):
             try:
-                response = self.client.chat.completions.create(
+                response = client.chat.completions.create(
                     model=model_name,
                     messages=[
                         {"role": "system", "content": "You are a helpful assistant that outputs strict JSON."},
                         {"role": "user", "content": prompt}
                     ],
-                    temperature=self.temperature,
+                    **params,
                 )
                 return self._extract_json(response.choices[0].message.content)
             except Exception as e:

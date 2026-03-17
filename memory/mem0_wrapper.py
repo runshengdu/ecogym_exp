@@ -17,6 +17,7 @@
 import os
 from typing import List, Dict, Any
 from mem0 import Memory
+from agno.utils.model_registry import get_model_config
 from memory.user_memory import MemoryItem
 
 class Mem0Wrapper:
@@ -24,6 +25,20 @@ class Mem0Wrapper:
         self.user_id = user_id
         self.retrieve_top_k = retrieve_top_k
         
+        embed_model = kwargs.get("embedding_model", "openai/text-embedding-3-small")
+
+        try:
+            llm_config = get_model_config(model_name)
+        except Exception as e:
+            llm_config = {"api_key": None, "base_url": None}
+            print(f"[Mem0Wrapper] Warning: {e}")
+
+        try:
+            embed_config = get_model_config(embed_model)
+        except Exception as e:
+            embed_config = {"api_key": None, "base_url": None}
+            print(f"[Mem0Wrapper] Warning: {e}")
+
         config = {
             "vector_store": {
                 "provider": "chroma",
@@ -36,16 +51,16 @@ class Mem0Wrapper:
                 "provider": "openai",
                 "config": {
                     "model": model_name,
-                    "api_key": os.getenv("OPENAI_API_KEY") or os.getenv("API_KEY"),
-                    "openai_base_url": os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL") or os.getenv("API_URL")
+                    "api_key": llm_config.get("api_key"),
+                    "openai_base_url": llm_config.get("base_url")
                 }
             },
              "embedder": {
                 "provider": "openai",
                 "config": {
-                    "model": kwargs.get("embedding_model", "text-embedding-3-small"),
-                    "api_key": os.getenv("OPENAI_API_KEY") or os.getenv("API_KEY"),
-                    "openai_base_url": os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL") or os.getenv("API_URL")
+                    "model": embed_model,
+                    "api_key": embed_config.get("api_key"),
+                    "openai_base_url": embed_config.get("base_url")
                 }
             }
         }

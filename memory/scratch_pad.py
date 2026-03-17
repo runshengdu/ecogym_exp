@@ -30,11 +30,20 @@ STOP_WORDS = {
 }
 
 class ScratchPad:
-    def __init__(self, llm_client: Any, model_name: str, max_vars: int = 50, retrieve_top_k: int = 10, **kwargs):
+    def __init__(
+        self,
+        llm_client: Any,
+        model_name: str,
+        max_vars: int = 50,
+        retrieve_top_k: int = 10,
+        request_params: Optional[Dict[str, Any]] = None,
+        **kwargs,
+    ):
         self.client = llm_client
         self.model_name = model_name
         self.storage: Dict[str, str] = {}
         self._update_order: List[str] = []
+        self.request_params = request_params or {}
         
         self.max_vars = max_vars
         self.retrieve_top_k = retrieve_top_k
@@ -91,6 +100,7 @@ class ScratchPad:
                 {"role": "system", "content": self.extract_prompt},
                 {"role": "user", "content": f"Extract from this:\n{text}"}
             ],
+            **self.request_params,
         )
         content = response.choices[0].message.content
         return json.loads(content) if content else {}

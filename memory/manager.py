@@ -18,6 +18,8 @@ import os
 from typing import List, Dict, Any, Optional
 from openai import OpenAI
 
+from agno.utils.model_registry import get_model_config, create_openai_client
+
 from memory.user_memory import MemoryItem, messages2items
 from memory.rolling_window import RollingWindow
 from memory.scratch_pad import ScratchPad
@@ -25,23 +27,29 @@ from memory.vector_db import VectorMem
 from memory.mem0_wrapper import Mem0Wrapper
 
 class MemoryManager:
-    def __init__(self, model_name: str, memory_config: Dict[str, Any], llm_client: Optional[OpenAI] = None):
+    def __init__(
+        self,
+        model_name: str,
+        memory_config: Dict[str, Any],
+        llm_client: Optional[OpenAI] = None,
+        request_params: Optional[Dict[str, Any]] = None,
+    ):
         self.config = memory_config
         self.use_memory = memory_config.get('use_memory', False)
         self.user_id = memory_config.get('user_id', 'default_user')
         self.model_name = model_name
-        
+        self.request_params = request_params or {}
+
         if llm_client:
             self.client = llm_client
         else:
-            api_key = os.getenv("OPENAI_API_KEY") or os.getenv("API_KEY")
-            base_url = os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL") or os.getenv("API_URL")
-            if api_key:
-                self.client = OpenAI(api_key=api_key, base_url=base_url)
-            else:
+            try:
+                model_config = get_model_config(self.model_name)
+                self.client = create_openai_client(model_config)
+            except Exception as e:
                 self.client = None
                 if self.use_memory:
-                    print("[Memory] Warning: No OpenAI Client available (api_key missing?), LLM-based memory features will fail.")
+                    print(f"[Memory] Warning: No OpenAI Client available ({e}), LLM-based memory features will fail.")
 
         general_conf = memory_config.get('general_config', {})
         self.embedding_config = general_conf.get('embedding_config', {})
@@ -56,7 +64,12 @@ class MemoryManager:
             self.modules['rolling_window'] = RollingWindow(**module_configs['rolling_window'])
         
         if module_configs.get('scratch_pad', {}).get('enabled', False):
-            self.modules['scratch_pad'] = ScratchPad(llm_client=self.client, model_name=self.model_name, **module_configs['scratch_pad'])
+            self.modules['scratch_pad'] = ScratchPad(
+                llm_client=self.client,
+                model_name=self.model_name,
+                request_params=self.request_params,
+                **module_configs['scratch_pad'],
+            )
         
         if module_configs.get('vector_db', {}).get('enabled', False):
             self.modules['vector_db'] = VectorMem(embedding_config=self.embedding_config, **module_configs['vector_db'])
@@ -64,7 +77,7 @@ class MemoryManager:
         if module_configs.get('mem0', {}).get('enabled', False):
             mem0_conf = module_configs['mem0']
             if 'embedding_model' not in mem0_conf:
-                mem0_conf['embedding_model'] = self.embedding_config.get('model', 'text-embedding-3-small')
+                mem0_conf['embedding_model'] = self.embedding_config.get('model', 'openai/text-embedding-3-small')
             
             self.modules['mem0'] = Mem0Wrapper(user_id=self.user_id, model_name=model_name, **mem0_conf)
 

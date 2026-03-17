@@ -23,7 +23,6 @@ model_config:
 
 run_settings:
   max_steps: 2000
-  env_path: ".env"
   max_days: 365
   history_limit: 128  
   seed: 42
@@ -37,7 +36,7 @@ memory_config:
   general_config:
     total_prompt_limit: 15
     embedding_config:
-      model: "text-embedding-3-small"
+      model: "openai/text-embedding-3-small"
 
   modules:
     rolling_window:

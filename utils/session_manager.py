@@ -28,20 +28,29 @@ class SessionManager:
     使用 JSON/JSONL 格式存储会话数据
     """
     
-    def __init__(self, session_id: str, base_dir: str = "logs/sessions"):
+    def __init__(
+        self,
+        session_id: str,
+        base_dir: str = "logs/sessions",
+        model_name: Optional[str] = None,
+        create_if_missing: bool = True
+    ):
         """
         初始化会话管理器
         
         Args:
             session_id: 会话唯一标识符
             base_dir: 会话数据存储的基础目录
+            model_name: 模型名称，用于新会话按模型分目录存储
+            create_if_missing: 会话目录不存在时是否创建
         """
         self.logger = logging.getLogger("agno_stimulation")
-        self.session_id = session_id
+        self.session_id = Path(session_id).name
         self.base_dir = Path(base_dir)
-        self.session_dir = self.base_dir / session_id
-        
-        self.session_dir.mkdir(parents=True, exist_ok=True)
+        self.session_dir = self._resolve_session_dir(session_id, self.base_dir, model_name)
+
+        if create_if_missing:
+            self.session_dir.mkdir(parents=True, exist_ok=True)
         
         self.metadata_file = self.session_dir / "metadata.json"
         self.steps_file = self.session_dir / "steps.jsonl"
@@ -49,6 +58,51 @@ class SessionManager:
         
         self.logger.info(f"Session manager initialized - Session ID: {session_id}")
         self.logger.info(f"Session directory: {self.session_dir}")
+
+    @staticmethod
+    def sanitize_model_name(model_name: str) -> str:
+        return model_name.replace("/", "_").replace("\\", "_")
+
+    @classmethod
+    def _find_existing_session_dir(cls, session_id: str, base_dir: Path) -> Optional[Path]:
+        requested_path = base_dir / session_id
+        if (requested_path / "metadata.json").exists():
+            return requested_path
+
+        session_name = Path(session_id).name
+
+        legacy_path = base_dir / session_name
+        if (legacy_path / "metadata.json").exists():
+            return legacy_path
+
+        if not base_dir.exists():
+            return None
+
+        for model_dir in base_dir.iterdir():
+            if not model_dir.is_dir():
+                continue
+
+            candidate = model_dir / session_name
+            if (candidate / "metadata.json").exists():
+                return candidate
+
+        return None
+
+    @classmethod
+    def _resolve_session_dir(
+        cls,
+        session_id: str,
+        base_dir: Path,
+        model_name: Optional[str] = None
+    ) -> Path:
+        existing_dir = cls._find_existing_session_dir(session_id, base_dir)
+        if existing_dir is not None:
+            return existing_dir
+
+        if model_name:
+            return base_dir / cls.sanitize_model_name(model_name) / Path(session_id).name
+
+        return base_dir / Path(session_id).name
     
     def init_session(self, config: Dict[str, Any], initial_state: Dict[str, Any]) -> None:
         """
@@ -60,6 +114,7 @@ class SessionManager:
         """
         metadata = {
             "session_id": self.session_id,
+            "session_path": str(self.session_dir.relative_to(self.base_dir)),
             "start_time": datetime.now().isoformat(),
             "last_update": datetime.now().isoformat(),
             "last_step": 0,
@@ -312,7 +367,7 @@ class SessionManager:
             'last_step': actual_completed_step,
             'state': state_snapshot['state'],
             'metadata': metadata,
-            'session_id': self.session_id
+            'session_id': metadata.get('session_path', self.session_id)
         }
     
     @staticmethod
@@ -331,19 +386,18 @@ class SessionManager:
             return []
         
         resumable = []
-        for session_dir in base_path.iterdir():
-            if session_dir.is_dir():
-                metadata_file = session_dir / "metadata.json"
-                if metadata_file.exists():
-                    with open(metadata_file, 'r', encoding='utf-8') as f:
-                        metadata = json.load(f)
-                    
-                    status = metadata.get('status', '')
-                    if status in ['interrupted', 'running']:
-                        resumable.append({
-                            'session_id': session_dir.name,
-                            'metadata': metadata
-                        })
+        metadata_files = list(base_path.glob("*/metadata.json")) + list(base_path.glob("*/*/metadata.json"))
+        for metadata_file in metadata_files:
+            session_dir = metadata_file.parent
+            with open(metadata_file, 'r', encoding='utf-8') as f:
+                metadata = json.load(f)
+
+            status = metadata.get('status', '')
+            if status in ['interrupted', 'running']:
+                resumable.append({
+                    'session_id': str(session_dir.relative_to(base_path)),
+                    'metadata': metadata
+                })
         
         resumable.sort(key=lambda x: x['metadata'].get('last_update', ''), reverse=True)
         return resumable

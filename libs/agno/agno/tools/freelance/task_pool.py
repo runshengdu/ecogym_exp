@@ -22,7 +22,6 @@ import yaml
 import random
 import concurrent.futures
 from typing import List, Dict, Any, Optional
-from dotenv import load_dotenv
 from agno.tools.toolkit import Toolkit
 
 from agno.tools.freelance.task_init_price import TaskEstimationTools 
@@ -43,9 +42,6 @@ class TaskManagementTools(Toolkit):
         
         sys_conf = self.config.get("system_config", {})
         self.dataset_path = sys_conf.get("dataset_path", dataset_path)
-        if sys_conf.get("env_path"):
-            load_dotenv(sys_conf["env_path"])
-
         self.max_pool_size = self.config.get("task_settings_config", {}).get("max_pool_size", 10)
         
         self.pricing_tool = TaskEstimationTools(config_path=self.config_path)

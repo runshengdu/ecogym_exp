@@ -23,6 +23,7 @@ from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
 from memory.user_memory import MemoryItem
+from agno.utils.model_registry import get_model_config
 
 class VectorMem:
     def __init__(self, 
@@ -40,18 +41,26 @@ class VectorMem:
         
         self.ef = None
         if embedding_config and embedding_config.get("provider") == "openai":
-            api_key = os.getenv("OPENAI_API_KEY") or os.getenv("API_KEY")
-            base_url = os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL") or os.getenv("API_URL")
-            
+            model_name = embedding_config.get("model", "openai/text-embedding-3-small")
+
+            try:
+                model_config = get_model_config(model_name)
+                api_key = model_config.get("api_key")
+                base_url = model_config.get("base_url")
+            except Exception as e:
+                api_key = None
+                base_url = None
+                print(f"[VectorDB] ⚠️ Failed to load model config for '{model_name}': {e}")
+
             if not api_key:
-                print("[VectorDB] ⚠️ API_KEY not found in env. OpenAI embedding will fail.")
+                print("[VectorDB] ⚠️ api_key not found in models.yaml. OpenAI embedding will fail.")
             
             self.ef = embedding_functions.OpenAIEmbeddingFunction(
                 api_key=api_key,
                 api_base=base_url,
-                model_name=embedding_config.get("model", "text-embedding-3-small")
+                model_name=model_name
             )
-            print(f"[VectorDB Debug] Setup OpenAI Embedding: {embedding_config.get('model')}")
+            print(f"[VectorDB Debug] Setup OpenAI Embedding: {model_name}")
         else:
             print("[VectorDB] ⚠️ Using default Chroma embedding.")
 

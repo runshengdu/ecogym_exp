@@ -181,17 +181,17 @@ class Agent:
         model_id: Optional[str] = None,
         initial_session_state: Optional[Dict[str, Any]] = None,
         history_limit: Optional[int] = None,
-        use_responses_api: Optional[bool] = None):
+        request_params: Optional[Dict[str, Any]] = None):
 
         self.model = model
         self.model_id = model_id
         self.instructions = instructions
         self.messages = [{"role": "system", "content": self.instructions}]
-        self.response_inputs: List[Any] = []
         
         self.history_limit = history_limit
         
         self.session_state = dict(initial_session_state) if initial_session_state else {}
+        self.request_params = request_params or {}
         
         self.tool_map = {}
         self.tool_schemas = []
@@ -212,13 +212,6 @@ class Agent:
         self.is_openai_client = OpenAI is not None and isinstance(model, OpenAI)
         self.max_retries = 5
         self.retry_delay = 2
-
-        self.use_responses_api = (
-            bool(use_responses_api)
-            if use_responses_api is not None
-            else (self.is_openai_client and isinstance(self.model_id, str) and self.model_id.startswith("closed_5.2_calling_pipeline"))
-        )
-        self.response_tool_schemas = self._convert_tools_for_responses(self.tool_schemas)
 
     def update_system_prompt(self, new_system_prompt: str):
         self.instructions = new_system_prompt
@@ -258,21 +251,6 @@ class Agent:
         else:
             return tool
     
-    def _convert_tools_for_responses(self, tool_schemas: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-        responses_tools: List[Dict[str, Any]] = []
-        for schema in tool_schemas:
-            if isinstance(schema, dict) and "function" in schema:
-                func_obj = schema.get("function", {})
-                responses_tools.append({
-                    "type": "function",
-                    "name": func_obj.get("name"),
-                    "description": func_obj.get("description", ""),
-                    "parameters": func_obj.get("parameters", {"type": "object", "properties": {}}),
-                })
-            elif schema:
-                responses_tools.append(schema)
-        return responses_tools
-
     def _parse_tool_arguments(self, args_raw: Any) -> Dict[str, Any]:
         if isinstance(args_raw, str):
             s = args_raw
@@ -309,10 +287,16 @@ class Agent:
         except Exception:
             return str(result)
 
-    def _get_response_item_type(self, item: Any) -> Optional[str]:
-        if isinstance(item, dict):
-            return item.get("type") or item.get("role")
-        return getattr(item, "type", None) or getattr(item, "role", None)
+    def _extract_reasoning_payload(self, message: Any) -> Dict[str, Any]:
+        if hasattr(message, "reasoning_details"):
+            reasoning_details = getattr(message, "reasoning_details", None)
+            if reasoning_details is not None:
+                return {"reasoning_details": reasoning_details}
+        if hasattr(message, "reasoning_content"):
+            reasoning_content = getattr(message, "reasoning_content", None)
+            if reasoning_content is not None:
+                return {"reasoning_content": reasoning_content}
+        return {}
     
     def _print_session_state(self):
         try:
@@ -334,9 +318,6 @@ class Agent:
     def run(self, user_query: str = "", session_id: Optional[str] = None) -> SimpleRunOutput:
         if not self.messages or self.messages[0].get("role") != "system":
             self.messages = [{"role": "system", "content": self.instructions}]
-        
-        if self.use_responses_api:
-            return self._run_with_responses_api(user_query=user_query, session_id=session_id)
         
         if self.history_limit is not None and self.history_limit > 0:
             current_len = len(self.messages)
@@ -374,11 +355,13 @@ class Agent:
         for attempt in range(self.max_retries):
             try:
                 if self.is_openai_client:
-                    response = self.model.chat.completions.create(
-                        model=self.model_id,
-                        messages=self.messages,
-                        tools=self.tool_schemas if self.tool_schemas else None
-                    )
+                    request_kwargs = {
+                        "model": self.model_id,
+                        "messages": self.messages,
+                        "tools": self.tool_schemas if self.tool_schemas else None,
+                    }
+                    request_kwargs.update(self.request_params)
+                    response = self.model.chat.completions.create(**request_kwargs)
                     message = response.choices[0].message
                 elif hasattr(self.model, 'chat'):
                     message = self.model.chat(
@@ -590,6 +573,7 @@ class Agent:
                 print(f"{Fore.RED}🛑 Agent detected an infinite loop (repetitive identical tool calls), forcibly intercepting.{Style.RESET_ALL}")
                 
                 assistant_msg_dict = {"role": "assistant", "content": message.content or "", "tool_calls": tool_calls_list}
+                assistant_msg_dict.update(self._extract_reasoning_payload(message))
                 self.messages.append(assistant_msg_dict)
                 all_messages.append(SimpleMessage(role="assistant", content=message.content, tool_calls=tool_calls_list, metrics=msg_metrics))
                 
@@ -617,6 +601,7 @@ class Agent:
             "role": "assistant",
             "content": content_val
         }
+        assistant_msg_dict.update(self._extract_reasoning_payload(message))
         if tool_calls_list:
             assistant_msg_dict["tool_calls"] = tool_calls_list
         self.messages.append(assistant_msg_dict)
@@ -746,269 +731,4 @@ class Agent:
             tools=all_tools if all_tools else None,
             status=SimpleRunStatus.completed,
             reasoning_content=getattr(message, 'reasoning_content', None)
-        )
-    
-    def _run_with_responses_api(self, user_query: str = "", session_id: Optional[str] = None) -> SimpleRunOutput:
-        if self.history_limit is not None and self.history_limit > 0 and len(self.response_inputs) > self.history_limit:
-            kept_slice = self.response_inputs[-self.history_limit:]
-            while kept_slice and self._get_response_item_type(kept_slice[0]) == "function_call_output":
-                kept_slice.pop(0)
-            self.response_inputs = kept_slice
-
-        add_user_msg = False
-        if user_query:
-            add_user_msg = True
-        elif not self.response_inputs:
-            user_query = "Please proceed with your task strictly according to the instructions without any useless descriptive sentences."
-            add_user_msg = True
-        else:
-            add_user_msg = True
-
-        all_messages = [SimpleMessage(role="system", content=self.instructions)]
-        if add_user_msg:
-            user_msg = {"role": "user", "content": user_query}
-            self.response_inputs.append(user_msg)
-            self.messages.append(user_msg)
-            all_messages.append(SimpleMessage(role="user", content=user_query))
-            if user_query:
-                print(f"🤖 User: {user_query}")
-
-        all_tools: List[SimpleToolExecution] = []
-        total_metrics = SimpleMetrics()
-        call_start_time = time.time()
-        response = None
-
-        for attempt in range(self.max_retries):
-            try:
-                response = self.model.responses.create(
-                    model=self.model_id,
-                    input=self.response_inputs,
-                    tools=self.response_tool_schemas if self.response_tool_schemas else None,
-                    instructions=self.instructions
-                )
-                break
-            except Exception as e:
-                if attempt == self.max_retries - 1:
-                    print(f"{Fore.RED}🔥 LLM call completely failed (Error: {e}). Attempting to execute emergency circuit breaker procedure...{Style.RESET_ALL}")
-
-                    target_task_id = None
-                    for msg in reversed(self.messages):
-                        if msg.get("role") == "tool":
-                            content = str(msg.get("content", ""))
-                            if '"task_id":' in content and '"status": "selected"' in content:
-                                try:
-                                    data = json.loads(content)
-                                    target_task_id = data.get("task_id")
-                                    if target_task_id:
-                                        break
-                                except:
-                                    pass
-
-                    if target_task_id and "solution_submit" in self.tool_map:
-                        print(f"{Fore.GREEN}✅ Emergency circuit breaker succeeded! Task {target_task_id} has been forcibly removed.{Style.RESET_ALL}")
-
-                        try:
-                            fake_reasoning = f"System Error encountered. Forcing submission to skip Task {target_task_id}."
-
-                            force_args = {
-                                "task_id": str(target_task_id),
-                                "solution_text": "SYSTEM_FORCE_QUIT: API Error / Loop Detected. Skipping."
-                            }
-
-                            tool_result = self.tool_map["solution_submit"](**force_args)
-
-                            mock_tool_call_id = f"call_force_quit_{int(time.time())}"
-
-                            mock_tool_call = {
-                                "id": mock_tool_call_id,
-                                "type": "function",
-                                "function": {
-                                    "name": "solution_submit",
-                                    "arguments": json.dumps(force_args)
-                                }
-                            }
-
-                            self.messages.append({
-                                "role": "assistant",
-                                "content": fake_reasoning,
-                                "tool_calls": [mock_tool_call]
-                            })
-
-                            self.messages.append({
-                                "role": "tool",
-                                "tool_call_id": mock_tool_call_id,
-                                "content": str(tool_result)
-                            })
-
-                            serialized_result = self._serialize_tool_result(tool_result)
-                            self.response_inputs.append({
-                                "type": "function_call",
-                                "call_id": mock_tool_call_id,
-                                "name": "solution_submit",
-                                "arguments": json.dumps(force_args)
-                            })
-                            self.response_inputs.append({
-                                "type": "function_call_output",
-                                "call_id": mock_tool_call_id,
-                                "output": serialized_result
-                            })
-
-                            all_messages.append(SimpleMessage(
-                                role="assistant",
-                                content=fake_reasoning,
-                                tool_calls=[mock_tool_call]
-                            ))
-                            all_messages.append(SimpleMessage(
-                                role="tool",
-                                content=serialized_result
-                            ))
-
-                            force_tool_exec = SimpleToolExecution(
-                                tool_call_id=mock_tool_call_id,
-                                tool_name="solution_submit",
-                                tool_args=force_args,
-                                tool_call_error=False,
-                                result=tool_result
-                            )
-
-                            print(f"{Fore.GREEN}✅ Emergency circuit breaker succeeded! Task {target_task_id} has been forcibly removed.{Style.RESET_ALL}")
-
-                            return SimpleRunOutput(
-                                content=fake_reasoning,
-                                messages=all_messages,
-                                metrics=total_metrics,
-                                tools=[force_tool_exec],
-                                status=SimpleRunStatus.completed
-                            )
-
-                        except Exception as inner_e:
-                            print(f"{Fore.RED}❌ Emergency circuit breaker execution failed: {inner_e}{Style.RESET_ALL}")
-                            raise e
-                    else:
-                        print(f"{Fore.RED}❌ Unable to find active task ID or missing solution_submit tool, circuit breaker cannot proceed.{Style.RESET_ALL}")
-                        raise e
-
-                wait_time = self.retry_delay
-                print(f"{Fore.RED}⚠️ LLM call exception: {e}. Retrying attempt {attempt + 1} (waiting {wait_time:.1f}s)...{Style.RESET_ALL}")
-                time.sleep(self.retry_delay)
-
-        call_duration = time.time() - call_start_time
-        if total_metrics.duration is None:
-            total_metrics.duration = 0
-        total_metrics.duration += call_duration
-
-        if response and hasattr(response, "usage"):
-            usage = response.usage
-            if usage:
-                total_metrics.input_tokens += getattr(usage, "input_tokens", 0) or getattr(usage, "prompt_tokens", 0) or 0
-                total_metrics.output_tokens += getattr(usage, "output_tokens", 0) or getattr(usage, "completion_tokens", 0) or 0
-                if getattr(usage, "total_tokens", None) is not None:
-                    total_metrics.total_tokens += getattr(usage, "total_tokens", 0) or 0
-                else:
-                    total_metrics.total_tokens = total_metrics.input_tokens + total_metrics.output_tokens
-        if total_metrics.total_tokens == 0:
-            total_metrics.total_tokens = total_metrics.input_tokens + total_metrics.output_tokens
-
-        output_items = list(getattr(response, "output", []) or [])
-
-        tool_calls_list = []
-        final_content = getattr(response, "output_text", None) if response is not None else None
-        msg_metrics = SimpleMetrics(duration=call_duration)
-
-        for item in output_items:
-            item_type = self._get_response_item_type(item)
-            if item_type == "function_call":
-                func_name = getattr(item, "name", None) or (item.get("name") if isinstance(item, dict) else "unknown")
-                args_raw = getattr(item, "arguments", "{}") if not isinstance(item, dict) else item.get("arguments", "{}")
-                call_id = getattr(item, "call_id", None) or getattr(item, "id", None)
-                if isinstance(item, dict):
-                    call_id = item.get("call_id") or item.get("id")
-                if not call_id:
-                    call_id = f"call_{int(time.time() * 1000)}"
-
-                self.response_inputs.append(item)
-
-                if func_name.startswith("functions."):
-                    func_name = func_name.replace("functions.", "", 1)
-
-                tool_calls_list.append({
-                    "id": call_id,
-                    "type": "function",
-                    "function": {
-                        "name": func_name,
-                        "arguments": args_raw
-                    }
-                })
-
-                args = self._parse_tool_arguments(args_raw)
-                output_str = f"   ⚙️  Executing: {func_name}({args})"[:100]
-                print(output_str)
-
-                tool_exec = SimpleToolExecution(
-                    tool_call_id=call_id,
-                    tool_name=func_name,
-                    tool_args=args
-                )
-
-                if func_name in self.tool_map:
-                    try:
-                        result = self.tool_map[func_name](**args)
-                        tool_exec.result = result
-                        tool_exec.tool_call_error = False
-                    except Exception as e:
-                        result = f"Error: {e}"
-                        tool_exec.result = result
-                        tool_exec.tool_call_error = True
-                else:
-                    result = "Error: Tool not found"
-                    tool_exec.result = result
-                    tool_exec.tool_call_error = True
-
-                all_tools.append(tool_exec)
-
-                tool_output_payload = self._serialize_tool_result(result)
-                self.response_inputs.append({
-                    "type": "function_call_output",
-                    "call_id": call_id,
-                    "output": tool_output_payload
-                })
-                self.messages.append({
-                    "role": "tool",
-                    "tool_call_id": call_id,
-                    "content": tool_output_payload
-                })
-                all_messages.append(SimpleMessage(
-                    role="tool",
-                    content=tool_output_payload
-                ))
-                print(f"   👀 Observation: {tool_output_payload[:100]}")
-
-        assistant_msg_dict = {
-            "role": "assistant",
-            "content": final_content or ""
-        }
-        if tool_calls_list:
-            assistant_msg_dict["tool_calls"] = tool_calls_list
-        self.messages.append(assistant_msg_dict)
-
-        simple_message = SimpleMessage(
-            role="assistant",
-            content=final_content if final_content is not None else "",
-            tool_calls=tool_calls_list or None,
-            metrics=msg_metrics
-        )
-        all_messages.append(simple_message)
-
-        if final_content is not None:
-            print(f"🤖 Agent: {final_content[:100]}")
-        else:
-            print(f"🤖 Agent: {final_content}")
-
-        return SimpleRunOutput(
-            content=final_content,
-            messages=all_messages,
-            metrics=total_metrics,
-            tools=all_tools if all_tools else None,
-            status=SimpleRunStatus.completed,
-            reasoning_content=None
         )

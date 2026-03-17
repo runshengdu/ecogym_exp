@@ -19,6 +19,7 @@ import sys
 import json
 import yaml
 import argparse
+import inspect
 import logging
 import uuid
 import re
@@ -27,7 +28,6 @@ import tempfile
 import shutil
 from pathlib import Path
 from datetime import datetime
-from dotenv import load_dotenv
 from typing import List, Callable, Dict, Any, Optional
 from textwrap import dedent
 from functools import partial
@@ -41,9 +41,14 @@ if agno_lib_path not in sys.path:
 sys.path.append(os.path.join(script_dir, "config"))
 
 from agno.agent.agent import Agent
-from openai import OpenAI
 from agno.tools.vending.timer import TimerTools
 from agno.run.base import RunStatus
+from agno.utils.model_registry import (
+    get_model_config,
+    get_model_request_params,
+    create_openai_client,
+    load_models_registry,
+)
 
 sys.path.insert(0, repo_root)
 from memory.manager import MemoryManager
@@ -52,8 +57,6 @@ sys.path.append(os.path.join(repo_root, "utils"))
 from colored_logging import setup_colored_logging, add_file_handler
 from stdout_filter import install_stdout_filter
 from session_manager import SessionManager
-
-load_dotenv()
 
 install_stdout_filter()
 
@@ -155,7 +158,6 @@ class BenchmarkLauncher(object):
     def __init__(
         self,
         benchmark_type: str,
-        env_path: str,
         model_name: str,
         tools: List[Callable],
         state: Dict[str, Any],
@@ -217,26 +219,25 @@ class BenchmarkLauncher(object):
                 self.logger.error(str(e))
                 raise
 
-        load_dotenv(env_path)
-        
-        model_supplier = self._get_model_supplier(model_name)
-        env_model_supplier = self._get_model_supplier(env_model_name) if env_model_name else model_supplier
-        
-        api_key = self._get_api_credentials(model_supplier)['key']
-        api_url = self._get_api_credentials(model_supplier)['url']
-        env_api_key = self._get_api_credentials(env_model_supplier)['key']
-        env_api_url = self._get_api_credentials(env_model_supplier)['url']
-        
         timeout = timeout if timeout is not None else 120.0
 
         self.env_model_name = env_model_name
 
-        model = OpenAI(api_key=api_key, base_url=api_url, timeout=timeout)
-        env_model = OpenAI(api_key=env_api_key, base_url=env_api_url, timeout=timeout)
+        model_config = get_model_config(model_name)
+        env_model_config = get_model_config(env_model_name) if env_model_name else model_config
+        model = create_openai_client(model_config, timeout=timeout)
+        env_model = create_openai_client(env_model_config, timeout=timeout)
+        self.model_request_params = get_model_request_params(model_config)
+        self.env_model_request_params = get_model_request_params(env_model_config)
 
         self.use_memory = memory_config.get('use_memory', False)
         if self.use_memory:
-            self.memory_manager = MemoryManager(model_name=self.env_model_name, memory_config=memory_config, llm_client=env_model)
+            self.memory_manager = MemoryManager(
+                model_name=self.env_model_name,
+                memory_config=memory_config,
+                llm_client=env_model,
+                request_params=self.env_model_request_params,
+            )
 
         self.state_context_keys = state_context_keys
 
@@ -245,7 +246,11 @@ class BenchmarkLauncher(object):
         self.session_id = resume_session_id if resume_session_id else f"{benchmark_type}_{self.start_time}"
         self.logger.info(f"Session ID: {self.session_id}")
 
-        self.session_manager = SessionManager(self.session_id)
+        self.session_manager = SessionManager(
+            self.session_id,
+            model_name=self.model_name,
+            create_if_missing=not self.is_resuming
+        )
 
         self.session_log_dir = str(self.session_manager.session_dir)
 
@@ -318,15 +323,19 @@ class BenchmarkLauncher(object):
                     self.logger.warning(f"Failed to copy original config file: {e}")
 
         use_responses_api = model_name.startswith("closed_5.2_calling_pipeline")
-        self.agent = Agent(
-            model=model,
-            tools=tools,
-            instructions=system_prompt,
-            model_id=model_name,
-            initial_session_state=initial_state,
-            history_limit=history_limit,
-            use_responses_api=use_responses_api,
-        )
+        agent_kwargs = {
+            "model": model,
+            "tools": tools,
+            "instructions": system_prompt,
+            "model_id": model_name,
+            "initial_session_state": initial_state,
+            "history_limit": history_limit,
+            "request_params": self.model_request_params,
+        }
+        if "use_responses_api" in inspect.signature(Agent.__init__).parameters:
+            agent_kwargs["use_responses_api"] = use_responses_api
+        self.agent = Agent(**agent_kwargs)
+        setattr(self.agent, "use_responses_api", use_responses_api)
 
         self.timer_tools = None
         for tool in tools:
@@ -402,43 +411,6 @@ class BenchmarkLauncher(object):
         if "all_tasks_db" in light_state:
             light_state.pop("all_tasks_db")
         return light_state
-
-    def _get_model_supplier(self, model_name: str) -> str:
-        """Get supplier for specified model from token_pricing config"""
-        if not self.token_pricing or model_name not in self.token_pricing:
-            self.logger.warning(f"Model '{model_name}' not found in pricing config, defaulting to 'mtu' supplier")
-            return "mtu"
-        
-        pricing_config = self.token_pricing[model_name]
-        supplier = pricing_config.get("supplier", "mtu")
-        return supplier
-    
-    def _get_api_credentials(self, supplier: str) -> Dict[str, str]:
-        """Get API credentials for specified supplier"""
-        supplier_upper = supplier.upper()
-        
-        # Try supplier-specific credentials (supports both BASE_URL and API_URL for compatibility)
-        api_key = os.getenv(f"{supplier_upper}_API_KEY")
-        api_url = os.getenv(f"{supplier_upper}_BASE_URL") or os.getenv(f"{supplier_upper}_API_URL")
-        
-        if not api_key or not api_url:
-            # Fallback to standard OpenAI environment variables
-            self.logger.warning(
-                f"Supplier-specific credentials ({supplier_upper}_API_KEY, {supplier_upper}_BASE_URL) not found, "
-                f"falling back to OPENAI_API_KEY and OPENAI_BASE_URL"
-            )
-            api_key = os.getenv("OPENAI_API_KEY")
-            api_url = os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL")
-        
-        if not api_key or not api_url:
-            raise ValueError(
-                f"API credentials not found for supplier '{supplier}'. "
-                f"Please set {supplier_upper}_API_KEY and {supplier_upper}_BASE_URL in .env file, "
-                f"or set OPENAI_API_KEY and OPENAI_BASE_URL as fallback."
-            )
-        
-        self.logger.info(f"Using {supplier} supplier with URL: {api_url}")
-        return {"key": api_key, "url": api_url}
 
     def get_token_price(self, model_name: str) -> Dict[str, float]:
         """Get token pricing for specified model"""
@@ -1098,7 +1070,7 @@ def load_benchmark_specific_modules(benchmark_type: str, config: Dict[str, Any],
         supplier_tools = SupplierCommunicationTools(
             product_db_path=supplier_config.get("product_db_path", "data/vending/products.jsonl"),
             use_embeddings=supplier_config.get("use_embeddings", True),
-            embedding_model=supplier_config.get("embedding_model", "text-embedding-3-small"),
+            embedding_model=supplier_config.get("embedding_model", "openai/text-embedding-3-small"),
             model_pricing_config_path=model_pricing_path,
         )
 
@@ -1383,7 +1355,7 @@ if __name__ == '__main__':
                     last_step = metadata.get('last_step', 0)
                     status = metadata.get('status', 'unknown')
                     logger.info(f"{idx:<6} {session_id:<40} {last_update:<25} {last_step:<8} {status:<12}")
-                logger.info("\nUse --resume <session_id> to resume a specific session\n")
+                logger.info("\nUse --resume <session_id_or_path> to resume a specific session\n")
             sys.exit(0)
 
         config = load_config(args.config_path + args.config_name)
@@ -1393,7 +1365,7 @@ if __name__ == '__main__':
 
         resume_session_id = args.resume
         if resume_session_id:
-            session_mgr = SessionManager(resume_session_id)
+            session_mgr = SessionManager(resume_session_id, create_if_missing=False)
             if not session_mgr.can_resume():
                 logger.error(f"Unable to resume session {resume_session_id}, session does not exist or status does not allow resume")
                 logger.error(f"\nError: Unable to resume session {resume_session_id}")
@@ -1406,16 +1378,22 @@ if __name__ == '__main__':
 
             saved_config = resume_info['metadata'].get('config', {})
             if not args.model_name and saved_config:
-                model_name = saved_config.get('model_name', config["model_config"]["model_name"])
+                model_name = saved_config.get('model_name')
             else:
-                model_name = args.model_name if args.model_name else config["model_config"]["model_name"]
+                model_name = args.model_name
         else:
-            model_name = args.model_name if args.model_name else config["model_config"]["model_name"]
+            model_name = args.model_name
+
+        if not model_name:
+            raise ValueError("Model name must be provided via --model_name or resume session metadata.")
 
         max_steps = args.max_steps if args.max_steps else config["run_settings"]["max_steps"]
 
         timeout = config.get("model_config", {}).get("timeout", 120.0)
-        env_model_name = config.get("model_config", {}).get("env_model_name", model_name)
+        env_model_name = None
+        if resume_session_id and saved_config:
+            env_model_name = saved_config.get("env_model_name")
+        env_model_name = env_model_name or model_name
 
         config_file_path = args.config_path + args.config_name
         benchmark_modules = load_benchmark_specific_modules(args.benchmark_type_full, config, logger, config_file_path)
@@ -1432,6 +1410,27 @@ if __name__ == '__main__':
                 token_pricing = pricing_data.get("token_pricing", {})
         else:
             token_pricing = config.get("model_config", {}).get("token_pricing", {})
+
+        try:
+            registry = load_models_registry()
+            registry_models = set(registry.keys())
+            pricing_models = set(token_pricing.keys())
+
+            missing_from_registry = pricing_models - registry_models
+            missing_from_pricing = registry_models - pricing_models
+
+            if missing_from_registry:
+                logger.warning(
+                    "Pricing config contains models not in models.yaml: "
+                    + ", ".join(sorted(missing_from_registry))
+                )
+            if missing_from_pricing:
+                logger.warning(
+                    "models.yaml contains models without pricing entries: "
+                    + ", ".join(sorted(missing_from_pricing))
+                )
+        except Exception as e:
+            logger.warning(f"Failed to validate model_pricing vs models.yaml: {e}")
 
         max_actions_per_day = config.get("run_settings", {}).get("max_actions_per_day", None)
 
@@ -1460,7 +1459,6 @@ if __name__ == '__main__':
         
         benchmark_launcher = BenchmarkLauncher(
             benchmark_type=args.benchmark_type_full,
-            env_path=config["run_settings"]["env_path"],
             model_name=model_name,
             tools=all_tools,
             state=config["initial_state"],

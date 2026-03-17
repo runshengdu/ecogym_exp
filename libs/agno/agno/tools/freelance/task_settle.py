@@ -22,10 +22,13 @@ import yaml
 import statistics
 import re
 from typing import Dict, Any, Optional
-from dotenv import load_dotenv
 from openai import OpenAI
+from agno.utils.model_registry import (
+    get_model_config,
+    get_model_request_params,
+    create_openai_client,
+)
 from agno.tools.toolkit import Toolkit
-
 from agno.tools.freelance.task_final_price import TaskSettlementTools
 
 class TaskExecutionTools(Toolkit):
@@ -43,18 +46,13 @@ class TaskExecutionTools(Toolkit):
         self.config_path = config_path
         self.config = self._load_config(config_path)
         
-        env_path = self.config.get("system_config", {}).get("env_path")
-        if env_path: load_dotenv(env_path)
-        
-        self.api_key = api_key or os.getenv("OPENAI_API_KEY") or os.environ.get("API_KEY")
-        self.api_url = api_url or os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL") or os.getenv("API_URL")
-        
-        if self.api_key: self.client = OpenAI(api_key=self.api_key, base_url=self.api_url)
-        else: self.client = None
-            
+        self.client = None
+        self._model_clients: Dict[str, OpenAI] = {}
+        self._model_request_params: Dict[str, Dict[str, Any]] = {}
+
         self.model = self.config.get("system_config", {}).get("defaults", {}).get("system_model", "gpt-4o-mini")
-        
-        self.settlement_tool = TaskSettlementTools(config_path=self.config_path, api_key=self.api_key, api_url=self.api_url)
+
+        self.settlement_tool = TaskSettlementTools(config_path=self.config_path)
 
         super().__init__(
             name="task_execution_tools",
@@ -231,7 +229,11 @@ class TaskExecutionTools(Toolkit):
         return normalize(ref_sol) in normalize(user_sol)
 
     def _llm_eval(self, question: str, solution: str, reference: str) -> bool:
-        if not self.client: return False
+        if not self.client and self.model not in self._model_clients:
+            self._ensure_client(self.model)
+        if not self._model_clients.get(self.model):
+            return False
+
         prompt = f"""
         Compare the User Solution to the Reference Answer.
         Question: {question}
@@ -241,10 +243,10 @@ class TaskExecutionTools(Toolkit):
         Output JSON: {{"is_correct": true}} or false.
         """
         try:
-            res = self.client.chat.completions.create(
+            res = self._model_clients[self.model].chat.completions.create(
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],
-                temperature=0
+                **self._model_request_params.get(self.model, {"temperature": 0}),
             )
             content = res.choices[0].message.content
             
@@ -257,6 +259,21 @@ class TaskExecutionTools(Toolkit):
             return False
         except: 
             return False
+
+    def _ensure_client(self, model_name: str) -> None:
+        if model_name in self._model_clients:
+            return
+
+        try:
+            model_config = get_model_config(model_name)
+            client = create_openai_client(model_config)
+            params = get_model_request_params(model_config)
+            if "temperature" not in params:
+                params["temperature"] = 0
+            self._model_clients[model_name] = client
+            self._model_request_params[model_name] = params
+        except Exception as e:
+            print(f"[Warn] TaskExecutionTools: Failed to init client for {model_name}: {e}")
 
     def _load_config(self, path: str) -> Dict:
         if os.path.exists(path):

@@ -16,10 +16,9 @@
 # limitations under the License.
 
 run_settings:
-  env_path: ".env"
-  max_steps: 2000
-  max_days: 365
-  no_sales_days_threshold: 365
+  max_steps: 200
+  max_days: 30
+  no_sales_days_threshold: 30
   max_actions_per_day: 4
   history_limit: 128
   excluded_tools_from_count: ["task_done"]
@@ -37,7 +36,7 @@ memory_config:
   general_config:
     total_prompt_limit: 15
     embedding_config:
-      model: "text-embedding-3-small"
+      model: "openai/text-embedding-3-small"
 
   modules:
     rolling_window:
@@ -78,7 +77,7 @@ tools_config:
   supplier:
     product_db_path: "./data/vending/products.jsonl"  
     use_embeddings: true  
-    embedding_model: "text-embedding-3-small"  
+    embedding_model: "openai/text-embedding-3-small"  
 initial_state:
   money: 100
   day: 0

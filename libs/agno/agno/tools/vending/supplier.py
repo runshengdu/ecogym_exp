@@ -34,7 +34,7 @@ class SupplierCommunicationTools(Toolkit):
         self,
         product_db_path: str = "data/vending/products.jsonl",
         use_embeddings: bool = True,
-        embedding_model: str = "text-embedding-3-small",
+        embedding_model: str = "openai/text-embedding-3-small",
         model_pricing_config_path: Optional[str] = None,
         add_instructions: bool = True,
         **kwargs: Any,

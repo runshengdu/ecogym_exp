@@ -23,8 +23,13 @@ import time
 import re
 import statistics
 from typing import List, Dict, Any, Optional
-from dotenv import load_dotenv
 from openai import OpenAI
+
+from agno.utils.model_registry import (
+    get_model_config,
+    get_model_request_params,
+    create_openai_client,
+)
 
 from agno.tools.toolkit import Toolkit
 
@@ -39,22 +44,14 @@ class TaskSettlementTools(Toolkit):
     2. Automated Negotiation: Simulates a negotiation process between the worker and the system to determine the final payment.
     3. Failure Handling: Enforces zero payment policies for failed tasks.
     """
-    def __init__(self, config_path: str = "./freelance_bench_config.yaml", api_key: Optional[str] = None, api_url: Optional[str] = None, add_instructions: bool = True, **kwargs: Any):
+    def __init__(self, config_path: str = "./freelance_bench_config.yaml", add_instructions: bool = True, **kwargs: Any):
         self.config_path = config_path
         self.config = self._load_config(config_path)
         
-        env_path = self.config.get("system_config", {}).get("env_path")
-        if env_path: load_dotenv(env_path)
-            
-        self.api_key = api_key or os.getenv("OPENAI_API_KEY") or os.environ.get("API_KEY")
-        self.api_url = api_url or os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL") or os.getenv("API_URL")
+        self.client = None
+        self._model_clients: Dict[str, OpenAI] = {}
+        self._model_request_params: Dict[str, Dict[str, Any]] = {}
         
-        if self.api_key:
-            self.client = OpenAI(api_key=self.api_key, base_url=self.api_url)
-        else:
-            self.client = None
-            print("[Warn] TaskSettlementTools: OpenAI API Key is missing.")
-
         self.sys_conf = self.config.get("system_config", {})
         self.temperature = self.sys_conf.get("temperature", 1.0)
         self.top_p = self.sys_conf.get("top_p", 0.95)
@@ -86,12 +83,6 @@ class TaskSettlementTools(Toolkit):
                 "negotiation_history": "Round 1: Agent asked $10..." 
             }
         """
-        if not self.client:
-            return json.dumps({
-                "status": "error", 
-                "message": "OpenAI Client not initialized."
-            }, ensure_ascii=False)
-
         if session_state:
             if init_money is None: init_money = session_state.get("init_money", 5.0)
             if init_effort is None: init_effort = session_state.get("init_effort", 5.0)
@@ -144,6 +135,7 @@ class TaskSettlementTools(Toolkit):
                 negotiation_history=negotiation_history_text
             )
             agent_res = self._call_llm(agent_prompt, model_name=agent_model)
+
             agent_ask = float(agent_res.get("proposed_money", current_system_offer))
             agent_reason = agent_res.get("reasoning", "No reason")[:100]
 
@@ -164,6 +156,7 @@ class TaskSettlementTools(Toolkit):
                 negotiation_history=negotiation_history_text
             )
             sys_res = self._call_llm(sys_prompt, model_name=system_model)
+
             system_offer = float(sys_res.get("proposed_money", init_money))
             sys_reason = sys_res.get("reasoning", "No reason")[:100]
 
@@ -214,16 +207,50 @@ class TaskSettlementTools(Toolkit):
         
         return {}
 
+    def _get_client_and_params(self, model_name: str) -> Optional[Dict[str, Any]]:
+        if model_name in self._model_clients:
+            return {
+                "client": self._model_clients[model_name],
+                "params": self._model_request_params.get(model_name, {})
+            }
+
+        try:
+            model_config = get_model_config(model_name)
+        except Exception as e:
+            print(f"[Warn] TaskSettlementTools: {e}")
+            return None
+
+        try:
+            client = create_openai_client(model_config)
+        except Exception as e:
+            print(f"[Warn] TaskSettlementTools: Failed to create client for {model_name}: {e}")
+            return None
+
+        params = get_model_request_params(model_config)
+        if "temperature" not in params:
+            params["temperature"] = self.temperature
+
+        self._model_clients[model_name] = client
+        self._model_request_params[model_name] = params
+
+        return {"client": client, "params": params}
+
     def _call_llm(self, prompt: str, model_name: str) -> Dict[str, Any]:
+        client_bundle = self._get_client_and_params(model_name)
+        if not client_bundle:
+            return {}
+
+        client = client_bundle["client"]
+        params = dict(client_bundle["params"])
         for attempt in range(self.max_retries):
             try:
-                response = self.client.chat.completions.create(
+                response = client.chat.completions.create(
                     model=model_name,
                     messages=[
                         {"role": "system", "content": "You are a helpful assistant that outputs strict JSON."},
                         {"role": "user", "content": prompt}
                     ],
-                    temperature=self.temperature,
+                    **params,
                 )
                 return self._extract_json(response.choices[0].message.content)
             except Exception as e:

@@ -65,7 +65,7 @@ Configure your API key and model pricing:
 python main.py --type {vending, freelance, operation}
 ```
 
-Results will be saved to `logs/sessions/{session_id}/`
+Results will be saved to `logs/sessions/{model_name}/{session_id}/`
 
 ## 🙏 Acknowledgements
 

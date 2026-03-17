@@ -16,7 +16,6 @@
 # limitations under the License.
 
 run_settings:
-  env_path: ".env"
   max_steps: 1000
   max_days: 365
   min_dau_threshold: 100
@@ -38,7 +37,7 @@ memory_config:
     total_prompt_limit: 15
     embedding_config:
       provider: "openai"
-      model: "text-embedding-3-small"
+      model: "openai/text-embedding-3-small"
 
   modules:
     rolling_window:

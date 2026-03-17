@@ -25,6 +25,9 @@ from pathlib import Path
 import pickle
 
 
+from agno.utils.model_registry import get_model_config, create_openai_client
+
+
 class ProductDatabase:
     """Offline product database with semantic search capabilities."""
     
@@ -32,7 +35,7 @@ class ProductDatabase:
         self, 
         jsonl_path: str = "data/vending/products.jsonl",
         use_embeddings: bool = True,
-        embedding_model: str = "text-embedding-3-small",
+        embedding_model: str = "openai/text-embedding-3-small",
         cache_embeddings: bool = True,
         model_pricing_config_path: Optional[str] = None
     ):
@@ -81,46 +84,18 @@ class ProductDatabase:
         
         print(f"Loaded {len(self.products)} products from {self.jsonl_path}")
     
-    def _get_embedding_supplier(self) -> str:
-        """Get the supplier for the embedding model from pricing config."""
-        if not self.model_pricing_config_path:
-            return "mtu"
-        
+    def _get_embedding_client(self):
+        if self.embedding_client:
+            return self.embedding_client
+
         try:
-            config_path = Path(self.model_pricing_config_path)
-            if not config_path.exists():
-                print(f"Warning: Model pricing config not found at {config_path}, using default supplier 'mtu'")
-                return "mtu"
-            
-            with open(config_path, 'r', encoding='utf-8') as f:
-                config = yaml.safe_load(f)
-            
-            token_pricing = config.get("token_pricing", {})
-            if self.embedding_model in token_pricing:
-                supplier = token_pricing[self.embedding_model].get("supplier", "mtu")
-                print(f"Using supplier '{supplier}' for embedding model '{self.embedding_model}'")
-                return supplier
-            else:
-                print(f"Warning: Embedding model '{self.embedding_model}' not found in pricing config, using default supplier 'mtu'")
-                return "mtu"
+            model_config = get_model_config(self.embedding_model)
+            self.embedding_client = create_openai_client(model_config)
+            return self.embedding_client
         except Exception as e:
-            print(f"Warning: Failed to load model pricing config: {e}, using default supplier 'mtu'")
-            return "mtu"
-    
-    def _get_api_credentials(self, supplier: str) -> Dict[str, Optional[str]]:
-        """Get API credentials for specified supplier."""
-        supplier_upper = supplier.upper()
-        
-        api_key = os.getenv(f"{supplier_upper}_API_KEY")
-        api_url = os.getenv(f"{supplier_upper}_API_URL")
-        
-        if not api_key or not api_url:
-            print(f"Supplier-specific credentials ({supplier_upper}_API_KEY, {supplier_upper}_BASE_URL) not found, "
-                  f"falling back to OPENAI_API_KEY and OPENAI_BASE_URL")
-            api_key = os.getenv("OPENAI_API_KEY") or os.getenv("API_KEY")
-            api_url = os.getenv("OPENAI_BASE_URL") or os.getenv("OPENAI_API_URL") or os.getenv("API_URL")
-        
-        return {"api_key": api_key, "base_url": api_url}
+            print(f"Error: Unable to initialize embedding client for '{self.embedding_model}': {e}")
+            self.use_embeddings = False
+            return None
     
     def _get_embedding_cache_path(self) -> Path:
         """Get path for embedding cache file."""
@@ -159,30 +134,8 @@ class ProductDatabase:
             self.embeddings = np.array([])
             return
         
-        try:
-            from openai import OpenAI
-            
-            supplier = self._get_embedding_supplier()
-            credentials = self._get_api_credentials(supplier)
-            
-            api_key = credentials.get("api_key")
-            api_url = credentials.get("base_url")
-            
-            if not api_key:
-                print(f"Error: No API key found for supplier '{supplier}'. "
-                      f"Please set {supplier.upper()}_API_KEY or API_KEY/OPENAI_API_KEY environment variable.")
-                self.use_embeddings = False
-                return
-            
-            client_kwargs = {"api_key": api_key}
-            if api_url:
-                client_kwargs["base_url"] = api_url
-                print(f"Using API URL: {api_url}")
-            
-            self.embedding_client = OpenAI(**client_kwargs)
-        except ImportError:
-            print("Error: openai package not installed. Install with: pip install openai")
-            self.use_embeddings = False
+        self.embedding_client = self._get_embedding_client()
+        if not self.embedding_client:
             return
         
         texts = []
@@ -212,27 +165,8 @@ class ProductDatabase:
     def _get_query_embedding(self, query: str) -> np.ndarray:
         """Get embedding for a search query."""
         if not self.embedding_client:
-            try:
-                from openai import OpenAI
-                
-                # Get supplier and credentials based on model pricing config
-                supplier = self._get_embedding_supplier()
-                credentials = self._get_api_credentials(supplier)
-                
-                api_key = credentials.get("api_key")
-                api_url = credentials.get("base_url")
-                
-                if not api_key:
-                    print(f"Error: No API key found for supplier '{supplier}'. "
-                          f"Please set {supplier.upper()}_API_KEY or API_KEY/OPENAI_API_KEY environment variable.")
-                    return np.array([])
-                
-                client_kwargs = {"api_key": api_key}
-                if api_url:
-                    client_kwargs["base_url"] = api_url
-                
-                self.embedding_client = OpenAI(**client_kwargs)
-            except ImportError:
+            self.embedding_client = self._get_embedding_client()
+            if not self.embedding_client:
                 return np.array([])
         
         try:
