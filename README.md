@@ -4,7 +4,7 @@ EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economi
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv Paper"></a>
+  <a href="https://arxiv.org/abs/2602.09514"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv Paper"></a>
   <a href="#"><img src="https://img.shields.io/badge/HuggingFace-Dataset-ff9800?style=flat&logo=huggingface" alt="Hugging Face Dataset"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10-3776ab?style=flat&logo=python&logoColor=white" alt="Python 3.10"></a>
 </p>
