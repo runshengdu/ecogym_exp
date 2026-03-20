@@ -1,0 +1,4247 @@
+{
+  "step": 381,
+  "timestamp": "2026-03-18T23:07:56.436843",
+  "state": {
+    "money": 527.2799999999997,
+    "day": 183,
+    "product_prices": {
+      "Pepsi 20oz Bottle": 1.99,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1.29,
+      "Factory Direct Party Confetti Party Poppers, 6-Count": 1.29,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 1.29,
+      "Mountain Dew 20oz Bottle": 1.29,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 5.49,
+      "Full Harvest Russet Potatoes 1 lb": 1.29,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.59,
+      "Bulk Jelly Babies 2 oz Bag": 1.29,
+      "Economy Produce Romaine Lettuce Head 1 ct": 3.49,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 4.29,
+      "Dr Pepper 20oz Bottle": 1.99,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2.49,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.99,
+      "Generic Liquid Bleach 1 Gallon Jug": 3.49,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 2.99
+    },
+    "product_quantities": {
+      "Pepsi 20oz Bottle": 222,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+      "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 80,
+      "Mountain Dew 20oz Bottle": 0,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+      "Full Harvest Russet Potatoes 1 lb": 0,
+      "Coca-Cola Zero Sugar 20oz Bottle": 0,
+      "Bulk Jelly Babies 2 oz Bag": 0,
+      "Economy Produce Romaine Lettuce Head 1 ct": 0,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 20,
+      "Dr Pepper 20oz Bottle": 26,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 100,
+      "Hershey's Assorted Miniatures 4 oz Bag": 25,
+      "Generic Liquid Bleach 1 Gallon Jug": 0,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 15
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Pepsi 20oz Bottle": 0.99,
+      "Factory Direct Party Confetti Party Poppers, 6-Count": 1.29,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0.99,
+      "Butterfinger Fun Size 5 oz Bag": 4.36,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Sprite 20oz Bottle": 0.99,
+      "Mountain Dew 20oz Bottle": 0.95,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Method Daily Shampoo 12 fl oz": 3.0,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 3.0,
+      "Head & Shoulders Classic Clean Dandruff Shampoo 13.5 fl oz": 4.5,
+      "Full Harvest Turnips 1 lb": 1.2,
+      "Kegel's Produce Fresh Ginger 1 lb": 2.7,
+      "Full Harvest Russet Potatoes 1 lb": 0.8,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.05,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1.24,
+      "Jelly Belly Assorted Jelly Beans 3.5 oz Bag": 2.17,
+      "Bulk Jelly Babies 2 oz Bag": 0.86,
+      "Economy Produce Green Leaf Lettuce Head 1 ct": 2.2,
+      "Economy Produce Romaine Lettuce Head 1 ct": 2.25,
+      "Economy Produce Cauliflower Head 1 ct": 3.25,
+      "Bitchin' Sauce Chipotle 8 oz": 3.0,
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle": 4.5,
+      "DiChickos Hot Peri-Peri Sauce 12 oz": 2.25,
+      "Quaker Cap'n Crunch Original 14 oz Box": 3.2,
+      "General Mills Cinnamon Toast Crunch 16.8 oz Box": 3.8,
+      "Kellogg's Corn Flakes 18 oz Box": 3.2,
+      "Generic Liquid Bleach 1 Gallon Jug": 2.5,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2.2,
+      "Generic Color Catcher Dye-Trapping Sheets 24-Count Box": 1.5,
+      "M&M's Milk Chocolate Fun Size 6 oz Bag": 3.09,
+      "Full Harvest Roma Tomatoes 1 lb": 1.9,
+      "Tide To Go Instant Stain Remover Pen 0.34 fl oz": 2.9,
+      "Generic Odor Eliminator Laundry Additive 16 fl oz": 3.5,
+      "Dr Pepper Cherry 20oz Bottle": 1.05,
+      "Dr Pepper 20oz Bottle": 1.0,
+      "Tresemme Pro Pure Conditioner 16 fl oz": 3.0,
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz": 4.13,
+      "Generic Delicates Laundry Wash Liquid 16 fl oz": 4.0,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 0.9,
+      "Monster Nitro Super Dry 16oz Can": 1.49,
+      "Monster Ultra Peachy Keen 16oz Can": 1.49,
+      "Mountain Dew SPARK 12oz Can (355ml)": 0.79,
+      "Kegel's Produce Eggplant 1 lb": 1.8,
+      "Oreo Ice Cream Sandwich 12-count": 1.52,
+      "Blue Bunny Vanilla Ice Cream Sandwich 24-count": 0.81,
+      "Oreo Ice Cream Sandwich 24-count": 0.76,
+      "Liquid Death Mountain Water 16.9 oz Can": 1.8,
+      "Hershey's Kisses Pink Foils 5 oz Bag": 4.58,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1.2,
+      "Generic Fabric Softener Dryer Sheets Lavender 80-Count Box": 1.6,
+      "Polar Seltzer Orange Vanilla 12 oz Can": 0.5,
+      "DollarDays Essentials Daily Shampoo 8 oz": 1.25,
+      "Blue Bunny Fudge Bar 24-count": 0.81,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1.95,
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)": 3.59,
+      "Generic 3-in-1 Laundry Pods 15g 20-Count Pouch": 1.8,
+      "Evian Natural Spring Water 500 ml Bottle": 1.1,
+      "Coca-Cola Original Taste 20oz Bottle": 1.05,
+      "Generic Oxygen Bleach Powder 1 lb Tub": 2.7,
+      "Blue Bunny Big Dipper Vanilla Cone 24-count": 1.1,
+      "Nature Valley Oats & Honey Granola 17 oz Bag": 4.8,
+      "Bob's Red Mill Honey Oat Granola 12 oz Bag": 2.64,
+      "Bob's Red Mill Classic Granola 12 oz Bag": 2.52,
+      "EcoStrong Recycled 20-30 Gallon Trash Bag 1.0 mil": 0.58
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {
+          "Pepsi 20oz Bottle": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 3.98
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 3.98
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 3.2800000000000002
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 5.07
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 6.76
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 4.77
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 4.77
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 2.7800000000000002
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 6.76
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 4.77
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 6.76
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 8.05
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 9.34
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 7.8500000000000005
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 7.55
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 8.45
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 4.97
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 6.46
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 2.19
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 4.38
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 5.67
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 5.67
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 4.38
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 2.19
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0
+        },
+        "revenue": 5.67
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0
+        },
+        "revenue": 5.67
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0
+        },
+        "revenue": 5.67
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0
+        },
+        "revenue": 5.67
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 0
+        },
+        "revenue": 12.66
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 1
+        },
+        "revenue": 12.06
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 1
+        },
+        "revenue": 12.06
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 0
+        },
+        "revenue": 13.260000000000002
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0
+        },
+        "revenue": 13.260000000000002
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0
+        },
+        "revenue": 14.850000000000001
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0
+        },
+        "revenue": 16.14
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 14.850000000000001
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 16.14
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 16.14
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 7.86
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 9.15
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 9.15
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 12.850000000000001
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 14.14
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2
+        },
+        "revenue": 17.84
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 11.65
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 14.14
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 16.04
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 14.750000000000002
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2
+        },
+        "revenue": 21.03
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 5.07
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 11.05
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 9.760000000000002
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.56
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.56
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 11.05
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2
+        },
+        "revenue": 18.340000000000003
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2
+        },
+        "revenue": 17.14
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 14.05
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 11.56
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 11.56
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2
+        },
+        "revenue": 17.14
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1
+        },
+        "revenue": 11.56
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 5.07
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.87
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.87
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3
+        },
+        "revenue": 12.34
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 4
+        },
+        "revenue": 14.830000000000002
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1
+        },
+        "revenue": 7.36
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2
+        },
+        "revenue": 9.850000000000001
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2
+        },
+        "revenue": 9.850000000000001
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1
+        },
+        "revenue": 7.36
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1
+        },
+        "revenue": 7.36
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1
+        },
+        "revenue": 7.0600000000000005
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1
+        },
+        "revenue": 9.05
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1
+        },
+        "revenue": 7.0600000000000005
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 7.0600000000000005
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 7.0600000000000005
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 8.350000000000001
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 9.55
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 9.55
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 9.55
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 9.55
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 14.530000000000001
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 9.05
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 13.24
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 12.540000000000001
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 9.55
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 13.24
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 14.030000000000001
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 12.540000000000001
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 13.24
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 10.05
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 14.530000000000001
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 14.530000000000001
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 13.24
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 12.540000000000001
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 8.260000000000002
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 7.76
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 9.05
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 16.82
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 13.24
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 16.32
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 14.82
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 17.310000000000002
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 16.020000000000003
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 15.32
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 18.310000000000002
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 14.030000000000001
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.34
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 18.11
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 15.82
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 17.020000000000003
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.34
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.84
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 1,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 13.33
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 15.82
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 4,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 16.61
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 15.82
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 15.82
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 12.540000000000001
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 4,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 19.6
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.84
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 15.82
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 17.020000000000003
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 12.540000000000001
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 16.32
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 12.540000000000001
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 12.540000000000001
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 1
+        },
+        "revenue": 15.030000000000001
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 9.55
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 14.030000000000001
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 14.030000000000001
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 3,
+          "Generic Liquid Bleach 1 Gallon Jug": 0
+        },
+        "revenue": 12.74
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.540000000000001
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Dr Pepper 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Factory Direct Party Confetti Party Poppers, 6-Count": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Full Harvest Russet Potatoes 1 lb": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 2,
+          "Generic Liquid Bleach 1 Gallon Jug": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.540000000000001
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 0,
+        "delivery_day": 7,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 7
+      },
+      {
+        "items": [
+          {
+            "name": "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 14.85,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Factory Direct Party Confetti Party Poppers, 6-Count",
+            "quantity": 12
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 15.48,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 3,
+        "delivery_day": 10,
+        "delivery_days": 7,
+        "total_cost": 16.8,
+        "delivered_day": 10
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 13,
+        "delivery_day": 20,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 20
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 29,
+        "delivery_day": 36,
+        "delivery_days": 7,
+        "total_cost": 39.6,
+        "delivered_day": 36
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 30,
+        "delivery_day": 37,
+        "delivery_days": 7,
+        "total_cost": 19.0,
+        "delivered_day": 37
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 38,
+        "delivery_day": 45,
+        "delivery_days": 7,
+        "total_cost": 16.8,
+        "delivered_day": 45
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 40,
+        "delivery_day": 47,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 47
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 41,
+        "delivery_day": 48,
+        "delivery_days": 7,
+        "total_cost": 16.8,
+        "delivered_day": 48
+      },
+      {
+        "items": [
+          {
+            "name": "Tresemme Pro Pure Shampoo 16 fl oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 42,
+        "delivery_day": 49,
+        "delivery_days": 7,
+        "total_cost": 30.0,
+        "delivered_day": 49
+      },
+      {
+        "items": [
+          {
+            "name": "Full Harvest Russet Potatoes 1 lb",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 43,
+        "delivery_day": 50,
+        "delivery_days": 7,
+        "total_cost": 12.0,
+        "delivered_day": 50
+      },
+      {
+        "items": [
+          {
+            "name": "Coca-Cola Zero Sugar 20oz Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 44,
+        "delivery_day": 51,
+        "delivery_days": 7,
+        "total_cost": 10.5,
+        "delivered_day": 51
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Jelly Babies 2 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 52,
+        "delivery_day": 59,
+        "delivery_days": 7,
+        "total_cost": 17.2,
+        "delivered_day": 59
+      },
+      {
+        "items": [
+          {
+            "name": "Economy Produce Romaine Lettuce Head 1 ct",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 53,
+        "delivery_day": 60,
+        "delivery_days": 7,
+        "total_cost": 33.75,
+        "delivered_day": 60
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 55,
+        "delivery_day": 62,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 62
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 14.85,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 67,
+        "delivery_day": 74,
+        "delivery_days": 7,
+        "total_cost": 16.8,
+        "delivered_day": 74
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 70,
+        "delivery_day": 77,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 77
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 74,
+        "delivery_day": 81,
+        "delivery_days": 7,
+        "total_cost": 49.5,
+        "delivered_day": 81
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 76,
+        "delivery_day": 83,
+        "delivery_days": 7,
+        "total_cost": 22.4,
+        "delivered_day": 83
+      },
+      {
+        "items": [
+          {
+            "name": "Dr Pepper 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 78,
+        "delivery_day": 85,
+        "delivery_days": 7,
+        "total_cost": 30.0,
+        "delivered_day": 85
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 80,
+        "delivery_day": 87,
+        "delivery_days": 7,
+        "total_cost": 27.0,
+        "delivered_day": 87
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 82,
+        "delivery_day": 89,
+        "delivery_days": 7,
+        "total_cost": 44.0,
+        "delivered_day": 89
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 4 oz Bag",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 82,
+        "delivery_day": 89,
+        "delivery_days": 7,
+        "total_cost": 56.25,
+        "delivered_day": 89
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 86,
+        "delivery_day": 93,
+        "delivery_days": 7,
+        "total_cost": 39.6,
+        "delivered_day": 93
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 88,
+        "delivery_day": 95,
+        "delivery_days": 7,
+        "total_cost": 16.8,
+        "delivered_day": 95
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 88,
+        "delivery_day": 95,
+        "delivery_days": 7,
+        "total_cost": 49.5,
+        "delivered_day": 95
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Liquid Bleach 1 Gallon Jug",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 90,
+        "delivery_day": 97,
+        "delivery_days": 7,
+        "total_cost": 75.0,
+        "delivered_day": 97
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 96,
+        "delivery_day": 103,
+        "delivery_days": 7,
+        "total_cost": 36.0,
+        "delivered_day": 103
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 60
+          }
+        ],
+        "status": "delivered",
+        "created_day": 103,
+        "delivery_day": 110,
+        "delivery_days": 7,
+        "total_cost": 59.4,
+        "delivered_day": 110
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 106,
+        "delivery_day": 113,
+        "delivery_days": 7,
+        "total_cost": 28.0,
+        "delivered_day": 113
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 112,
+        "delivery_day": 119,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 119
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 70
+          }
+        ],
+        "status": "delivered",
+        "created_day": 119,
+        "delivery_day": 126,
+        "delivery_days": 7,
+        "total_cost": 69.3,
+        "delivered_day": 126
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 124,
+        "delivery_day": 131,
+        "delivery_days": 7,
+        "total_cost": 49.5,
+        "delivered_day": 131
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 128,
+        "delivery_day": 135,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 135
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 136,
+        "delivery_day": 143,
+        "delivery_days": 7,
+        "total_cost": 28.0,
+        "delivered_day": 143
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "quantity": 80
+          }
+        ],
+        "status": "delivered",
+        "created_day": 145,
+        "delivery_day": 152,
+        "delivery_days": 7,
+        "total_cost": 72.0,
+        "delivered_day": 152
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 167,
+        "delivery_day": 174,
+        "delivery_days": 7,
+        "total_cost": 14.85,
+        "delivered_day": 174
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 168,
+        "delivery_day": 175,
+        "delivery_days": 7,
+        "total_cost": 16.8,
+        "delivered_day": 175
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 169,
+        "delivery_day": 176,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 176
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 172,
+        "delivery_day": 179,
+        "delivery_days": 7,
+        "total_cost": 14.0,
+        "delivered_day": 179
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 174,
+        "delivery_day": 181,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 181
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 174,
+        "delivery_day": 181,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 181
+      },
+      {
+        "items": [
+          {
+            "name": "Dr Pepper 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 176,
+        "delivery_day": 183,
+        "delivery_days": 7,
+        "total_cost": 20.0,
+        "delivered_day": 183
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "processing",
+        "created_day": 177,
+        "delivery_day": 184,
+        "delivery_days": 7,
+        "total_cost": 19.8
+      },
+      {
+        "items": [
+          {
+            "name": "EcoStrong Recycled 20-30 Gallon Trash Bag 1.0 mil",
+            "quantity": 20
+          }
+        ],
+        "status": "processing",
+        "created_day": 178,
+        "delivery_day": 185,
+        "delivery_days": 7,
+        "total_cost": 11.6
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "quantity": 30
+          }
+        ],
+        "status": "processing",
+        "created_day": 179,
+        "delivery_day": 186,
+        "delivery_days": 7,
+        "total_cost": 27.0
+      }
+    ],
+    "products": [
+      "Pepsi 20oz Bottle",
+      "Factory Direct Party Confetti Party Poppers, 6-Count",
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+      "Butterfinger Fun Size 5 oz Bag",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Sprite 20oz Bottle",
+      "Mountain Dew 20oz Bottle",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Method Daily Shampoo 12 fl oz",
+      "Tresemme Pro Pure Shampoo 16 fl oz",
+      "Head & Shoulders Classic Clean Dandruff Shampoo 13.5 fl oz",
+      "Full Harvest Turnips 1 lb",
+      "Kegel's Produce Fresh Ginger 1 lb",
+      "Full Harvest Russet Potatoes 1 lb",
+      "Coca-Cola Zero Sugar 20oz Bottle",
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+      "Jelly Belly Assorted Jelly Beans 3.5 oz Bag",
+      "Bulk Jelly Babies 2 oz Bag",
+      "Economy Produce Green Leaf Lettuce Head 1 ct",
+      "Economy Produce Romaine Lettuce Head 1 ct",
+      "Economy Produce Cauliflower Head 1 ct",
+      "Bitchin' Sauce Chipotle 8 oz",
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle",
+      "DiChickos Hot Peri-Peri Sauce 12 oz",
+      "Quaker Cap'n Crunch Original 14 oz Box",
+      "General Mills Cinnamon Toast Crunch 16.8 oz Box",
+      "Kellogg's Corn Flakes 18 oz Box",
+      "Generic Liquid Bleach 1 Gallon Jug",
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+      "Generic Color Catcher Dye-Trapping Sheets 24-Count Box",
+      "M&M's Milk Chocolate Fun Size 6 oz Bag",
+      "Full Harvest Roma Tomatoes 1 lb",
+      "Tide To Go Instant Stain Remover Pen 0.34 fl oz",
+      "Generic Odor Eliminator Laundry Additive 16 fl oz",
+      "Dr Pepper Cherry 20oz Bottle",
+      "Dr Pepper 20oz Bottle",
+      "Tresemme Pro Pure Conditioner 16 fl oz",
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz",
+      "Generic Delicates Laundry Wash Liquid 16 fl oz",
+      "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+      "Monster Nitro Super Dry 16oz Can",
+      "Monster Ultra Peachy Keen 16oz Can",
+      "Mountain Dew SPARK 12oz Can (355ml)",
+      "Kegel's Produce Eggplant 1 lb",
+      "Oreo Ice Cream Sandwich 12-count",
+      "Blue Bunny Vanilla Ice Cream Sandwich 24-count",
+      "Oreo Ice Cream Sandwich 24-count",
+      "Liquid Death Mountain Water 16.9 oz Can",
+      "Hershey's Kisses Pink Foils 5 oz Bag",
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box",
+      "Generic Fabric Softener Dryer Sheets Lavender 80-Count Box",
+      "Polar Seltzer Orange Vanilla 12 oz Can",
+      "DollarDays Essentials Daily Shampoo 8 oz",
+      "Blue Bunny Fudge Bar 24-count",
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)",
+      "Generic 3-in-1 Laundry Pods 15g 20-Count Pouch",
+      "Evian Natural Spring Water 500 ml Bottle",
+      "Coca-Cola Original Taste 20oz Bottle",
+      "Generic Oxygen Bleach Powder 1 lb Tub",
+      "Blue Bunny Big Dipper Vanilla Cone 24-count",
+      "Nature Valley Oats & Honey Granola 17 oz Bag",
+      "Bob's Red Mill Honey Oat Granola 12 oz Bag",
+      "Bob's Red Mill Classic Granola 12 oz Bag",
+      "EcoStrong Recycled 20-30 Gallon Trash Bag 1.0 mil"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "soft drinks beverages",
+        "results": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.99
+          },
+          {
+            "name": "Sprite Zero Sugar 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.05
+          },
+          {
+            "name": "Coca-Cola Zero Sugar 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.05
+          }
+        ],
+        "timestamp": 1773846375.5547466
+      },
+      {
+        "query": "eco friendly sustainable products",
+        "results": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 0.9
+          },
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 1.2
+          },
+          {
+            "name": "EcoStrong Recycled 20-30 Gallon Trash Bag 1.0 mil",
+            "category": "Trash Bags, Foil & Wraps",
+            "wholesale_price": 0.58
+          }
+        ],
+        "timestamp": 1773846390.807157
+      }
+    ]
+  }
+}

@@ -410,12 +410,18 @@ class Agent:
                                     "arguments": json.dumps(force_args)
                                 }
                             }
+                            fallback_reasoning_content = None
+                            if "kimi" in (self.model_id or "").lower():
+                                fallback_reasoning_content = "System-generated fallback tool call to submit and skip the blocked task after repeated API failure."
                             
-                            self.messages.append({
+                            fallback_assistant_msg = {
                                 "role": "assistant",
                                 "content": fake_reasoning,
                                 "tool_calls": [mock_tool_call]
-                            })
+                            }
+                            if fallback_reasoning_content is not None:
+                                fallback_assistant_msg["reasoning_content"] = fallback_reasoning_content
+                            self.messages.append(fallback_assistant_msg)
                             
                             self.messages.append({
                                 "role": "tool",
@@ -426,7 +432,8 @@ class Agent:
                             all_messages.append(SimpleMessage(
                                 role="assistant", 
                                 content=fake_reasoning,
-                                tool_calls=[mock_tool_call]
+                                tool_calls=[mock_tool_call],
+                                reasoning_content=fallback_reasoning_content
                             ))
                             all_messages.append(SimpleMessage(
                                 role="tool",

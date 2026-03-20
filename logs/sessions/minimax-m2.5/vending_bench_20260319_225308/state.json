@@ -1,0 +1,2646 @@
+{
+  "step": 288,
+  "timestamp": "2026-03-19T23:56:35.371234",
+  "state": {
+    "money": 320.5999999999999,
+    "day": 183,
+    "product_prices": {
+      "Mountain Dew SPARK 12oz Can (355ml)": 0.89,
+      "Monster Nitro Super Dry 16oz Can": 1.79,
+      "General Mills Cheerios 12 oz Box": 2.99,
+      "General Mills Honey Nut Cheerios 12.25 oz Box": 3.29,
+      "Tootsie Roll Midgees 8 oz Bag": 4.5
+    },
+    "product_quantities": {
+      "Mountain Dew SPARK 12oz Can (355ml)": 0,
+      "Monster Nitro Super Dry 16oz Can": 0,
+      "General Mills Cheerios 12 oz Box": 0,
+      "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+      "Tootsie Roll Midgees 8 oz Bag": 17
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "General Mills Cheerios 12 oz Box": 2.9,
+      "General Mills Honey Nut Cheerios 12.25 oz Box": 3.1,
+      "General Mills Cinnamon Toast Crunch 16.8 oz Box": 3.8,
+      "Monster Nitro Super Dry 16oz Can": 1.49,
+      "Monster Ultra Peachy Keen 16oz Can": 1.49,
+      "Mountain Dew SPARK 12oz Can (355ml)": 0.79,
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1.25,
+      "AlBayrouty Red Kidney Beans 400g Can": 1.99,
+      "AlBayrouty Chick Peas in Brine 400g Can": 1.99,
+      "AlBayrouty Broad Beans 400g Can": 1.5,
+      "Tootsie Roll Midgees 12 oz Bag": 4.5,
+      "Tootsie Roll Midgees 8 oz Bag": 3.0,
+      "M&M's Milk Chocolate Fun Size 8 oz Bag": 4.13,
+      "Kellogg's Corn Flakes 18 oz Box": 3.2,
+      "Kellogg's Froot Loops 13.5 oz Box": 3.4,
+      "Kellogg's Frosted Flakes 24 oz Bag": 4.7,
+      "Rayovac High Energy AA Alkaline": 0.5,
+      "Rayovac High Energy AAA Alkaline": 0.5,
+      "Blue Bunny Cookies & Cream Bar 24-count": 0.81,
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz": 4.13,
+      "Similac 360 Total Care Ready-to-Feed 8 fl oz Bottle": 2.3,
+      "Dove Beauty Bar Soap 3.75 oz - Original": 1.38,
+      "Scott 1-Ply 1000-Sheet Toilet Paper Roll (KCC20032)": 1.64,
+      "Mountain Dew 20oz Bottle": 0.95,
+      "Liquid Death Mountain Water 16.9 oz Can": 1.8,
+      "LaCroix Lime Sparkling Water 12 oz Can": 0.55,
+      "Happy Baby Superfood Puffs Banana & Pumpkin 2.1 oz Canister": 2.4,
+      "Bakers Authority Shredded Mozzarella Cheese 8oz Bag": 3.06,
+      "M&M's Milk Chocolate Fun Size 6 oz Bag": 3.09,
+      "Hershey's Kisses Milk Chocolate 4 oz Bag": 3.67
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 7,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 26.81
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 2
+        },
+        "revenue": 20.43
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 3
+        },
+        "revenue": 13.75
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 2,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.98
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 5,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 19.830000000000002
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 5,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 19.830000000000002
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 5.97
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 5.97
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 4,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 4.76
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 4
+        },
+        "revenue": 18.73
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 4,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 6
+        },
+        "revenue": 27.5
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 4,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 4,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 7.16
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 4,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 7.16
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 4,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 5,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 24.71
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 4,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 19.53
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 5,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 23.520000000000003
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 15.540000000000001
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 4,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 16.73
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 5,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 22.330000000000002
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 4,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 18.34
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 5,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 22.330000000000002
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 1,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 6.37
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 14.350000000000001
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 4,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 18.34
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 14.350000000000001
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 14.350000000000001
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 4,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 18.34
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 15.540000000000001
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 14.350000000000001
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 2,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 10.36
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 4,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 19.53
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 5,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 22.330000000000002
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 5,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 23.520000000000003
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 4,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 18.34
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 4,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 19.53
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 3,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 14.350000000000001
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 1,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 1.19
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 4,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 4.76
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 3.57
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 5,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 14.95
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 4,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 9.26
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 5,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 14.95
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 12.57
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 12.57
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 6.88
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 2.38
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 11.379999999999999
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 11.379999999999999
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 11.379999999999999
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 2,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 12.58
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 14.370000000000001
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 9.870000000000001
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 9.870000000000001
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 2,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 12.58
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 9.870000000000001
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 5.37
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 4,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 7.16
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 2,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 3.58
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 5.37
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 2,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 8.08
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 4
+        },
+        "revenue": 18.0
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "General Mills Cheerios 12 oz Box": 0,
+          "General Mills Honey Nut Cheerios 12.25 oz Box": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2
+        },
+        "revenue": 9.0
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 15.8,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 3,
+        "delivery_day": 10,
+        "delivery_days": 7,
+        "total_cost": 29.8,
+        "delivered_day": 10
+      },
+      {
+        "items": [
+          {
+            "name": "General Mills Cheerios 12 oz Box",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 4,
+        "delivery_day": 11,
+        "delivery_days": 7,
+        "total_cost": 29.0,
+        "delivered_day": 11
+      },
+      {
+        "items": [
+          {
+            "name": "General Mills Honey Nut Cheerios 12.25 oz Box",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 5,
+        "delivery_day": 12,
+        "delivery_days": 7,
+        "total_cost": 15.5,
+        "delivered_day": 12
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 13,
+        "delivery_day": 20,
+        "delivery_days": 7,
+        "total_cost": 23.7,
+        "delivered_day": 20
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 14,
+        "delivery_day": 21,
+        "delivery_days": 7,
+        "total_cost": 29.8,
+        "delivered_day": 21
+      },
+      {
+        "items": [
+          {
+            "name": "General Mills Cheerios 12 oz Box",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 21,
+        "delivery_day": 28,
+        "delivery_days": 7,
+        "total_cost": 29.0,
+        "delivered_day": 28
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 28,
+        "delivery_day": 35,
+        "delivery_days": 7,
+        "total_cost": 19.75,
+        "delivered_day": 35
+      },
+      {
+        "items": [
+          {
+            "name": "General Mills Honey Nut Cheerios 12.25 oz Box",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 30,
+        "delivery_day": 37,
+        "delivery_days": 7,
+        "total_cost": 31.0,
+        "delivered_day": 37
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 39,
+        "delivery_day": 46,
+        "delivery_days": 7,
+        "total_cost": 31.6,
+        "delivered_day": 46
+      },
+      {
+        "items": [
+          {
+            "name": "General Mills Cheerios 12 oz Box",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 42,
+        "delivery_day": 49,
+        "delivery_days": 7,
+        "total_cost": 58.0,
+        "delivered_day": 49
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 43,
+        "delivery_day": 50,
+        "delivery_days": 7,
+        "total_cost": 15.8,
+        "delivered_day": 50
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 45,
+        "delivery_day": 52,
+        "delivery_days": 7,
+        "total_cost": 14.9,
+        "delivered_day": 52
+      },
+      {
+        "items": [
+          {
+            "name": "General Mills Cheerios 12 oz Box",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 50,
+        "delivery_day": 57,
+        "delivery_days": 7,
+        "total_cost": 43.5,
+        "delivered_day": 57
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 53,
+        "delivery_day": 60,
+        "delivery_days": 7,
+        "total_cost": 23.7,
+        "delivered_day": 60
+      },
+      {
+        "items": [
+          {
+            "name": "General Mills Cheerios 12 oz Box",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 72.5,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 23.7,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "General Mills Cheerios 12 oz Box",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 72,
+        "delivery_day": 79,
+        "delivery_days": 7,
+        "total_cost": 72.5,
+        "delivered_day": 79
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 72,
+        "delivery_day": 79,
+        "delivery_days": 7,
+        "total_cost": 23.7,
+        "delivered_day": 79
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 86,
+        "delivery_day": 93,
+        "delivery_days": 7,
+        "total_cost": 30.0,
+        "delivered_day": 93
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 94,
+        "delivery_day": 101,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 101
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 107,
+        "delivery_day": 114,
+        "delivery_days": 7,
+        "total_cost": 60.0,
+        "delivered_day": 114
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 120,
+        "delivery_day": 127,
+        "delivery_days": 7,
+        "total_cost": 75.0,
+        "delivered_day": 127
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 133,
+        "delivery_day": 140,
+        "delivery_days": 7,
+        "total_cost": 30.0,
+        "delivered_day": 140
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 140,
+        "delivery_day": 147,
+        "delivery_days": 7,
+        "total_cost": 30.0,
+        "delivered_day": 147
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 147,
+        "delivery_day": 154,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 154
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 154,
+        "delivery_day": 161,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 161
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 161,
+        "delivery_day": 168,
+        "delivery_days": 7,
+        "total_cost": 60.0,
+        "delivered_day": 168
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 168,
+        "delivery_day": 175,
+        "delivery_days": 7,
+        "total_cost": 75.0,
+        "delivered_day": 175
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 30
+          }
+        ],
+        "status": "processing",
+        "created_day": 179,
+        "delivery_day": 186,
+        "delivery_days": 7,
+        "total_cost": 90.0
+      },
+      {
+        "items": [
+          {
+            "name": "M&M's Milk Chocolate Fun Size 8 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "processing",
+        "created_day": 180,
+        "delivery_day": 187,
+        "delivery_days": 7,
+        "total_cost": 82.6
+      }
+    ],
+    "products": [
+      "General Mills Cheerios 12 oz Box",
+      "General Mills Honey Nut Cheerios 12.25 oz Box",
+      "General Mills Cinnamon Toast Crunch 16.8 oz Box",
+      "Monster Nitro Super Dry 16oz Can",
+      "Monster Ultra Peachy Keen 16oz Can",
+      "Mountain Dew SPARK 12oz Can (355ml)",
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+      "AlBayrouty Red Kidney Beans 400g Can",
+      "AlBayrouty Chick Peas in Brine 400g Can",
+      "AlBayrouty Broad Beans 400g Can",
+      "Tootsie Roll Midgees 12 oz Bag",
+      "Tootsie Roll Midgees 8 oz Bag",
+      "M&M's Milk Chocolate Fun Size 8 oz Bag",
+      "Kellogg's Corn Flakes 18 oz Box",
+      "Kellogg's Froot Loops 13.5 oz Box",
+      "Kellogg's Frosted Flakes 24 oz Bag",
+      "Rayovac High Energy AA Alkaline",
+      "Rayovac High Energy AAA Alkaline",
+      "Blue Bunny Cookies & Cream Bar 24-count",
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz",
+      "Similac 360 Total Care Ready-to-Feed 8 fl oz Bottle",
+      "Dove Beauty Bar Soap 3.75 oz - Original",
+      "Scott 1-Ply 1000-Sheet Toilet Paper Roll (KCC20032)",
+      "Mountain Dew 20oz Bottle",
+      "Liquid Death Mountain Water 16.9 oz Can",
+      "LaCroix Lime Sparkling Water 12 oz Can",
+      "Happy Baby Superfood Puffs Banana & Pumpkin 2.1 oz Canister",
+      "Bakers Authority Shredded Mozzarella Cheese 8oz Bag",
+      "M&M's Milk Chocolate Fun Size 6 oz Bag",
+      "Hershey's Kisses Milk Chocolate 4 oz Bag"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "cookies snacks",
+        "results": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "category": "Ice Cream & Desserts",
+            "wholesale_price": 0.81
+          }
+        ],
+        "timestamp": 1773935739.18767
+      },
+      {
+        "query": "M&M's Milk Chocolate",
+        "results": [
+          {
+            "name": "M&M's Milk Chocolate Fun Size 8 oz Bag",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 4.13
+          },
+          {
+            "name": "M&M's Milk Chocolate Fun Size 6 oz Bag",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 3.09
+          },
+          {
+            "name": "Hershey's Kisses Milk Chocolate 4 oz Bag",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 3.67
+          }
+        ],
+        "timestamp": 1773935755.2740993
+      }
+    ]
+  }
+}

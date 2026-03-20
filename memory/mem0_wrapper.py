@@ -24,11 +24,11 @@ class Mem0Wrapper:
     def __init__(self, user_id: str = "default_user", model_name: str = "gpt-4o", retrieve_top_k: int = 5, **kwargs):
         self.user_id = user_id
         self.retrieve_top_k = retrieve_top_k
-        
+        llm_model = kwargs.get("llm_model", model_name)
         embed_model = kwargs.get("embedding_model", "openai/text-embedding-3-small")
 
         try:
-            llm_config = get_model_config(model_name)
+            llm_config = get_model_config(llm_model)
         except Exception as e:
             llm_config = {"api_key": None, "base_url": None}
             print(f"[Mem0Wrapper] Warning: {e}")
@@ -50,7 +50,7 @@ class Mem0Wrapper:
             "llm": {
                 "provider": "openai",
                 "config": {
-                    "model": model_name,
+                    "model": llm_model,
                     "api_key": llm_config.get("api_key"),
                     "openai_base_url": llm_config.get("base_url")
                 }

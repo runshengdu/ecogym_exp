@@ -16,9 +16,9 @@
 # limitations under the License.
 
 run_settings:
-  max_steps: 200
-  max_days: 30
-  no_sales_days_threshold: 30
+  max_steps: 1000
+  max_days: 182
+  no_sales_days_threshold: 182
   max_actions_per_day: 4
   history_limit: 128
   excluded_tools_from_count: ["task_done"]
@@ -30,12 +30,13 @@ model_config:
   pricing_config_path: "./config/model_pricing.yaml"
 
 memory_config:
-  use_memory: false
+  use_memory: true
   user_id: "platform_vending_02"
 
   general_config:
     total_prompt_limit: 15
     embedding_config:
+      provider: "openai"
       model: "openai/text-embedding-3-small"
 
   modules:
@@ -51,7 +52,7 @@ memory_config:
       retrieve_top_k: 5
     
     vector_db:
-      enabled: false
+      enabled: true
       collection_name: "vending_bench_memory"
       persist_directory: "./chromadb_vending_memory"
       retrieve_top_k: 3
@@ -59,6 +60,7 @@ memory_config:
     
     mem0:
       enabled: false
+      llm_model: "qwen/qwen3.5-flash-02-23"
       collection_name: "mem0_vending_agent_facts"
       vector_store_provider: "chroma"
       vector_store_path: "./chromadb_mem0_vending_storage"

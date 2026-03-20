@@ -17,12 +17,6 @@
 .vscode
 *.code-workspace
 
-# Ignore .env files
-.env
-
-# Ignore model pricing config (use .example as template)
-config/model_pricing.yaml
-
 
 certs/
 
@@ -46,6 +40,7 @@ agnoenv*
 aienv*
 phienv*
 set-env.ps1
+.ecogym
 
 # ignore tmp dirs
 scratch
@@ -86,9 +81,6 @@ workflow/workflow_launcher.py
 *.bin
 *.sqlite3
 
-# log
-logs/
-
 chromadb_vending_bench
 *.out
 
@@ -104,7 +96,6 @@ data/tmp_data
 /chromadb_*
 /vis_logs
 /visualize
-/logs
 
 # game sessions
 frontend/game_sessions/

@@ -36,6 +36,7 @@ memory_config:
   general_config:
     total_prompt_limit: 15
     embedding_config:
+      provider: "openai"
       model: "openai/text-embedding-3-small"
 
   modules:

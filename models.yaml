@@ -26,6 +26,13 @@ models:
     max_tokens: 60000
     extra_body: {reasoning_split: true}
 
+  - name: minimax-m2.7
+    temperature: 1.0
+    base_url: https://api.minimaxi.com/v1
+    api_key: "${MINIMAX_API_KEY}"
+    max_tokens: 60000
+    extra_body: {reasoning_split: true}
+
   - name: glm-5
     temperature: 1.0
     base_url: https://open.bigmodel.cn/api/paas/v4
@@ -57,6 +64,13 @@ models:
     base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
     api_key: "${DASHSCOPE_API_KEY}"
     extra_body: {"enable_thinking": true}
+    max_tokens: 60000
+  
+  - name: qwen/qwen3.5-flash-02-23
+    temperature: 1.0
+    base_url: https://openrouter.ai/api/v1
+    api_key: "${OPENROUTER_API_KEY}"
+    extra_body: {reasoning: {enabled: true}}
     max_tokens: 60000
   
   - name: openai/text-embedding-3-small

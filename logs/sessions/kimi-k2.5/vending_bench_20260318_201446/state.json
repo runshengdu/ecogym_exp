@@ -1,0 +1,4449 @@
+{
+  "step": 429,
+  "timestamp": "2026-03-18T21:22:21.293321",
+  "state": {
+    "money": 35.250000000000014,
+    "day": 183,
+    "product_prices": {
+      "Pepsi 20oz Bottle": 1.5,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1.99,
+      "Hershey's Assorted Miniatures 8 oz Bag": 7.99,
+      "Monster Ultra Peachy Keen 16oz Can": 2.49,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2.49
+    },
+    "product_quantities": {
+      "Pepsi 20oz Bottle": 0,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+      "Hershey's Assorted Miniatures 8 oz Bag": 29,
+      "Monster Ultra Peachy Keen 16oz Can": 0,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 290,
+      "Sprite 20oz Bottle": 13,
+      "BuyBulkHardware 42 Gallon Contractor Trash Bag 3 mil (50-count case)": 10,
+      "Gourmet Food Marketplace Venere Black Rice 1 lb": 2,
+      "Global Sources OEM Baby Diapers Size XL 34-Count Pack": 3,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 3,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 15,
+      "Method Daily Shampoo 12 fl oz": 1,
+      "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+      "Economy Produce Green Leaf Lettuce Head 1 ct": 2,
+      "Economy Produce Romaine Lettuce Head 1 ct": 2,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 2,
+      "Cream-O-Land Cold Star 2% Milk 2 Liter Carton": 1,
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)": 3
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Pepsi 20oz Bottle": 0.99,
+      "Factory Direct Party Confetti Party Poppers, 6-Count": 1.29,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0.99,
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister": 1.5,
+      "Pizza Puffs Spinach 5 oz": 1.67,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Sprite 20oz Bottle": 0.99,
+      "Coors Light 12oz Can": 1.0,
+      "Monster Ultra Peachy Keen 16oz Can": 1.49,
+      "Bulk Jelly Babies 2 oz Bag": 0.86,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1.24,
+      "Pepsi Wild Cherry 20oz Bottle": 1.05,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Bulk Gummy Worms 2.5 oz Bag": 0.61,
+      "Purvey'd Bulk Carrots 1 lb": 0.66,
+      "Alibaba Supplier IQF Whole Strawberries 16 oz": 2.1,
+      "BuyBulkHardware 42 Gallon Contractor Trash Bag 3 mil (50-count case)": 0.52,
+      "Gourmet Food Marketplace Venere Black Rice 1 lb": 4.8,
+      "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 4.6,
+      "Alibaba Supplier IQF Cranberries 16 oz": 2.2,
+      "Alibaba Supplier IQF Raspberries 16 oz": 3.9,
+      "Global Sources OEM Baby Diapers Size XL 34-Count Pack": 1.7,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1.95,
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)": 3.59,
+      "DollarDays Bamboo Cutlery Set 5-Piece with Pouch": 3.25,
+      "Polar Seltzer Orange Vanilla 12 oz Can": 0.5,
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle": 4.5,
+      "Bitchin' Sauce Chipotle 8 oz": 3.0,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Method Daily Shampoo 12 fl oz": 3.0,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 3.0,
+      "Head & Shoulders Classic Clean Dandruff Shampoo 13.5 fl oz": 4.5,
+      "Method Daily Conditioner 12 fl oz": 3.0,
+      "Tresemme Pro Pure Conditioner 16 fl oz": 3.0,
+      "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1.1,
+      "Kegel's Produce Fresh Ginger 1 lb": 2.7,
+      "Kegel's Produce Eggplant 1 lb": 1.8,
+      "Economy Produce Green Leaf Lettuce Head 1 ct": 2.2,
+      "Economy Produce Romaine Lettuce Head 1 ct": 2.25,
+      "Purvey'd Red Cabbage 1 lb": 1.08,
+      "Generic Liquid Bleach 1 Gallon Jug": 2.5,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 0.9,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1.2,
+      "Blue Bunny Cookies & Cream Bar 24-count": 0.81,
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0.81,
+      "Blue Bunny Vanilla Ice Cream Sandwich 24-count": 0.81,
+      "Quaker Cap'n Crunch Original 14 oz Box": 3.2,
+      "General Mills Cinnamon Toast Crunch 16.8 oz Box": 3.8,
+      "Kellogg's Corn Flakes 18 oz Box": 3.2,
+      "Post Fruity Pebbles 11 oz Box": 2.6,
+      "General Mills Cheerios 12 oz Box": 2.9,
+      "Bob's Red Mill Classic Granola 12 oz Bag": 2.52,
+      "Cream-O-Land Skim Milk Half Gallon": 1.6,
+      "Cream-O-Land Whole Milk Half Gallon": 1.8,
+      "Cream-O-Land Cold Star 2% Milk 2 Liter Carton": 3.8,
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)": 1.63,
+      "Seek Bamboo 3-Ply 300-Sheet Bamboo Toilet Paper Roll": 1.6,
+      "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 1.77
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 3.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0
+        },
+        "revenue": 3.0
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 2
+        },
+        "revenue": 18.98
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 2
+        },
+        "revenue": 18.98
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 2
+        },
+        "revenue": 18.98
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 6.0
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 3.0
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 3.0
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 3.0
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1
+        },
+        "revenue": 13.99
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1
+        },
+        "revenue": 12.49
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1
+        },
+        "revenue": 13.99
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1
+        },
+        "revenue": 12.49
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 3.0
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 4.99
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 4.99
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 6.49
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 11.97
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 9.48
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 10.48
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 10.98
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 10.48
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 10.48
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 8.98
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 10.48
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 8.98
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 10.48
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 8.98
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 12.97
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 10.48
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 6.99
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 5.49
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 5.49
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 6.99
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 8.49
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 6.99
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 9.48
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 5.49
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 3,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 3,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 4
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 3
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Monster Ultra Peachy Keen 16oz Can": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 2
+        },
+        "revenue": 4.98
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 0,
+        "delivery_day": 7,
+        "delivery_days": 7,
+        "total_cost": 49.5,
+        "delivered_day": 7
+      },
+      {
+        "items": [
+          {
+            "name": "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 27.0,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 28
+          }
+        ],
+        "status": "delivered",
+        "created_day": 10,
+        "delivery_day": 17,
+        "delivery_days": 7,
+        "total_cost": 27.72,
+        "delivered_day": 17
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 11,
+        "delivery_day": 18,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 18
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Ultra Peachy Keen 16oz Can",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 12,
+        "delivery_day": 19,
+        "delivery_days": 7,
+        "total_cost": 14.9,
+        "delivered_day": 19
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 19
+          }
+        ],
+        "status": "delivered",
+        "created_day": 15,
+        "delivery_day": 22,
+        "delivery_days": 7,
+        "total_cost": 18.81,
+        "delivered_day": 22
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 20,
+        "delivery_day": 27,
+        "delivery_days": 7,
+        "total_cost": 24.8,
+        "delivered_day": 27
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 21,
+        "delivery_day": 28,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 28
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 3
+          }
+        ],
+        "status": "delivered",
+        "created_day": 22,
+        "delivery_day": 29,
+        "delivery_days": 7,
+        "total_cost": 13.5,
+        "delivered_day": 29
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 28,
+        "delivery_day": 35,
+        "delivery_days": 7,
+        "total_cost": 24.8,
+        "delivered_day": 35
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 34
+          }
+        ],
+        "status": "delivered",
+        "created_day": 30,
+        "delivery_day": 37,
+        "delivery_days": 7,
+        "total_cost": 33.66,
+        "delivered_day": 37
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 11
+          }
+        ],
+        "status": "delivered",
+        "created_day": 31,
+        "delivery_day": 38,
+        "delivery_days": 7,
+        "total_cost": 10.89,
+        "delivered_day": 38
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 33,
+        "delivery_day": 40,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 40
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 17
+          }
+        ],
+        "status": "delivered",
+        "created_day": 35,
+        "delivery_day": 42,
+        "delivery_days": 7,
+        "total_cost": 21.08,
+        "delivered_day": 42
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 17
+          }
+        ],
+        "status": "delivered",
+        "created_day": 37,
+        "delivery_day": 44,
+        "delivery_days": 7,
+        "total_cost": 21.08,
+        "delivered_day": 44
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 39,
+        "delivery_day": 46,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 46
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 41,
+        "delivery_day": 48,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 48
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 19
+          }
+        ],
+        "status": "delivered",
+        "created_day": 43,
+        "delivery_day": 50,
+        "delivery_days": 7,
+        "total_cost": 23.56,
+        "delivered_day": 50
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 7
+          }
+        ],
+        "status": "delivered",
+        "created_day": 46,
+        "delivery_day": 53,
+        "delivery_days": 7,
+        "total_cost": 31.5,
+        "delivered_day": 53
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 47,
+        "delivery_day": 54,
+        "delivery_days": 7,
+        "total_cost": 12.4,
+        "delivered_day": 54
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 49,
+        "delivery_day": 56,
+        "delivery_days": 7,
+        "total_cost": 12.4,
+        "delivered_day": 56
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 51,
+        "delivery_day": 58,
+        "delivery_days": 7,
+        "total_cost": 12.4,
+        "delivered_day": 58
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 13
+          }
+        ],
+        "status": "delivered",
+        "created_day": 53,
+        "delivery_day": 60,
+        "delivery_days": 7,
+        "total_cost": 16.12,
+        "delivered_day": 60
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 7
+          }
+        ],
+        "status": "delivered",
+        "created_day": 54,
+        "delivery_day": 61,
+        "delivery_days": 7,
+        "total_cost": 8.68,
+        "delivered_day": 61
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 55,
+        "delivery_day": 62,
+        "delivery_days": 7,
+        "total_cost": 6.2,
+        "delivered_day": 62
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 56,
+        "delivery_day": 63,
+        "delivery_days": 7,
+        "total_cost": 12.4,
+        "delivered_day": 63
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 17
+          }
+        ],
+        "status": "delivered",
+        "created_day": 58,
+        "delivery_day": 65,
+        "delivery_days": 7,
+        "total_cost": 21.08,
+        "delivered_day": 65
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 9
+          }
+        ],
+        "status": "delivered",
+        "created_day": 59,
+        "delivery_day": 66,
+        "delivery_days": 7,
+        "total_cost": 11.16,
+        "delivered_day": 66
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 61,
+        "delivery_day": 68,
+        "delivery_days": 7,
+        "total_cost": 4.95,
+        "delivered_day": 68
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 62,
+        "delivery_day": 69,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 69
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 63,
+        "delivery_day": 70,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 70
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 64,
+        "delivery_day": 71,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 71
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 65,
+        "delivery_day": 72,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 72
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 66,
+        "delivery_day": 73,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 73
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 67,
+        "delivery_day": 74,
+        "delivery_days": 7,
+        "total_cost": 7.44,
+        "delivered_day": 74
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 68,
+        "delivery_day": 75,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 75
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 69,
+        "delivery_day": 76,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 76
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 70,
+        "delivery_day": 77,
+        "delivery_days": 7,
+        "total_cost": 7.44,
+        "delivered_day": 77
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 71,
+        "delivery_day": 78,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 78
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 72,
+        "delivery_day": 79,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 79
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 73,
+        "delivery_day": 80,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 80
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 74,
+        "delivery_day": 81,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 81
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 75,
+        "delivery_day": 82,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 82
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 76,
+        "delivery_day": 83,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 83
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 77,
+        "delivery_day": 84,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 84
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 78,
+        "delivery_day": 85,
+        "delivery_days": 7,
+        "total_cost": 9.92,
+        "delivered_day": 85
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 79,
+        "delivery_day": 86,
+        "delivery_days": 7,
+        "total_cost": 7.44,
+        "delivered_day": 86
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 80,
+        "delivery_day": 87,
+        "delivery_days": 7,
+        "total_cost": 7.44,
+        "delivered_day": 87
+      },
+      {
+        "items": [
+          {
+            "name": "BuyBulkHardware 42 Gallon Contractor Trash Bag 3 mil (50-count case)",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 81,
+        "delivery_day": 88,
+        "delivery_days": 7,
+        "total_cost": 5.2,
+        "delivered_day": 88
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 82,
+        "delivery_day": 89,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 89
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 83,
+        "delivery_day": 90,
+        "delivery_days": 7,
+        "total_cost": 12.4,
+        "delivered_day": 90
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 84,
+        "delivery_day": 91,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 91
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 85,
+        "delivery_day": 92,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 92
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 86,
+        "delivery_day": 93,
+        "delivery_days": 7,
+        "total_cost": 12.4,
+        "delivered_day": 93
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 87,
+        "delivery_day": 94,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 94
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 88,
+        "delivery_day": 95,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 95
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 89,
+        "delivery_day": 96,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 96
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 90,
+        "delivery_day": 97,
+        "delivery_days": 7,
+        "total_cost": 9.92,
+        "delivered_day": 97
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 91,
+        "delivery_day": 98,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 98
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 92,
+        "delivery_day": 99,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 99
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 93,
+        "delivery_day": 100,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 100
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 94,
+        "delivery_day": 101,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 101
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 95,
+        "delivery_day": 102,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 102
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 96,
+        "delivery_day": 103,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 103
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 97,
+        "delivery_day": 104,
+        "delivery_days": 7,
+        "total_cost": 7.44,
+        "delivered_day": 104
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 98,
+        "delivery_day": 105,
+        "delivery_days": 7,
+        "total_cost": 9.6,
+        "delivered_day": 105
+      },
+      {
+        "items": [
+          {
+            "name": "Global Sources OEM Baby Diapers Size XL 34-Count Pack",
+            "quantity": 3
+          }
+        ],
+        "status": "delivered",
+        "created_day": 99,
+        "delivery_day": 106,
+        "delivery_days": 7,
+        "total_cost": 5.1,
+        "delivered_day": 106
+      },
+      {
+        "items": [
+          {
+            "name": "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+            "quantity": 3
+          }
+        ],
+        "status": "delivered",
+        "created_day": 100,
+        "delivery_day": 107,
+        "delivery_days": 7,
+        "total_cost": 5.85,
+        "delivered_day": 107
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 101,
+        "delivery_day": 108,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 108
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 102,
+        "delivery_day": 109,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 109
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 103,
+        "delivery_day": 110,
+        "delivery_days": 7,
+        "total_cost": 7.44,
+        "delivered_day": 110
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 104,
+        "delivery_day": 111,
+        "delivery_days": 7,
+        "total_cost": 4.95,
+        "delivered_day": 111
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 105,
+        "delivery_day": 112,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 112
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 106,
+        "delivery_day": 113,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 113
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 107,
+        "delivery_day": 114,
+        "delivery_days": 7,
+        "total_cost": 5.6,
+        "delivered_day": 114
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 108,
+        "delivery_day": 115,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 115
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 109,
+        "delivery_day": 116,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 116
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 110,
+        "delivery_day": 117,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 117
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 111,
+        "delivery_day": 118,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 118
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 112,
+        "delivery_day": 119,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 119
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 113,
+        "delivery_day": 120,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 120
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 114,
+        "delivery_day": 121,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 121
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 115,
+        "delivery_day": 122,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 122
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 116,
+        "delivery_day": 123,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 123
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 117,
+        "delivery_day": 124,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 124
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 118,
+        "delivery_day": 125,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 125
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 119,
+        "delivery_day": 126,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 126
+      },
+      {
+        "items": [
+          {
+            "name": "Method Daily Shampoo 12 fl oz",
+            "quantity": 1
+          }
+        ],
+        "status": "delivered",
+        "created_day": 120,
+        "delivery_day": 127,
+        "delivery_days": 7,
+        "total_cost": 3.0,
+        "delivered_day": 127
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 121,
+        "delivery_day": 128,
+        "delivery_days": 7,
+        "total_cost": 2.48,
+        "delivered_day": 128
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 122,
+        "delivery_day": 129,
+        "delivery_days": 7,
+        "total_cost": 2.2,
+        "delivered_day": 129
+      },
+      {
+        "items": [
+          {
+            "name": "Economy Produce Green Leaf Lettuce Head 1 ct",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 123,
+        "delivery_day": 130,
+        "delivery_days": 7,
+        "total_cost": 4.4,
+        "delivered_day": 130
+      },
+      {
+        "items": [
+          {
+            "name": "Economy Produce Romaine Lettuce Head 1 ct",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 124,
+        "delivery_day": 131,
+        "delivery_days": 7,
+        "total_cost": 4.5,
+        "delivered_day": 131
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 125,
+        "delivery_day": 132,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 132
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 3
+          }
+        ],
+        "status": "delivered",
+        "created_day": 126,
+        "delivery_day": 133,
+        "delivery_days": 7,
+        "total_cost": 2.97,
+        "delivered_day": 133
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 127,
+        "delivery_day": 134,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 134
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 128,
+        "delivery_day": 135,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 135
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 129,
+        "delivery_day": 136,
+        "delivery_days": 7,
+        "total_cost": 2.8,
+        "delivered_day": 136
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 130,
+        "delivery_day": 137,
+        "delivery_days": 7,
+        "total_cost": 2.4,
+        "delivered_day": 137
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 131,
+        "delivery_day": 138,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 138
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 132,
+        "delivery_day": 139,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 139
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 133,
+        "delivery_day": 140,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 140
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 134,
+        "delivery_day": 141,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 141
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 135,
+        "delivery_day": 142,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 142
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 136,
+        "delivery_day": 143,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 143
+      },
+      {
+        "items": [
+          {
+            "name": "Cream-O-Land Cold Star 2% Milk 2 Liter Carton",
+            "quantity": 1
+          }
+        ],
+        "status": "delivered",
+        "created_day": 137,
+        "delivery_day": 144,
+        "delivery_days": 7,
+        "total_cost": 3.8,
+        "delivered_day": 144
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 138,
+        "delivery_day": 145,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 145
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 139,
+        "delivery_day": 146,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 146
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 140,
+        "delivery_day": 147,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 147
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 141,
+        "delivery_day": 148,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 148
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 142,
+        "delivery_day": 149,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 149
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 143,
+        "delivery_day": 150,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 150
+      },
+      {
+        "items": [
+          {
+            "name": "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)",
+            "quantity": 3
+          }
+        ],
+        "status": "delivered",
+        "created_day": 144,
+        "delivery_day": 151,
+        "delivery_days": 7,
+        "total_cost": 4.89,
+        "delivered_day": 151
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 145,
+        "delivery_day": 152,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 152
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 146,
+        "delivery_day": 153,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 153
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 147,
+        "delivery_day": 154,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 154
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 148,
+        "delivery_day": 155,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 155
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 149,
+        "delivery_day": 156,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 156
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 150,
+        "delivery_day": 157,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 157
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 151,
+        "delivery_day": 158,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 158
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 152,
+        "delivery_day": 159,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 159
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 153,
+        "delivery_day": 160,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 160
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 154,
+        "delivery_day": 161,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 161
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 155,
+        "delivery_day": 162,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 162
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 156,
+        "delivery_day": 163,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 163
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 157,
+        "delivery_day": 164,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 164
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 158,
+        "delivery_day": 165,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 165
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 159,
+        "delivery_day": 166,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 166
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 160,
+        "delivery_day": 167,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 167
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 161,
+        "delivery_day": 168,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 168
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 162,
+        "delivery_day": 169,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 169
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 163,
+        "delivery_day": 170,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 170
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 164,
+        "delivery_day": 171,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 171
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 165,
+        "delivery_day": 172,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 172
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 166,
+        "delivery_day": 173,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 173
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 167,
+        "delivery_day": 174,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 174
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 168,
+        "delivery_day": 175,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 175
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 169,
+        "delivery_day": 176,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 176
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 170,
+        "delivery_day": 177,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 177
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 171,
+        "delivery_day": 178,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 178
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 172,
+        "delivery_day": 179,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 179
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 173,
+        "delivery_day": 180,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 180
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 174,
+        "delivery_day": 181,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 181
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 175,
+        "delivery_day": 182,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 182
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 176,
+        "delivery_day": 183,
+        "delivery_days": 7,
+        "total_cost": 4.96,
+        "delivered_day": 183
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "processing",
+        "created_day": 177,
+        "delivery_day": 184,
+        "delivery_days": 7,
+        "total_cost": 4.96
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "processing",
+        "created_day": 178,
+        "delivery_day": 185,
+        "delivery_days": 7,
+        "total_cost": 4.96
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "processing",
+        "created_day": 179,
+        "delivery_day": 186,
+        "delivery_days": 7,
+        "total_cost": 4.96
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "processing",
+        "created_day": 180,
+        "delivery_day": 187,
+        "delivery_days": 7,
+        "total_cost": 4.96
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "processing",
+        "created_day": 181,
+        "delivery_day": 188,
+        "delivery_days": 7,
+        "total_cost": 4.96
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "processing",
+        "created_day": 182,
+        "delivery_day": 189,
+        "delivery_days": 7,
+        "total_cost": 4.96
+      }
+    ],
+    "products": [
+      "Pepsi 20oz Bottle",
+      "Factory Direct Party Confetti Party Poppers, 6-Count",
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+      "Pizza Puffs Spinach 5 oz",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Sprite 20oz Bottle",
+      "Coors Light 12oz Can",
+      "Monster Ultra Peachy Keen 16oz Can",
+      "Bulk Jelly Babies 2 oz Bag",
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+      "Pepsi Wild Cherry 20oz Bottle",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Bulk Gummy Worms 2.5 oz Bag",
+      "Purvey'd Bulk Carrots 1 lb",
+      "Alibaba Supplier IQF Whole Strawberries 16 oz",
+      "BuyBulkHardware 42 Gallon Contractor Trash Bag 3 mil (50-count case)",
+      "Gourmet Food Marketplace Venere Black Rice 1 lb",
+      "Gourmet Food Marketplace Vialone Nano Rice 1 lb",
+      "Alibaba Supplier IQF Cranberries 16 oz",
+      "Alibaba Supplier IQF Raspberries 16 oz",
+      "Global Sources OEM Baby Diapers Size XL 34-Count Pack",
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)",
+      "DollarDays Bamboo Cutlery Set 5-Piece with Pouch",
+      "Polar Seltzer Orange Vanilla 12 oz Can",
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle",
+      "Bitchin' Sauce Chipotle 8 oz",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Method Daily Shampoo 12 fl oz",
+      "Tresemme Pro Pure Shampoo 16 fl oz",
+      "Head & Shoulders Classic Clean Dandruff Shampoo 13.5 fl oz",
+      "Method Daily Conditioner 12 fl oz",
+      "Tresemme Pro Pure Conditioner 16 fl oz",
+      "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz",
+      "Kegel's Produce Fresh Ginger 1 lb",
+      "Kegel's Produce Eggplant 1 lb",
+      "Economy Produce Green Leaf Lettuce Head 1 ct",
+      "Economy Produce Romaine Lettuce Head 1 ct",
+      "Purvey'd Red Cabbage 1 lb",
+      "Generic Liquid Bleach 1 Gallon Jug",
+      "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box",
+      "Blue Bunny Cookies & Cream Bar 24-count",
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count",
+      "Blue Bunny Vanilla Ice Cream Sandwich 24-count",
+      "Quaker Cap'n Crunch Original 14 oz Box",
+      "General Mills Cinnamon Toast Crunch 16.8 oz Box",
+      "Kellogg's Corn Flakes 18 oz Box",
+      "Post Fruity Pebbles 11 oz Box",
+      "General Mills Cheerios 12 oz Box",
+      "Bob's Red Mill Classic Granola 12 oz Bag",
+      "Cream-O-Land Skim Milk Half Gallon",
+      "Cream-O-Land Whole Milk Half Gallon",
+      "Cream-O-Land Cold Star 2% Milk 2 Liter Carton",
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)",
+      "Seek Bamboo 3-Ply 300-Sheet Bamboo Toilet Paper Roll",
+      "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "dairy milk",
+        "results": [
+          {
+            "name": "Cream-O-Land Skim Milk Half Gallon",
+            "category": "Milk & Cream",
+            "wholesale_price": 1.6
+          },
+          {
+            "name": "Cream-O-Land Whole Milk Half Gallon",
+            "category": "Milk & Cream",
+            "wholesale_price": 1.8
+          },
+          {
+            "name": "Cream-O-Land Cold Star 2% Milk 2 Liter Carton",
+            "category": "Milk & Cream",
+            "wholesale_price": 3.8
+          }
+        ],
+        "timestamp": 1773838828.4493685
+      },
+      {
+        "query": "paper products toilet paper",
+        "results": [
+          {
+            "name": "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)",
+            "category": "Toilet Paper",
+            "wholesale_price": 1.63
+          },
+          {
+            "name": "Seek Bamboo 3-Ply 300-Sheet Bamboo Toilet Paper Roll",
+            "category": "Toilet Paper",
+            "wholesale_price": 1.6
+          },
+          {
+            "name": "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)",
+            "category": "Toilet Paper",
+            "wholesale_price": 1.77
+          }
+        ],
+        "timestamp": 1773839116.4269047
+      }
+    ]
+  }
+}

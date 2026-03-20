@@ -521,6 +521,8 @@ class BenchmarkLauncher(object):
                                         "name": "task_done",
                                         "arguments": "{}"
                                     }}]}
+                            if "kimi" in (self.model_name or "").lower():
+                                assistant_msg["reasoning_content"] = "System-generated tool call to advance the day after reaching the daily action limit."
 
                             tool_msg = {
                                 "role": "tool",

@@ -1,0 +1,2881 @@
+{
+  "step": 317,
+  "timestamp": "2026-03-19T22:52:50.003865",
+  "state": {
+    "money": 563.8200000000003,
+    "day": 183,
+    "product_prices": {
+      "Tootsie Roll Midgees 12 oz Bag": 5.99,
+      "Monster Nitro Super Dry 16oz Can": 1.99,
+      "Bulk Gummy Worms 2.5 oz Bag": 1.29,
+      "M&M's Milk Chocolate Fun Size 8 oz Bag": 5.99,
+      "Lipton Ice Tea Lemon 16.9oz Bottle": 1.49,
+      "Tootsie Roll Midgees 8 oz Bag": 4.99,
+      "Blue Bunny Cookies & Cream Bar 24-count": 1.99,
+      "Rayovac High Energy AA Alkaline": 1.29,
+      "Mountain Dew SPARK 12oz Can (355ml)": 1.29,
+      "Kellogg's Corn Flakes 18 oz Box": 4.49,
+      "De Cecco Penne Rigate No. 41 16 oz": 2.79
+    },
+    "product_quantities": {
+      "Tootsie Roll Midgees 12 oz Bag": 0,
+      "Monster Nitro Super Dry 16oz Can": 0,
+      "Bulk Gummy Worms 2.5 oz Bag": 0,
+      "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+      "Tootsie Roll Midgees 8 oz Bag": 0,
+      "Lipton Ice Tea Lemon 16.9oz Bottle": 9,
+      "Blue Bunny Cookies & Cream Bar 24-count": 4,
+      "Rayovac High Energy AA Alkaline": 21,
+      "Mountain Dew SPARK 12oz Can (355ml)": 3,
+      "Kellogg's Corn Flakes 18 oz Box": 0,
+      "De Cecco Penne Rigate No. 41 16 oz": 0
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Tootsie Roll Midgees 12 oz Bag": 4.5,
+      "Tootsie Roll Midgees 8 oz Bag": 3.0,
+      "M&M's Milk Chocolate Fun Size 8 oz Bag": 4.13,
+      "Monster Nitro Super Dry 16oz Can": 1.49,
+      "Monster Ultra Peachy Keen 16oz Can": 1.49,
+      "Mountain Dew SPARK 12oz Can (355ml)": 0.79,
+      "Bulk Gummy Worms 2.5 oz Bag": 0.61,
+      "San Pellegrino Sparkling Natural Mineral Water 25.3 fl oz Glass Bottle": 1.67,
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 1.1,
+      "Perrier Sparkling Natural Mineral Water 8.45 fl oz Glass Bottle": 0.8,
+      "Rayovac High Energy AA Alkaline": 0.5,
+      "Rayovac High Energy AAA Alkaline": 0.5,
+      "Beistle Birthday Photo Booth Props, 12-Piece Assortment": 3.49,
+      "Panasonic CR123A Lithium Photo Battery": 1.6,
+      "Duracell CR2 Lithium Photo Battery": 2.0,
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1.25,
+      "AlBayrouty Red Kidney Beans 400g Can": 1.99,
+      "AlBayrouty Chick Peas in Brine 400g Can": 1.99,
+      "AlBayrouty Broad Beans 400g Can": 1.5,
+      "Lipton Ice Tea Lemon 16.9oz Bottle": 0.95,
+      "Lipton Ice Tea Peach 16.9oz Bottle": 0.95,
+      "Fuze Tea Peach 500ml Bottle": 1.05,
+      "Blue Bunny Cookies & Cream Bar 24-count": 0.81,
+      "Factory Direct Party Confetti Party Poppers, 6-Count": 1.29,
+      "Kellogg's Corn Flakes 18 oz Box": 3.2,
+      "Kellogg's Froot Loops 13.5 oz Box": 3.4,
+      "Kellogg's Frosted Flakes 24 oz Bag": 4.7,
+      "Rao's Homemade Thin Spaghetti 16 oz": 3.83,
+      "De Cecco Spaghetti No. 12 16 oz": 1.8,
+      "De Cecco Penne Rigate No. 41 16 oz": 1.85,
+      "Purvey'd Bulk Carrots 1 lb": 0.66,
+      "BuyBulkHardware 42 Gallon Contractor Trash Bag 3 mil (50-count case)": 0.52,
+      "De Cecco Rigatoni No. 24 16 oz": 1.9,
+      "Blue Bunny Chocolate Eclair Bar 24-count": 0.81,
+      "Blue Bunny Strawberry Shortcake Bar 24-count": 0.81,
+      "Energizer Max AA Alkaline E91": 0.52,
+      "Energizer Max AAA Alkaline E92": 0.52,
+      "Duracell Coppertop AA Alkaline MN1500": 0.58
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 2
+        },
+        "revenue": 13.98
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 21.450000000000003
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 6.36
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 8.850000000000001
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 5.07
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 10.05
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 8.850000000000001
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 8.850000000000001
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 4,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 10.14
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 8.850000000000001
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 5.07
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 10.05
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 10.05
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.2700000000000005
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 10.05
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 5.07
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.760000000000002
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.2700000000000005
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.760000000000002
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 5.07
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 4
+        },
+        "revenue": 12.540000000000001
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.760000000000002
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 5
+        },
+        "revenue": 15.030000000000001
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.2700000000000005
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 10.05
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 4
+        },
+        "revenue": 11.25
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.760000000000002
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.2700000000000005
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 10.05
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.2700000000000005
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.760000000000002
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.760000000000002
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.5600000000000005
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.2700000000000005
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 3.87
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 13.96
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 15.95
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 13.96
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 11.97
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 3.87
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 3.87
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.5600000000000005
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 13.96
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 15.95
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 20.94
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 5.97
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 4
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 7.85
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 9.84
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 4
+        },
+        "revenue": 11.83
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 4
+        },
+        "revenue": 9.25
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 15.95
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 11.97
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 4.99
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 9.98
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 4
+        },
+        "revenue": 10.54
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 4
+        },
+        "revenue": 9.25
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 4
+        },
+        "revenue": 10.54
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 4.57
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.5600000000000005
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.5600000000000005
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.5600000000000005
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.5600000000000005
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 3.2800000000000002
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 2.58
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0
+        },
+        "revenue": 1.29
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 7.26
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 1
+        },
+        "revenue": 4.57
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2
+        },
+        "revenue": 6.5600000000000005
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 4,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0
+        },
+        "revenue": 10.54
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 6.5600000000000005
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 5.27
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 3,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 8.55
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 2,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 7.85
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 1,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 4.57
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 8.34
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 7.05
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Tootsie Roll Midgees 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 0
+        },
+        "revenue": 10.96
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Tootsie Roll Midgees 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 0
+        },
+        "revenue": 12.45
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Tootsie Roll Midgees 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 0
+        },
+        "revenue": 12.45
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 2,
+          "Tootsie Roll Midgees 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 3,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 0
+        },
+        "revenue": 16.44
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Tootsie Roll Midgees 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 3,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 0
+        },
+        "revenue": 12.45
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 1,
+          "Tootsie Roll Midgees 8 oz Bag": 1,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 3,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 0
+        },
+        "revenue": 12.45
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 2,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 4,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 0
+        },
+        "revenue": 13.940000000000001
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 3,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 1
+        },
+        "revenue": 17.73
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1
+        },
+        "revenue": 15.25
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1
+        },
+        "revenue": 15.25
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 3,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0
+        },
+        "revenue": 19.119999999999997
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 0,
+          "Kellogg's Corn Flakes 18 oz Box": 0
+        },
+        "revenue": 5.86
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 4,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0
+        },
+        "revenue": 8.440000000000001
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0
+        },
+        "revenue": 7.15
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0
+        },
+        "revenue": 7.15
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0
+        },
+        "revenue": 7.15
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 4,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0
+        },
+        "revenue": 8.440000000000001
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 3,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 20.62
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 3,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 4,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 25.11
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 5,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 27.020000000000003
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 3,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 16.75
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 0,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 0,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 3.2800000000000002
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 3
+        },
+        "revenue": 11.650000000000002
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 3
+        },
+        "revenue": 11.650000000000002
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 2
+        },
+        "revenue": 8.86
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 3,
+          "De Cecco Penne Rigate No. 41 16 oz": 3
+        },
+        "revenue": 25.12
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 3,
+          "De Cecco Penne Rigate No. 41 16 oz": 2
+        },
+        "revenue": 20.340000000000003
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 4,
+          "De Cecco Penne Rigate No. 41 16 oz": 2
+        },
+        "revenue": 24.83
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 3
+        },
+        "revenue": 9.66
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 2
+        },
+        "revenue": 6.87
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 4
+        },
+        "revenue": 12.45
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 2
+        },
+        "revenue": 8.86
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 4
+        },
+        "revenue": 14.440000000000001
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 5.86
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 1,
+          "Mountain Dew SPARK 12oz Can (355ml)": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 6.0600000000000005
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 5.86
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Tootsie Roll Midgees 12 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "M&M's Milk Chocolate Fun Size 8 oz Bag": 0,
+          "Tootsie Roll Midgees 8 oz Bag": 0,
+          "Monster Nitro Super Dry 16oz Can": 0,
+          "Lipton Ice Tea Lemon 16.9oz Bottle": 0,
+          "Mountain Dew SPARK 12oz Can (355ml)": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Rayovac High Energy AA Alkaline": 1,
+          "Kellogg's Corn Flakes 18 oz Box": 0,
+          "De Cecco Penne Rigate No. 41 16 oz": 0
+        },
+        "revenue": 5.86
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 12 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 29.8,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 3,
+        "delivery_day": 10,
+        "delivery_days": 7,
+        "total_cost": 18.3,
+        "delivered_day": 10
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 15,
+        "delivery_day": 22,
+        "delivery_days": 7,
+        "total_cost": 37.25,
+        "delivered_day": 22
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 15,
+        "delivery_day": 22,
+        "delivery_days": 7,
+        "total_cost": 18.3,
+        "delivered_day": 22
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 30,
+        "delivery_day": 37,
+        "delivery_days": 7,
+        "total_cost": 44.7,
+        "delivered_day": 37
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 30,
+        "delivery_day": 37,
+        "delivery_days": 7,
+        "total_cost": 18.3,
+        "delivered_day": 37
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 42,
+        "delivery_day": 49,
+        "delivery_days": 7,
+        "total_cost": 14.9,
+        "delivered_day": 49
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 44,
+        "delivery_day": 51,
+        "delivery_days": 7,
+        "total_cost": 9.15,
+        "delivered_day": 51
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 47,
+        "delivery_day": 54,
+        "delivery_days": 7,
+        "total_cost": 14.9,
+        "delivered_day": 54
+      },
+      {
+        "items": [
+          {
+            "name": "M&M's Milk Chocolate Fun Size 8 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 52,
+        "delivery_day": 59,
+        "delivery_days": 7,
+        "total_cost": 41.3,
+        "delivered_day": 59
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 14.9,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 65,
+        "delivery_day": 72,
+        "delivery_days": 7,
+        "total_cost": 9.15,
+        "delivered_day": 72
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 70,
+        "delivery_day": 77,
+        "delivery_days": 7,
+        "total_cost": 22.35,
+        "delivered_day": 77
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 80,
+        "delivery_day": 87,
+        "delivery_days": 7,
+        "total_cost": 22.35,
+        "delivered_day": 87
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 82,
+        "delivery_day": 89,
+        "delivery_days": 7,
+        "total_cost": 9.15,
+        "delivered_day": 89
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 84,
+        "delivery_day": 91,
+        "delivery_days": 7,
+        "total_cost": 29.8,
+        "delivered_day": 91
+      },
+      {
+        "items": [
+          {
+            "name": "M&M's Milk Chocolate Fun Size 8 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 84,
+        "delivery_day": 91,
+        "delivery_days": 7,
+        "total_cost": 61.95,
+        "delivered_day": 91
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 94,
+        "delivery_day": 101,
+        "delivery_days": 7,
+        "total_cost": 37.25,
+        "delivered_day": 101
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 94,
+        "delivery_day": 101,
+        "delivery_days": 7,
+        "total_cost": 12.2,
+        "delivered_day": 101
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 106,
+        "delivery_day": 113,
+        "delivery_days": 7,
+        "total_cost": 44.7,
+        "delivered_day": 113
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 106,
+        "delivery_day": 113,
+        "delivery_days": 7,
+        "total_cost": 15.25,
+        "delivered_day": 113
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 122,
+        "delivery_day": 129,
+        "delivery_days": 7,
+        "total_cost": 44.7,
+        "delivered_day": 129
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 122,
+        "delivery_day": 129,
+        "delivery_days": 7,
+        "total_cost": 15.25,
+        "delivered_day": 129
+      },
+      {
+        "items": [
+          {
+            "name": "Tootsie Roll Midgees 8 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 134,
+        "delivery_day": 141,
+        "delivery_days": 7,
+        "total_cost": 60.0,
+        "delivered_day": 141
+      },
+      {
+        "items": [
+          {
+            "name": "Lipton Ice Tea Lemon 16.9oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 135,
+        "delivery_day": 142,
+        "delivery_days": 7,
+        "total_cost": 28.5,
+        "delivered_day": 142
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 137,
+        "delivery_day": 144,
+        "delivery_days": 7,
+        "total_cost": 16.2,
+        "delivered_day": 144
+      },
+      {
+        "items": [
+          {
+            "name": "Rayovac High Energy AA Alkaline",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 144,
+        "delivery_day": 151,
+        "delivery_days": 7,
+        "total_cost": 20.0,
+        "delivered_day": 151
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 147,
+        "delivery_day": 154,
+        "delivery_days": 7,
+        "total_cost": 23.7,
+        "delivered_day": 154
+      },
+      {
+        "items": [
+          {
+            "name": "Kellogg's Corn Flakes 18 oz Box",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 154,
+        "delivery_day": 161,
+        "delivery_days": 7,
+        "total_cost": 48.0,
+        "delivered_day": 161
+      },
+      {
+        "items": [
+          {
+            "name": "De Cecco Penne Rigate No. 41 16 oz",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 161,
+        "delivery_day": 168,
+        "delivery_days": 7,
+        "total_cost": 37.0,
+        "delivered_day": 168
+      },
+      {
+        "items": [
+          {
+            "name": "Kellogg's Corn Flakes 18 oz Box",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 164,
+        "delivery_day": 171,
+        "delivery_days": 7,
+        "total_cost": 32.0,
+        "delivered_day": 171
+      },
+      {
+        "items": [
+          {
+            "name": "De Cecco Penne Rigate No. 41 16 oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 169,
+        "delivery_day": 176,
+        "delivery_days": 7,
+        "total_cost": 18.5,
+        "delivered_day": 176
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 170,
+        "delivery_day": 177,
+        "delivery_days": 7,
+        "total_cost": 8.1,
+        "delivered_day": 177
+      },
+      {
+        "items": [
+          {
+            "name": "Rayovac High Energy AA Alkaline",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 171,
+        "delivery_day": 178,
+        "delivery_days": 7,
+        "total_cost": 5.0,
+        "delivered_day": 178
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 172,
+        "delivery_day": 179,
+        "delivery_days": 7,
+        "total_cost": 7.9,
+        "delivered_day": 179
+      },
+      {
+        "items": [
+          {
+            "name": "Lipton Ice Tea Lemon 16.9oz Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 173,
+        "delivery_day": 180,
+        "delivery_days": 7,
+        "total_cost": 9.5,
+        "delivered_day": 180
+      },
+      {
+        "items": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "quantity": 10
+          }
+        ],
+        "status": "processing",
+        "created_day": 180,
+        "delivery_day": 187,
+        "delivery_days": 7,
+        "total_cost": 14.9
+      }
+    ],
+    "products": [
+      "Tootsie Roll Midgees 12 oz Bag",
+      "Tootsie Roll Midgees 8 oz Bag",
+      "M&M's Milk Chocolate Fun Size 8 oz Bag",
+      "Monster Nitro Super Dry 16oz Can",
+      "Monster Ultra Peachy Keen 16oz Can",
+      "Mountain Dew SPARK 12oz Can (355ml)",
+      "Bulk Gummy Worms 2.5 oz Bag",
+      "San Pellegrino Sparkling Natural Mineral Water 25.3 fl oz Glass Bottle",
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle",
+      "Perrier Sparkling Natural Mineral Water 8.45 fl oz Glass Bottle",
+      "Rayovac High Energy AA Alkaline",
+      "Rayovac High Energy AAA Alkaline",
+      "Beistle Birthday Photo Booth Props, 12-Piece Assortment",
+      "Panasonic CR123A Lithium Photo Battery",
+      "Duracell CR2 Lithium Photo Battery",
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+      "AlBayrouty Red Kidney Beans 400g Can",
+      "AlBayrouty Chick Peas in Brine 400g Can",
+      "AlBayrouty Broad Beans 400g Can",
+      "Lipton Ice Tea Lemon 16.9oz Bottle",
+      "Lipton Ice Tea Peach 16.9oz Bottle",
+      "Fuze Tea Peach 500ml Bottle",
+      "Blue Bunny Cookies & Cream Bar 24-count",
+      "Factory Direct Party Confetti Party Poppers, 6-Count",
+      "Kellogg's Corn Flakes 18 oz Box",
+      "Kellogg's Froot Loops 13.5 oz Box",
+      "Kellogg's Frosted Flakes 24 oz Bag",
+      "Rao's Homemade Thin Spaghetti 16 oz",
+      "De Cecco Spaghetti No. 12 16 oz",
+      "De Cecco Penne Rigate No. 41 16 oz",
+      "Purvey'd Bulk Carrots 1 lb",
+      "BuyBulkHardware 42 Gallon Contractor Trash Bag 3 mil (50-count case)",
+      "De Cecco Rigatoni No. 24 16 oz",
+      "Blue Bunny Chocolate Eclair Bar 24-count",
+      "Blue Bunny Strawberry Shortcake Bar 24-count",
+      "Energizer Max AA Alkaline E91",
+      "Energizer Max AAA Alkaline E92",
+      "Duracell Coppertop AA Alkaline MN1500"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "tea beverages",
+        "results": [
+          {
+            "name": "Lipton Ice Tea Lemon 16.9oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.95
+          },
+          {
+            "name": "Lipton Ice Tea Peach 16.9oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.95
+          },
+          {
+            "name": "Fuze Tea Peach 500ml Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.05
+          }
+        ],
+        "timestamp": 1773931899.2266643
+      },
+      {
+        "query": "Monster energy drink",
+        "results": [
+          {
+            "name": "Monster Nitro Super Dry 16oz Can",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.49
+          },
+          {
+            "name": "Monster Ultra Peachy Keen 16oz Can",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.49
+          },
+          {
+            "name": "Rayovac High Energy AA Alkaline",
+            "category": "Batteries & Light Bulbs",
+            "wholesale_price": 0.5
+          }
+        ],
+        "timestamp": 1773931928.8407965
+      }
+    ]
+  }
+}
