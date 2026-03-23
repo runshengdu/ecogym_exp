@@ -1,0 +1,3373 @@
+{
+  "step": 316,
+  "timestamp": "2026-03-20T22:14:26.162075",
+  "state": {
+    "money": 1918.3900000000006,
+    "day": 183,
+    "product_prices": {
+      "Hershey's Assorted Miniatures 8 oz Bag": 9.0,
+      "Sprite 20oz Bottle": 1.45,
+      "Mountain Dew 20oz Bottle": 1.5,
+      "Method Daily Shampoo 12 fl oz": 7.0,
+      "Blue Bunny Cookies & Cream Bar 24-count": 1.05,
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 3.5,
+      "Energizer L91 AA Lithium Battery": 2.5,
+      "Danimals Strawberry Smoothie 3.1 oz Bottle": 1.5
+    },
+    "product_quantities": {
+      "Hershey's Assorted Miniatures 8 oz Bag": 0,
+      "Sprite 20oz Bottle": 0,
+      "Mountain Dew 20oz Bottle": 4,
+      "Method Daily Shampoo 12 fl oz": 0,
+      "Blue Bunny Cookies & Cream Bar 24-count": 0,
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 5,
+      "Energizer L91 AA Lithium Battery": 0,
+      "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Energizer 357/303 SR44 Silver Oxide Button Cell": 0.9,
+      "Energizer CR2450 Lithium Coin Cell 3V": 0.85,
+      "Rayovac High Energy AAA Alkaline": 0.5,
+      "DollarDays Bamboo Utensil Travel Set 3-Piece with Pouch": 2.76,
+      "Lotus Foods Millet & Brown Rice Ramen 2.8 oz": 1.7,
+      "GP 23A 12V Alkaline Battery": 0.8,
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister": 1.5,
+      "Pizza Puffs Spinach 5 oz": 1.67,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Polar Seltzer Orange Vanilla 12 oz Can": 0.5,
+      "Sprite 20oz Bottle": 0.99,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Bitchin' Sauce Chipotle 8 oz": 3.0,
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle": 4.5,
+      "DiChickos Extra Hot Peri-Peri Sauce 12 oz": 2.25,
+      "Bulk Jelly Babies 2 oz Bag": 0.86,
+      "Bulk Jelly Babies 3.5 oz Bag": 1.5,
+      "Bulk Gummy Worms 2.5 oz Bag": 0.61,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1.24,
+      "Mountain Dew SPARK 12oz Can (355ml)": 0.79,
+      "Mountain Dew 20oz Bottle": 0.95,
+      "Method Daily Shampoo 12 fl oz": 3.0,
+      "DollarDays Argan Oil Shampoo 12 oz": 3.49,
+      "Pravada Strengthening Shampoo with Biotin + Hyaluronic Acid 12 fl oz": 3.95,
+      "Blue Bunny Cookies & Cream Bar 24-count": 0.81,
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0.81,
+      "Blue Bunny Big Dipper Vanilla Cone 24-count": 1.1,
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)": 1.63,
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC13135)": 1.61,
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1.34,
+      "Gold Medal Bread Flour 5 lb Bag": 4.6,
+      "Bakers Authority Impastata (Smooth Ricotta) 16oz Tub": 4.78,
+      "Bakers Authority Impastata (Smooth Ricotta) 8oz Tub": 2.39,
+      "Energizer L91 AA Lithium Battery": 1.85,
+      "Crestline Silicone Basting Brush 8-inch": 1.5,
+      "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0.95,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1.95,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Butterfinger Fun Size 5 oz Bag": 4.36,
+      "Danimals Strawberry Smoothie 3.1 oz Bottle": 0.55,
+      "SheaMoisture Coconut & Hibiscus Curl & Shine Shampoo 13 oz": 5.0,
+      "Energizer Max AA Alkaline E91": 0.52,
+      "Energizer Max AAA Alkaline E92": 0.52,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Hershey's Kisses Milk Chocolate 4 oz Bag": 3.67,
+      "Blue Bunny Fudge Bar 24-count": 0.81,
+      "Blue Bunny Strawberry Shortcake Bar 24-count": 0.81,
+      "Pepsi 20oz Bottle": 0.99,
+      "Earth's Best Organic Fruit & Yogurt Smoothie Strawberry Banana 4.2 oz Pouch": 1.9,
+      "Fanta Strawberry 20oz Bottle": 1.05,
+      "Method Daily Conditioner 12 fl oz": 3.0,
+      "DollarDays Essentials Daily Shampoo 8 oz": 1.25,
+      "Dr Pepper 20oz Bottle": 1.0,
+      "Monster Nitro Super Dry 16oz Can": 1.49,
+      "Full Harvest Russet Potatoes 1 lb": 0.8
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 18.0
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 9.0
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 17.8
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 17.8
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0
+        },
+        "revenue": 17.8
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0
+        },
+        "revenue": 19.6
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0
+        },
+        "revenue": 19.6
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0
+        },
+        "revenue": 19.6
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0
+        },
+        "revenue": 17.8
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0
+        },
+        "revenue": 26.6
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0
+        },
+        "revenue": 19.6
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0
+        },
+        "revenue": 19.6
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1
+        },
+        "revenue": 24.3
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1
+        },
+        "revenue": 27.0
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1
+        },
+        "revenue": 24.3
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1
+        },
+        "revenue": 24.0
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0
+        },
+        "revenue": 16.2
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 4,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0
+        },
+        "revenue": 25.5
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0
+        },
+        "revenue": 23.7
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0
+        },
+        "revenue": 32.5
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0
+        },
+        "revenue": 23.7
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0
+        },
+        "revenue": 15.3
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2
+        },
+        "revenue": 21.2
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 21.8
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 22.5
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 1,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 18.7
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 23.7
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 28.5
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 19.7
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 23.0
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 21.2
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 1,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 20.2
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 16.2
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 17.7
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 17.7
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 17.4
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 18.0
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 15.0
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 15.0
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 15.0
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 15.0
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 15.0
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 13.5
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 15.0
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 15.0
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 22.0
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 8.0
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 6.5
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 6.5
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 8.0
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 13.3
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 10.0
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 13.9
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 13.9
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 10.3
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.1
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 2
+        },
+        "revenue": 13.6
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 2
+        },
+        "revenue": 13.6
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 11.5
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 2
+        },
+        "revenue": 20.0
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 0,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 2
+        },
+        "revenue": 20.5
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 22.5
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 30.0
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 31.1
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 1,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 27.1
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 31.1
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 31.1
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 34.2
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 29.9
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 29.9
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 25.6
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 26.9
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 17.1
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 12.0
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 13.4
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 10.7
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 2
+        },
+        "revenue": 25.5
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 2,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 36.3
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 35.599999999999994
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 33.849999999999994
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 30.15
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 32.65
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 34.099999999999994
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 30.15
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 41.099999999999994
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 38.15
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 37.15
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 39.65
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 1,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 27.65
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 32.95
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 23.95
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 25.4
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 23.65
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 41.65
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 31.45
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 37.05
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 1,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 44.949999999999996
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 39.0
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 3,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 49.449999999999996
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 40.45
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 31.45
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 42.95
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 41.5
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 40.45
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 44.0
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 26.0
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 20.0
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 20.0
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 18.05
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 37.6
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 45.1
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 4,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 47.95
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 3,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 43.6
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 35.0
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 4,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 49.050000000000004
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 5,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 4,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 58.15
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 1,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 35.45
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 3,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 33.35
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 4,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 3,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 37.099999999999994
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 4,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 2,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 41.599999999999994
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 4,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 2
+        },
+        "revenue": 40.1
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 4,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 31.099999999999998
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 6,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 33.2
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 6,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 38.7
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 2,
+          "Blue Bunny Cookies & Cream Bar 24-count": 2,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 2
+        },
+        "revenue": 34.55
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 1,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 23.95
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 18.4
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 18.4
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 1
+        },
+        "revenue": 18.4
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 16.9
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 15.45
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 15.45
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 7.9
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 9.4
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 7.9
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 7.9
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 7.9
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 6.5
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 6.5
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 8.0
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 4,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Blue Bunny Cookies & Cream Bar 24-count": 0,
+          "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1,
+          "Energizer L91 AA Lithium Battery": 0,
+          "Danimals Strawberry Smoothie 3.1 oz Bottle": 0
+        },
+        "revenue": 9.5
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 0,
+        "delivery_day": 7,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 7
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 19
+          }
+        ],
+        "status": "delivered",
+        "created_day": 8,
+        "delivery_day": 15,
+        "delivery_days": 7,
+        "total_cost": 18.81,
+        "delivered_day": 15
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 11,
+        "delivery_day": 18,
+        "delivery_days": 7,
+        "total_cost": 36.0,
+        "delivered_day": 18
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 16,
+        "delivery_day": 23,
+        "delivery_days": 7,
+        "total_cost": 38.0,
+        "delivered_day": 23
+      },
+      {
+        "items": [
+          {
+            "name": "Method Daily Shampoo 12 fl oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 18,
+        "delivery_day": 25,
+        "delivery_days": 7,
+        "total_cost": 30.0,
+        "delivered_day": 25
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 20,
+        "delivery_day": 27,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 27
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 23,
+        "delivery_day": 30,
+        "delivery_days": 7,
+        "total_cost": 16.2,
+        "delivered_day": 30
+      },
+      {
+        "items": [
+          {
+            "name": "Method Daily Shampoo 12 fl oz",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 26,
+        "delivery_day": 33,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 33
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 27,
+        "delivery_day": 34,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 34
+      },
+      {
+        "items": [
+          {
+            "name": "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 28,
+        "delivery_day": 35,
+        "delivery_days": 7,
+        "total_cost": 26.8,
+        "delivered_day": 35
+      },
+      {
+        "items": [
+          {
+            "name": "Method Daily Shampoo 12 fl oz",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 32,
+        "delivery_day": 39,
+        "delivery_days": 7,
+        "total_cost": 75.0,
+        "delivered_day": 39
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 36
+          }
+        ],
+        "status": "delivered",
+        "created_day": 33,
+        "delivery_day": 40,
+        "delivery_days": 7,
+        "total_cost": 34.2,
+        "delivered_day": 40
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 4
+          }
+        ],
+        "status": "delivered",
+        "created_day": 34,
+        "delivery_day": 41,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 41
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 37,
+        "delivery_day": 44,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 44
+      },
+      {
+        "items": [
+          {
+            "name": "Energizer L91 AA Lithium Battery",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 39,
+        "delivery_day": 46,
+        "delivery_days": 7,
+        "total_cost": 37.0,
+        "delivered_day": 46
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 42,
+        "delivery_day": 49,
+        "delivery_days": 7,
+        "total_cost": 39.6,
+        "delivered_day": 49
+      },
+      {
+        "items": [
+          {
+            "name": "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 42,
+        "delivery_day": 49,
+        "delivery_days": 7,
+        "total_cost": 26.8,
+        "delivered_day": 49
+      },
+      {
+        "items": [
+          {
+            "name": "Danimals Strawberry Smoothie 3.1 oz Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 46,
+        "delivery_day": 53,
+        "delivery_days": 7,
+        "total_cost": 27.5,
+        "delivered_day": 53
+      },
+      {
+        "items": [
+          {
+            "name": "Method Daily Shampoo 12 fl oz",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 72,
+        "delivery_day": 79,
+        "delivery_days": 7,
+        "total_cost": 90.0,
+        "delivered_day": 79
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 60
+          }
+        ],
+        "status": "delivered",
+        "created_day": 89,
+        "delivery_day": 96,
+        "delivery_days": 7,
+        "total_cost": 59.4,
+        "delivered_day": 96
+      },
+      {
+        "items": [
+          {
+            "name": "Energizer L91 AA Lithium Battery",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 91,
+        "delivery_day": 98,
+        "delivery_days": 7,
+        "total_cost": 55.5,
+        "delivered_day": 98
+      },
+      {
+        "items": [
+          {
+            "name": "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 92,
+        "delivery_day": 99,
+        "delivery_days": 7,
+        "total_cost": 40.2,
+        "delivered_day": 99
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 93,
+        "delivery_day": 100,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 100
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 94,
+        "delivery_day": 101,
+        "delivery_days": 7,
+        "total_cost": 24.3,
+        "delivered_day": 101
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 100,
+        "delivery_day": 107,
+        "delivery_days": 7,
+        "total_cost": 38.0,
+        "delivered_day": 107
+      },
+      {
+        "items": [
+          {
+            "name": "Danimals Strawberry Smoothie 3.1 oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 101,
+        "delivery_day": 108,
+        "delivery_days": 7,
+        "total_cost": 16.5,
+        "delivered_day": 108
+      },
+      {
+        "items": [
+          {
+            "name": "Method Daily Shampoo 12 fl oz",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 107,
+        "delivery_day": 114,
+        "delivery_days": 7,
+        "total_cost": 90.0,
+        "delivered_day": 114
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 107,
+        "delivery_day": 114,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 114
+      },
+      {
+        "items": [
+          {
+            "name": "Energizer L91 AA Lithium Battery",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 108,
+        "delivery_day": 115,
+        "delivery_days": 7,
+        "total_cost": 55.5,
+        "delivered_day": 115
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 108,
+        "delivery_day": 115,
+        "delivery_days": 7,
+        "total_cost": 24.3,
+        "delivered_day": 115
+      },
+      {
+        "items": [
+          {
+            "name": "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 113,
+        "delivery_day": 120,
+        "delivery_days": 7,
+        "total_cost": 40.2,
+        "delivered_day": 120
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 115,
+        "delivery_day": 122,
+        "delivery_days": 7,
+        "total_cost": 39.6,
+        "delivered_day": 122
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 117,
+        "delivery_day": 124,
+        "delivery_days": 7,
+        "total_cost": 135.0,
+        "delivered_day": 124
+      },
+      {
+        "items": [
+          {
+            "name": "Energizer L91 AA Lithium Battery",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 124,
+        "delivery_day": 131,
+        "delivery_days": 7,
+        "total_cost": 55.5,
+        "delivered_day": 131
+      },
+      {
+        "items": [
+          {
+            "name": "Danimals Strawberry Smoothie 3.1 oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 125,
+        "delivery_day": 132,
+        "delivery_days": 7,
+        "total_cost": 16.5,
+        "delivered_day": 132
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 129,
+        "delivery_day": 136,
+        "delivery_days": 7,
+        "total_cost": 24.3,
+        "delivered_day": 136
+      },
+      {
+        "items": [
+          {
+            "name": "Method Daily Shampoo 12 fl oz",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 131,
+        "delivery_day": 138,
+        "delivery_days": 7,
+        "total_cost": 90.0,
+        "delivered_day": 138
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 132,
+        "delivery_day": 139,
+        "delivery_days": 7,
+        "total_cost": 38.0,
+        "delivered_day": 139
+      },
+      {
+        "items": [
+          {
+            "name": "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 139,
+        "delivery_day": 146,
+        "delivery_days": 7,
+        "total_cost": 40.2,
+        "delivered_day": 146
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 140,
+        "delivery_day": 147,
+        "delivery_days": 7,
+        "total_cost": 135.0,
+        "delivered_day": 147
+      },
+      {
+        "items": [
+          {
+            "name": "Energizer L91 AA Lithium Battery",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 141,
+        "delivery_day": 148,
+        "delivery_days": 7,
+        "total_cost": 55.5,
+        "delivered_day": 148
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 142,
+        "delivery_day": 149,
+        "delivery_days": 7,
+        "total_cost": 39.6,
+        "delivered_day": 149
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 149,
+        "delivery_day": 156,
+        "delivery_days": 7,
+        "total_cost": 24.3,
+        "delivered_day": 156
+      }
+    ],
+    "products": [
+      "Energizer 357/303 SR44 Silver Oxide Button Cell",
+      "Energizer CR2450 Lithium Coin Cell 3V",
+      "Rayovac High Energy AAA Alkaline",
+      "DollarDays Bamboo Utensil Travel Set 3-Piece with Pouch",
+      "Lotus Foods Millet & Brown Rice Ramen 2.8 oz",
+      "GP 23A 12V Alkaline Battery",
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+      "Pizza Puffs Spinach 5 oz",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Polar Seltzer Orange Vanilla 12 oz Can",
+      "Sprite 20oz Bottle",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Bitchin' Sauce Chipotle 8 oz",
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle",
+      "DiChickos Extra Hot Peri-Peri Sauce 12 oz",
+      "Bulk Jelly Babies 2 oz Bag",
+      "Bulk Jelly Babies 3.5 oz Bag",
+      "Bulk Gummy Worms 2.5 oz Bag",
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+      "Mountain Dew SPARK 12oz Can (355ml)",
+      "Mountain Dew 20oz Bottle",
+      "Method Daily Shampoo 12 fl oz",
+      "DollarDays Argan Oil Shampoo 12 oz",
+      "Pravada Strengthening Shampoo with Biotin + Hyaluronic Acid 12 fl oz",
+      "Blue Bunny Cookies & Cream Bar 24-count",
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count",
+      "Blue Bunny Big Dipper Vanilla Cone 24-count",
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)",
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC13135)",
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)",
+      "Gold Medal Bread Flour 5 lb Bag",
+      "Bakers Authority Impastata (Smooth Ricotta) 16oz Tub",
+      "Bakers Authority Impastata (Smooth Ricotta) 8oz Tub",
+      "Energizer L91 AA Lithium Battery",
+      "Crestline Silicone Basting Brush 8-inch",
+      "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush",
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Butterfinger Fun Size 5 oz Bag",
+      "Danimals Strawberry Smoothie 3.1 oz Bottle",
+      "SheaMoisture Coconut & Hibiscus Curl & Shine Shampoo 13 oz",
+      "Energizer Max AA Alkaline E91",
+      "Energizer Max AAA Alkaline E92",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Hershey's Kisses Milk Chocolate 4 oz Bag",
+      "Blue Bunny Fudge Bar 24-count",
+      "Blue Bunny Strawberry Shortcake Bar 24-count",
+      "Pepsi 20oz Bottle",
+      "Earth's Best Organic Fruit & Yogurt Smoothie Strawberry Banana 4.2 oz Pouch",
+      "Fanta Strawberry 20oz Bottle",
+      "Method Daily Conditioner 12 fl oz",
+      "DollarDays Essentials Daily Shampoo 8 oz",
+      "Dr Pepper 20oz Bottle",
+      "Monster Nitro Super Dry 16oz Can",
+      "Full Harvest Russet Potatoes 1 lb"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "Mountain Dew 20oz Bottle",
+        "results": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.95
+          },
+          {
+            "name": "Mountain Dew SPARK 12oz Can (355ml)",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.79
+          },
+          {
+            "name": "Pepsi 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.99
+          }
+        ],
+        "timestamp": 1774015763.7128582
+      },
+      {
+        "query": "Blue Bunny Cookies & Cream Bar 24-count",
+        "results": [
+          {
+            "name": "Blue Bunny Cookies & Cream Bar 24-count",
+            "category": "Ice Cream & Desserts",
+            "wholesale_price": 0.81
+          },
+          {
+            "name": "Blue Bunny Fudge Bar 24-count",
+            "category": "Ice Cream & Desserts",
+            "wholesale_price": 0.81
+          },
+          {
+            "name": "Blue Bunny Strawberry Shortcake Bar 24-count",
+            "category": "Ice Cream & Desserts",
+            "wholesale_price": 0.81
+          }
+        ],
+        "timestamp": 1774015896.572785
+      }
+    ]
+  }
+}

@@ -1,0 +1,4292 @@
+{
+  "step": 252,
+  "timestamp": "2026-03-20T15:27:38.531084",
+  "state": {
+    "money": 384.1800000000012,
+    "day": 183,
+    "product_prices": {
+      "Pepsi 20oz Bottle": 1.99,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1.49,
+      "Fanta Orange 20oz Bottle": 1.99,
+      "Fanta Strawberry 20oz Bottle": 1.99,
+      "Alibaba Supplier IQF Peach Slices 16 oz": 3.49,
+      "Alibaba Supplier IQF Strawberry Slices 16 oz": 3.69,
+      "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 1.99,
+      "Alibaba Supplier IQF Whole Strawberries 16 oz": 3.89,
+      "Sprite 20oz Bottle": 1.99,
+      "Mountain Dew 20oz Bottle": 1.99,
+      "Blue Bunny Fudge Bar 24-count": 1.99,
+      "Hershey's Assorted Miniatures 4 oz Bag": 3.99,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 5.99,
+      "Sprite Zero Sugar 20oz Bottle": 1.99,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.99,
+      "Economy Produce Romaine Lettuce Head 1 ct": 3.99,
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze": 3.49,
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1.99,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 2.99
+    },
+    "product_quantities": {
+      "Pepsi 20oz Bottle": 41,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+      "Fanta Orange 20oz Bottle": 4,
+      "Fanta Strawberry 20oz Bottle": 13,
+      "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+      "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+      "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+      "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+      "Sprite 20oz Bottle": 18,
+      "Mountain Dew 20oz Bottle": 24,
+      "Blue Bunny Fudge Bar 24-count": 0,
+      "Hershey's Assorted Miniatures 4 oz Bag": 0,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 18,
+      "Sprite Zero Sugar 20oz Bottle": 14,
+      "Coca-Cola Zero Sugar 20oz Bottle": 11,
+      "Economy Produce Romaine Lettuce Head 1 ct": 0,
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Pepsi 20oz Bottle": 0.99,
+      "Factory Direct Party Confetti Party Poppers, 6-Count": 1.29,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0.99,
+      "Alibaba Supplier IQF Whole Strawberries 16 oz": 2.1,
+      "Alibaba Supplier IQF Blackberries 16 oz": 3.2,
+      "Alibaba Supplier IQF Cherry Halves 16 oz": 3.8,
+      "Fanta Strawberry 20oz Bottle": 1.05,
+      "Monster Ultra Peachy Keen 16oz Can": 1.49,
+      "Fanta Orange 20oz Bottle": 1.0,
+      "Alibaba Supplier IQF Strawberry Slices 16 oz": 1.9,
+      "Alibaba Supplier IQF Peach Slices 16 oz": 1.85,
+      "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0.98,
+      "Sprite 20oz Bottle": 0.99,
+      "Blue Bunny Big Dipper Vanilla Cone 24-count": 1.1,
+      "Mountain Dew 20oz Bottle": 0.95,
+      "Blue Bunny Fudge Bar 24-count": 0.81,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 3.0,
+      "Tresemme Pro Pure Conditioner 16 fl oz": 3.0,
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz": 4.13,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.05,
+      "Economy Produce Romaine Lettuce Head 1 ct": 2.25,
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1.8,
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0.81,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1.2
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Pepsi 20oz Bottle": 1
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 3.98
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0
+        },
+        "revenue": 3.98
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0
+        },
+        "revenue": 3.98
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 1.49
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 7.46
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2
+        },
+        "revenue": 6.96
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2
+        },
+        "revenue": 6.96
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2
+        },
+        "revenue": 6.96
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2
+        },
+        "revenue": 6.96
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2
+        },
+        "revenue": 6.96
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 8.96
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 14.139999999999999
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 8.96
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 10.45
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 10.45
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 10.45
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 2,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 14.43
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 14.139999999999999
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 16.13
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 12.44
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 10.45
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 12.65
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 11.16
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 9.46
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Pepsi 20oz Bottle": 4,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 11.45
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 2,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 12.95
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 11.16
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 11.16
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 11.16
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 11.16
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 13.15
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Pepsi 20oz Bottle": 3,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 2,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 16.64
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Pepsi 20oz Bottle": 2,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 11.16
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 14.139999999999999
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 14.139999999999999
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 1
+        },
+        "revenue": 14.139999999999999
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 10.45
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 3,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 2,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 15.43
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 2,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 3,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 19.42
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 2,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0
+        },
+        "revenue": 13.940000000000001
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 2,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 1,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 3
+        },
+        "revenue": 23.8
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 1,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 3
+        },
+        "revenue": 22.299999999999997
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 2,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 1,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 2
+        },
+        "revenue": 23.8
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 1,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 2
+        },
+        "revenue": 20.31
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 2,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 1,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 2
+        },
+        "revenue": 20.32
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 1,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 1,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 2,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 3
+        },
+        "revenue": 32.28
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 2,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 2,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 2
+        },
+        "revenue": 28.689999999999998
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 2,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 3,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 3
+        },
+        "revenue": 32.68
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 1,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 2
+        },
+        "revenue": 15.940000000000001
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0
+        },
+        "revenue": 3.98
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1
+        },
+        "revenue": 9.97
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2
+        },
+        "revenue": 17.95
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1
+        },
+        "revenue": 11.97
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1
+        },
+        "revenue": 11.97
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1
+        },
+        "revenue": 17.96
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1
+        },
+        "revenue": 11.97
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 3,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 17.450000000000003
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 2,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 13.950000000000001
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 2,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 9.97
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 2,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 11.96
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 12.46
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 1,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 1,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 9.97
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Pepsi 20oz Bottle": 1,
+          "Fanta Orange 20oz Bottle": 1,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 15.96
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 13.97
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 1.99
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 0,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 2,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 11.98
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Pepsi 20oz Bottle": 0,
+          "Fanta Orange 20oz Bottle": 0,
+          "Fanta Strawberry 20oz Bottle": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Alibaba Supplier IQF Peach Slices 16 oz": 0,
+          "Alibaba Supplier IQF Strawberry Slices 16 oz": 0,
+          "Alibaba Supplier IQF Whole Strawberries 16 oz": 0,
+          "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0,
+          "Blue Bunny Fudge Bar 24-count": 0,
+          "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Tresemme Pro Pure Shampoo 16 fl oz": 1,
+          "Economy Produce Romaine Lettuce Head 1 ct": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 0
+        },
+        "revenue": 5.99
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 0,
+        "delivery_day": 7,
+        "delivery_days": 7,
+        "total_cost": 49.5,
+        "delivered_day": 7
+      },
+      {
+        "items": [
+          {
+            "name": "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 49.5,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Fanta Orange 20oz Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 11,
+        "delivery_day": 18,
+        "delivery_days": 7,
+        "total_cost": 10.0,
+        "delivered_day": 18
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 12,
+        "delivery_day": 19,
+        "delivery_days": 7,
+        "total_cost": 9.9,
+        "delivered_day": 19
+      },
+      {
+        "items": [
+          {
+            "name": "Fanta Strawberry 20oz Bottle",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 13,
+        "delivery_day": 20,
+        "delivery_days": 7,
+        "total_cost": 5.25,
+        "delivered_day": 20
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 21,
+        "delivery_day": 28,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 28
+      },
+      {
+        "items": [
+          {
+            "name": "Fanta Orange 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 21,
+        "delivery_day": 28,
+        "delivery_days": 7,
+        "total_cost": 15.0,
+        "delivered_day": 28
+      },
+      {
+        "items": [
+          {
+            "name": "Alibaba Supplier IQF Peach Slices 16 oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 28,
+        "delivery_day": 35,
+        "delivery_days": 7,
+        "total_cost": 18.5,
+        "delivered_day": 35
+      },
+      {
+        "items": [
+          {
+            "name": "Alibaba Supplier IQF Strawberry Slices 16 oz",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 28,
+        "delivery_day": 35,
+        "delivery_days": 7,
+        "total_cost": 9.5,
+        "delivered_day": 35
+      },
+      {
+        "items": [
+          {
+            "name": "Alibaba Supplier IQF Peach Slices 16 oz",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 37,
+        "delivery_day": 44,
+        "delivery_days": 7,
+        "total_cost": 27.75,
+        "delivered_day": 44
+      },
+      {
+        "items": [
+          {
+            "name": "Alibaba Supplier IQF Strawberry Slices 16 oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 44,
+        "delivery_day": 51,
+        "delivery_days": 7,
+        "total_cost": 19.0,
+        "delivered_day": 51
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 51,
+        "delivery_day": 58,
+        "delivery_days": 7,
+        "total_cost": 49.5,
+        "delivered_day": 58
+      },
+      {
+        "items": [
+          {
+            "name": "Fanta Orange 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 51,
+        "delivery_day": 58,
+        "delivery_days": 7,
+        "total_cost": 20.0,
+        "delivered_day": 58
+      },
+      {
+        "items": [
+          {
+            "name": "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 51,
+        "delivery_day": 58,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 58
+      },
+      {
+        "items": [
+          {
+            "name": "Alibaba Supplier IQF Peach Slices 16 oz",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 51,
+        "delivery_day": 58,
+        "delivery_days": 7,
+        "total_cost": 37.0,
+        "delivered_day": 58
+      },
+      {
+        "items": [
+          {
+            "name": "Great Value Golden Sweet Whole Kernel Corn 15 oz Can",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 58,
+        "delivery_day": 65,
+        "delivery_days": 7,
+        "total_cost": 19.6,
+        "delivered_day": 65
+      },
+      {
+        "items": [
+          {
+            "name": "Alibaba Supplier IQF Whole Strawberries 16 oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 58,
+        "delivery_day": 65,
+        "delivery_days": 7,
+        "total_cost": 21.0,
+        "delivered_day": 65
+      },
+      {
+        "items": [
+          {
+            "name": "Fanta Strawberry 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 58,
+        "delivery_day": 65,
+        "delivery_days": 7,
+        "total_cost": 21.0,
+        "delivered_day": 65
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 62,
+        "delivery_day": 69,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 69
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 62,
+        "delivery_day": 69,
+        "delivery_days": 7,
+        "total_cost": 19.0,
+        "delivered_day": 69
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Fudge Bar 24-count",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 63,
+        "delivery_day": 70,
+        "delivery_days": 7,
+        "total_cost": 16.2,
+        "delivered_day": 70
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 4 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 63,
+        "delivery_day": 70,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 70
+      },
+      {
+        "items": [
+          {
+            "name": "Tresemme Pro Pure Shampoo 16 fl oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 70,
+        "delivery_day": 77,
+        "delivery_days": 7,
+        "total_cost": 30.0,
+        "delivered_day": 77
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite Zero Sugar 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 72,
+        "delivery_day": 79,
+        "delivery_days": 7,
+        "total_cost": 15.75,
+        "delivered_day": 79
+      },
+      {
+        "items": [
+          {
+            "name": "Coca-Cola Zero Sugar 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 72,
+        "delivery_day": 79,
+        "delivery_days": 7,
+        "total_cost": 15.75,
+        "delivered_day": 79
+      },
+      {
+        "items": [
+          {
+            "name": "Economy Produce Romaine Lettuce Head 1 ct",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 72,
+        "delivery_day": 79,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 79
+      },
+      {
+        "items": [
+          {
+            "name": "Suave Essentials Body Wash 15 oz - Ocean Breeze",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 80,
+        "delivery_day": 87,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 87
+      },
+      {
+        "items": [
+          {
+            "name": "Blue Bunny Neapolitan Ice Cream Sandwich 24-count",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 80,
+        "delivery_day": 87,
+        "delivery_days": 7,
+        "total_cost": 16.2,
+        "delivered_day": 87
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 80,
+        "delivery_day": 87,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 87
+      },
+      {
+        "items": [
+          {
+            "name": "Tresemme Pro Pure Shampoo 16 fl oz",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 95,
+        "delivery_day": 102,
+        "delivery_days": 7,
+        "total_cost": 30.0,
+        "delivered_day": 102
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 95,
+        "delivery_day": 102,
+        "delivery_days": 7,
+        "total_cost": 9.5,
+        "delivered_day": 102
+      },
+      {
+        "items": [
+          {
+            "name": "Tresemme Pro Pure Shampoo 16 fl oz",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 107,
+        "delivery_day": 114,
+        "delivery_days": 7,
+        "total_cost": 60.0,
+        "delivered_day": 114
+      },
+      {
+        "items": [
+          {
+            "name": "Tresemme Pro Pure Shampoo 16 fl oz",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 128,
+        "delivery_day": 135,
+        "delivery_days": 7,
+        "total_cost": 90.0,
+        "delivered_day": 135
+      },
+      {
+        "items": [
+          {
+            "name": "Tresemme Pro Pure Shampoo 16 fl oz",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 156,
+        "delivery_day": 163,
+        "delivery_days": 7,
+        "total_cost": 150.0,
+        "delivered_day": 163
+      },
+      {
+        "items": [
+          {
+            "name": "Tresemme Pro Pure Shampoo 16 fl oz",
+            "quantity": 100
+          }
+        ],
+        "status": "processing",
+        "created_day": 182,
+        "delivery_day": 189,
+        "delivery_days": 7,
+        "total_cost": 300.0
+      }
+    ],
+    "products": [
+      "Pepsi 20oz Bottle",
+      "Factory Direct Party Confetti Party Poppers, 6-Count",
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+      "Alibaba Supplier IQF Whole Strawberries 16 oz",
+      "Alibaba Supplier IQF Blackberries 16 oz",
+      "Alibaba Supplier IQF Cherry Halves 16 oz",
+      "Fanta Strawberry 20oz Bottle",
+      "Monster Ultra Peachy Keen 16oz Can",
+      "Fanta Orange 20oz Bottle",
+      "Alibaba Supplier IQF Strawberry Slices 16 oz",
+      "Alibaba Supplier IQF Peach Slices 16 oz",
+      "Great Value Golden Sweet Whole Kernel Corn 15 oz Can",
+      "Sprite 20oz Bottle",
+      "Blue Bunny Big Dipper Vanilla Cone 24-count",
+      "Mountain Dew 20oz Bottle",
+      "Blue Bunny Fudge Bar 24-count",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Tresemme Pro Pure Shampoo 16 fl oz",
+      "Tresemme Pro Pure Conditioner 16 fl oz",
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Coca-Cola Zero Sugar 20oz Bottle",
+      "Economy Produce Romaine Lettuce Head 1 ct",
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze",
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count",
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "Suave Essentials Body Wash Energizer CR2032 battery toilet paper laundry detergent sheets Blue Bunny Neapolitan Ice Cream Sandwich wholesale",
+        "results": [
+          {
+            "name": "Suave Essentials Body Wash 15 oz - Ocean Breeze",
+            "category": "Body Wash & Soap",
+            "wholesale_price": 1.8
+          },
+          {
+            "name": "Blue Bunny Neapolitan Ice Cream Sandwich 24-count",
+            "category": "Ice Cream & Desserts",
+            "wholesale_price": 0.81
+          },
+          {
+            "name": "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 1.2
+          }
+        ],
+        "timestamp": 1773989388.7984595
+      },
+      {
+        "query": "Tresemme Pro Pure Shampoo 16 fl oz Mountain Dew 20oz Bottle wholesale",
+        "results": [
+          {
+            "name": "Tresemme Pro Pure Shampoo 16 fl oz",
+            "category": "Hair Care",
+            "wholesale_price": 3.0
+          },
+          {
+            "name": "Tresemme Pro Pure Conditioner 16 fl oz",
+            "category": "Hair Care",
+            "wholesale_price": 3.0
+          },
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.95
+          }
+        ],
+        "timestamp": 1773989726.609017
+      }
+    ]
+  }
+}
