@@ -1,0 +1,3148 @@
+{
+  "step": 734,
+  "timestamp": "2026-03-31T14:35:21.749709",
+  "state": {
+    "money": 155.41,
+    "day": 183,
+    "product_prices": {
+      "Sprite 20oz Bottle": 17.5,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 17.5,
+      "Evian Natural Spring Water 500 ml Bottle": 17.5,
+      "Polar Seltzer Orange Vanilla 12 oz Can": 17.5,
+      "Oreo Ice Cream Sandwich 24-count": 18.5,
+      "Method Daily Shampoo 12 fl oz": 32.0,
+      "Activia Probiotic Strawberry Yogurt 4 oz Cup": 2.5,
+      "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 3.5,
+      "Lotus Foods Jasmine White Rice 1 lb": 7.0,
+      "Sprite Zero Sugar 20oz Bottle": 21.0,
+      "Hershey's Assorted Miniatures 4 oz Bag": 6.0,
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister": 6.0
+    },
+    "product_quantities": {
+      "Sprite 20oz Bottle": 2,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 76,
+      "Evian Natural Spring Water 500 ml Bottle": 45,
+      "Polar Seltzer Orange Vanilla 12 oz Can": 159,
+      "Oreo Ice Cream Sandwich 24-count": 19,
+      "Method Daily Shampoo 12 fl oz": 0,
+      "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+      "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+      "Lotus Foods Jasmine White Rice 1 lb": 0,
+      "Sprite Zero Sugar 20oz Bottle": 9,
+      "Hershey's Assorted Miniatures 4 oz Bag": 5,
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Energizer 357/303 SR44 Silver Oxide Button Cell": 0.9,
+      "Energizer CR2450 Lithium Coin Cell 3V": 0.85,
+      "Rayovac High Energy AAA Alkaline": 0.5,
+      "Bulk Jelly Babies 2 oz Bag": 0.86,
+      "Oriental Trading Silicone Tongs 9-inch": 2.8,
+      "Oriental Trading Tissue Paper Pom Poms, 10\", Assorted Colors, 5-Count": 2.85,
+      "Sprite 20oz Bottle": 0.99,
+      "Evian Natural Spring Water 500 ml Bottle": 1.1,
+      "Smartwater Vapor Distilled Water 1 Liter Bottle": 1.25,
+      "Bitchin' Sauce Chipotle 8 oz": 3.0,
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle": 4.5,
+      "DiChickos Extra Hot Peri-Peri Sauce 12 oz": 2.25,
+      "Barilla Penne Rigate 16 oz": 1.25,
+      "Costa Penne Rigate 500g": 1.65,
+      "De Cecco Penne Rigate No. 41 16 oz": 1.85,
+      "Lotus Foods Jasmine White Rice 1 lb": 3.02,
+      "Gourmet Food Marketplace Carnaroli Rice 1 lb": 4.5,
+      "South Coast Organics Organic Arborio Rice 1 lb": 4.7,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Blue Bunny Chocolate Eclair Bar 24-count": 0.81,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Polar Seltzer Orange Vanilla 12 oz Can": 0.5,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister": 1.5,
+      "Pizza Puffs Spinach 5 oz": 1.67,
+      "Mountain Dew SPARK 12oz Can (355ml)": 0.79,
+      "Mountain Dew 20oz Bottle": 0.95,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1.24,
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)": 1.63,
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC13135)": 1.61,
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1.34,
+      "Tork Universal Multifold Hand Towels 250-Sheet Pack": 1.8,
+      "Genuine Joe Hardwound Paper Towel 350-Foot Roll": 2.92,
+      "Marcal Pro Recycled Kitchen Paper Towels 70-Sheet Roll": 1.25,
+      "Generic Liquid Bleach 1 Gallon Jug": 2.5,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2.2,
+      "Generic Color Catcher Dye-Trapping Sheets 24-Count Box": 1.5,
+      "Rayovac High Energy AA Alkaline": 0.5,
+      "Energizer L91 AA Lithium Battery": 1.85,
+      "Coors Light 12oz Can": 1.0,
+      "The Republic of Tea Decaf British Breakfast Single Tea Bag": 0.58,
+      "Corona Extra 12oz Bottle": 1.5,
+      "Heavenly Tea Leaves English Breakfast Single Pyramid Sachet": 0.7,
+      "Mighty Leaf Tea Organic Breakfast Single Pyramid Sachet": 0.51,
+      "Gold Medal Bread Flour 5 lb Bag": 4.6,
+      "Bakers Authority Impastata (Smooth Ricotta) 16oz Tub": 4.78,
+      "Bakers Authority Impastata (Smooth Ricotta) 8oz Tub": 2.39,
+      "Cream-O-Land Whole Milk 1 Gallon Jug": 3.5,
+      "Cream-O-Land 1% Lowfat Milk 1 Gallon Jug": 3.3,
+      "Cream-O-Land Skim Milk 1 Gallon Jug": 3.2,
+      "Bulk Gummy Worms 2.5 oz Bag": 0.61,
+      "3M Micropore Paper Tape 1\" x 10 yd Roll": 1.6,
+      "Bulk Jelly Babies 3.5 oz Bag": 1.5,
+      "Annie Chun's Udon Soup Bowl 5.9 oz": 2.3,
+      "Sprout Organic Stage 2 Butternut Squash Apple 4 oz Pouch": 1.7,
+      "Ronzoni Elbows 16 oz": 1.2,
+      "Oreo Ice Cream Sandwich 12-count": 1.52,
+      "Oreo Ice Cream Sandwich 24-count": 0.76,
+      "Magnum Almond Vanilla Ice Cream Bar 12-count": 2.44,
+      "Fuze Tea Peach 500ml Bottle": 1.05,
+      "Blue Bunny Cookies & Cream Bar 24-count": 0.81,
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0.81,
+      "Blue Bunny Big Dipper Vanilla Cone 24-count": 1.1,
+      "Full Harvest Russet Potatoes 1 lb": 0.8,
+      "Blue Bunny Fudge Bar 24-count": 0.81,
+      "Coca-Cola Original Taste 20oz Bottle": 1.05,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.05,
+      "Pepsi 20oz Bottle": 0.99,
+      "Fiji Natural Artesian Water 500 ml Bottle": 1.2,
+      "Topo Chico Mineral Water 12 oz Glass Bottle": 1.48,
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 1.1,
+      "Bob's Red Mill Honey Oat Granola 12 oz Bag": 2.64,
+      "Bob's Red Mill Classic Granola 12 oz Bag": 2.52,
+      "Nature Valley Oats & Honey Granola 17 oz Bag": 4.8,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Hershey's Kisses Milk Chocolate 4 oz Bag": 3.67,
+      "Monster Nitro Super Dry 16oz Can": 1.49,
+      "Liquid Death Mountain Water 16.9 oz Can": 1.8,
+      "AHA Lime + Watermelon Sparkling Water 12 oz Can": 0.6,
+      "Monster Ultra Peachy Keen 16oz Can": 1.49,
+      "93/7 Lean Ground Beef Chub, 1 lb": 2.77,
+      "Rubicon Mango 330ml Can": 0.85,
+      "Rubicon Guava 330ml Can": 0.85,
+      "Quaker Cap'n Crunch Original 14 oz Box": 3.2,
+      "General Mills Cinnamon Toast Crunch 16.8 oz Box": 3.8,
+      "Kellogg's Corn Flakes 18 oz Box": 3.2,
+      "Dial Body Wash 16 oz - Spring Water": 3.4,
+      "Sanu Foods Frozen Mixed Vegetables Blend 16 oz (Corn, Carrots, Peas, Green Beans)": 3.5,
+      "Crisco All-Vegetable Shortening 1 lb Can": 2.6,
+      "Cascadian Farm Organic Honey Nut O's 12 oz Box": 4.4,
+      "Pizza Puffs Cheese 5 oz": 1.67,
+      "Great Value Golden Sweet Whole Kernel Corn 15 oz Can": 0.98,
+      "Butterfinger Fun Size 5 oz Bag": 4.36,
+      "Stella Artois 11.2oz Bottle": 1.6,
+      "Pilsner Urquell 11.2oz Bottle": 1.7,
+      "Budweiser Lager 250ml Can": 2.4,
+      "Asahi Super Dry 11.2oz Bottle": 1.6,
+      "Heavenly Tea Leaves Chamomile Single Pyramid Sachet": 0.66,
+      "Mighty Leaf Tea Chamomile Citrus Single Pyramid Sachet": 0.52,
+      "Method Daily Shampoo 12 fl oz": 3.0,
+      "DollarDays Argan Oil Shampoo 12 oz": 3.49,
+      "Pravada Strengthening Shampoo with Biotin + Hyaluronic Acid 12 fl oz": 3.95,
+      "Tide To Go Instant Stain Remover Pen 0.34 fl oz": 2.9,
+      "Dr. Bronner's Pure-Castile Bar Soap 5 oz - Peppermint": 3.8,
+      "Softsoap Body Wash 13.5 oz - Juicy Pomegranate & Mango Infusions": 2.75,
+      "Dannon Plain Whole Milk Yogurt 32 oz Tub": 2.8,
+      "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0.7,
+      "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1.05,
+      "SunRidge Farms Organic Black Beans 1 lb": 2.95,
+      "Bush's Best Large Butter Beans 16 oz Can": 1.48,
+      "Eden Foods Organic Adzuki Beans 1 lb": 4.25,
+      "Medi-First Antacid Chewable Tablets Assorted 150-Count Bottle": 3.5
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Evian Natural Spring Water 500 ml Bottle": 6
+        },
+        "revenue": 16.0
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Evian Natural Spring Water 500 ml Bottle": 4
+        },
+        "revenue": 12.5
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Evian Natural Spring Water 500 ml Bottle": 5
+        },
+        "revenue": 15.45
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Evian Natural Spring Water 500 ml Bottle": 5
+        },
+        "revenue": 14.45
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 5.5
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 5.18
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 3.19
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 6
+        },
+        "revenue": 12.68
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1
+        },
+        "revenue": 6.78
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0
+        },
+        "revenue": 6.23
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Evian Natural Spring Water 500 ml Bottle": 2,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 1
+        },
+        "revenue": 9.55
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 6.75
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 5.0
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 5.0
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 5.5
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 2,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 6.25
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 5.0
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 5.25
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 5.5
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 6.25
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 6.25
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 3.0
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 6.75
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 3.25
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 3.25
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 3.75
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 6.0
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 8.0
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 6.0
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 1,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 7.5
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 7.5
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 3.0
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 6.0
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 4.0
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 4.0
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 2
+        },
+        "revenue": 12.0
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 5
+        },
+        "revenue": 32.5
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 7.5
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 1,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0
+        },
+        "revenue": 3.5
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 2
+        },
+        "revenue": 15.5
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 2
+        },
+        "revenue": 15.5
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 1
+        },
+        "revenue": 9.5
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 1
+        },
+        "revenue": 6.0
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 1,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 2
+        },
+        "revenue": 15.5
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 2
+        },
+        "revenue": 12.0
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0,
+          "Polar Seltzer Orange Vanilla 12 oz Can": 0,
+          "Oreo Ice Cream Sandwich 24-count": 0,
+          "Method Daily Shampoo 12 fl oz": 0,
+          "Activia Probiotic Strawberry Yogurt 4 oz Cup": 0,
+          "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup": 0,
+          "Lotus Foods Jasmine White Rice 1 lb": 0,
+          "Gerber Puffs Strawberry Apple 1.48 oz Canister": 0
+        },
+        "revenue": 0.0
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 49.5,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 28.0,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "quantity": 7
+          }
+        ],
+        "status": "delivered",
+        "created_day": 9,
+        "delivery_day": 16,
+        "delivery_days": 7,
+        "total_cost": 3.5,
+        "delivered_day": 16
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 11,
+        "delivery_day": 18,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 18
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 11,
+        "delivery_day": 18,
+        "delivery_days": 7,
+        "total_cost": 5.6,
+        "delivered_day": 18
+      },
+      {
+        "items": [
+          {
+            "name": "Oreo Ice Cream Sandwich 24-count",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 12,
+        "delivery_day": 19,
+        "delivery_days": 7,
+        "total_cost": 15.2,
+        "delivered_day": 19
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 13,
+        "delivery_day": 20,
+        "delivery_days": 7,
+        "total_cost": 11.2,
+        "delivered_day": 20
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 16,
+        "delivery_day": 23,
+        "delivery_days": 7,
+        "total_cost": 11.0,
+        "delivered_day": 23
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 16,
+        "delivery_day": 23,
+        "delivery_days": 7,
+        "total_cost": 5.6,
+        "delivered_day": 23
+      },
+      {
+        "items": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 17,
+        "delivery_day": 24,
+        "delivery_days": 7,
+        "total_cost": 10.0,
+        "delivered_day": 24
+      },
+      {
+        "items": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 19,
+        "delivery_day": 26,
+        "delivery_days": 7,
+        "total_cost": 15.0,
+        "delivered_day": 26
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 20,
+        "delivery_day": 27,
+        "delivery_days": 7,
+        "total_cost": 11.0,
+        "delivered_day": 27
+      },
+      {
+        "items": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 22,
+        "delivery_day": 29,
+        "delivery_days": 7,
+        "total_cost": 12.5,
+        "delivered_day": 29
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 24,
+        "delivery_day": 31,
+        "delivery_days": 7,
+        "total_cost": 11.0,
+        "delivered_day": 31
+      },
+      {
+        "items": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 27,
+        "delivery_day": 34,
+        "delivery_days": 7,
+        "total_cost": 15.0,
+        "delivered_day": 34
+      },
+      {
+        "items": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 30,
+        "delivery_day": 37,
+        "delivery_days": 7,
+        "total_cost": 15.0,
+        "delivered_day": 37
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 9
+          }
+        ],
+        "status": "delivered",
+        "created_day": 32,
+        "delivery_day": 39,
+        "delivery_days": 7,
+        "total_cost": 9.9,
+        "delivered_day": 39
+      },
+      {
+        "items": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 34,
+        "delivery_day": 41,
+        "delivery_days": 7,
+        "total_cost": 10.0,
+        "delivered_day": 41
+      },
+      {
+        "items": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "quantity": 21
+          }
+        ],
+        "status": "delivered",
+        "created_day": 38,
+        "delivery_day": 45,
+        "delivery_days": 7,
+        "total_cost": 10.5,
+        "delivered_day": 45
+      },
+      {
+        "items": [
+          {
+            "name": "Method Daily Shampoo 12 fl oz",
+            "quantity": 2
+          }
+        ],
+        "status": "delivered",
+        "created_day": 106,
+        "delivery_day": 113,
+        "delivery_days": 7,
+        "total_cost": 6.0,
+        "delivered_day": 113
+      },
+      {
+        "items": [
+          {
+            "name": "Activia Probiotic Strawberry Yogurt 4 oz Cup",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 120,
+        "delivery_day": 127,
+        "delivery_days": 7,
+        "total_cost": 7.0,
+        "delivered_day": 127
+      },
+      {
+        "items": [
+          {
+            "name": "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 120,
+        "delivery_day": 127,
+        "delivery_days": 7,
+        "total_cost": 10.5,
+        "delivered_day": 127
+      },
+      {
+        "items": [
+          {
+            "name": "Lotus Foods Jasmine White Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 125,
+        "delivery_day": 132,
+        "delivery_days": 7,
+        "total_cost": 15.1,
+        "delivered_day": 132
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite Zero Sugar 20oz Bottle",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 134,
+        "delivery_day": 141,
+        "delivery_days": 7,
+        "total_cost": 10.5,
+        "delivered_day": 141
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 4 oz Bag",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 143,
+        "delivery_day": 150,
+        "delivery_days": 7,
+        "total_cost": 11.25,
+        "delivered_day": 150
+      },
+      {
+        "items": [
+          {
+            "name": "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 152,
+        "delivery_day": 159,
+        "delivery_days": 7,
+        "total_cost": 15.0,
+        "delivered_day": 159
+      }
+    ],
+    "products": [
+      "Energizer 357/303 SR44 Silver Oxide Button Cell",
+      "Energizer CR2450 Lithium Coin Cell 3V",
+      "Rayovac High Energy AAA Alkaline",
+      "Bulk Jelly Babies 2 oz Bag",
+      "Oriental Trading Silicone Tongs 9-inch",
+      "Oriental Trading Tissue Paper Pom Poms, 10\", Assorted Colors, 5-Count",
+      "Sprite 20oz Bottle",
+      "Evian Natural Spring Water 500 ml Bottle",
+      "Smartwater Vapor Distilled Water 1 Liter Bottle",
+      "Bitchin' Sauce Chipotle 8 oz",
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle",
+      "DiChickos Extra Hot Peri-Peri Sauce 12 oz",
+      "Barilla Penne Rigate 16 oz",
+      "Costa Penne Rigate 500g",
+      "De Cecco Penne Rigate No. 41 16 oz",
+      "Lotus Foods Jasmine White Rice 1 lb",
+      "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+      "South Coast Organics Organic Arborio Rice 1 lb",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Blue Bunny Chocolate Eclair Bar 24-count",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Polar Seltzer Orange Vanilla 12 oz Can",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+      "Pizza Puffs Spinach 5 oz",
+      "Mountain Dew SPARK 12oz Can (355ml)",
+      "Mountain Dew 20oz Bottle",
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)",
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC13135)",
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)",
+      "Tork Universal Multifold Hand Towels 250-Sheet Pack",
+      "Genuine Joe Hardwound Paper Towel 350-Foot Roll",
+      "Marcal Pro Recycled Kitchen Paper Towels 70-Sheet Roll",
+      "Generic Liquid Bleach 1 Gallon Jug",
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+      "Generic Color Catcher Dye-Trapping Sheets 24-Count Box",
+      "Rayovac High Energy AA Alkaline",
+      "Energizer L91 AA Lithium Battery",
+      "Coors Light 12oz Can",
+      "The Republic of Tea Decaf British Breakfast Single Tea Bag",
+      "Corona Extra 12oz Bottle",
+      "Heavenly Tea Leaves English Breakfast Single Pyramid Sachet",
+      "Mighty Leaf Tea Organic Breakfast Single Pyramid Sachet",
+      "Gold Medal Bread Flour 5 lb Bag",
+      "Bakers Authority Impastata (Smooth Ricotta) 16oz Tub",
+      "Bakers Authority Impastata (Smooth Ricotta) 8oz Tub",
+      "Cream-O-Land Whole Milk 1 Gallon Jug",
+      "Cream-O-Land 1% Lowfat Milk 1 Gallon Jug",
+      "Cream-O-Land Skim Milk 1 Gallon Jug",
+      "Bulk Gummy Worms 2.5 oz Bag",
+      "3M Micropore Paper Tape 1\" x 10 yd Roll",
+      "Bulk Jelly Babies 3.5 oz Bag",
+      "Annie Chun's Udon Soup Bowl 5.9 oz",
+      "Sprout Organic Stage 2 Butternut Squash Apple 4 oz Pouch",
+      "Ronzoni Elbows 16 oz",
+      "Oreo Ice Cream Sandwich 12-count",
+      "Oreo Ice Cream Sandwich 24-count",
+      "Magnum Almond Vanilla Ice Cream Bar 12-count",
+      "Fuze Tea Peach 500ml Bottle",
+      "Blue Bunny Cookies & Cream Bar 24-count",
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count",
+      "Blue Bunny Big Dipper Vanilla Cone 24-count",
+      "Full Harvest Russet Potatoes 1 lb",
+      "Blue Bunny Fudge Bar 24-count",
+      "Coca-Cola Original Taste 20oz Bottle",
+      "Coca-Cola Zero Sugar 20oz Bottle",
+      "Pepsi 20oz Bottle",
+      "Fiji Natural Artesian Water 500 ml Bottle",
+      "Topo Chico Mineral Water 12 oz Glass Bottle",
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle",
+      "Bob's Red Mill Honey Oat Granola 12 oz Bag",
+      "Bob's Red Mill Classic Granola 12 oz Bag",
+      "Nature Valley Oats & Honey Granola 17 oz Bag",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Hershey's Kisses Milk Chocolate 4 oz Bag",
+      "Monster Nitro Super Dry 16oz Can",
+      "Liquid Death Mountain Water 16.9 oz Can",
+      "AHA Lime + Watermelon Sparkling Water 12 oz Can",
+      "Monster Ultra Peachy Keen 16oz Can",
+      "93/7 Lean Ground Beef Chub, 1 lb",
+      "Rubicon Mango 330ml Can",
+      "Rubicon Guava 330ml Can",
+      "Quaker Cap'n Crunch Original 14 oz Box",
+      "General Mills Cinnamon Toast Crunch 16.8 oz Box",
+      "Kellogg's Corn Flakes 18 oz Box",
+      "Dial Body Wash 16 oz - Spring Water",
+      "Sanu Foods Frozen Mixed Vegetables Blend 16 oz (Corn, Carrots, Peas, Green Beans)",
+      "Crisco All-Vegetable Shortening 1 lb Can",
+      "Cascadian Farm Organic Honey Nut O's 12 oz Box",
+      "Pizza Puffs Cheese 5 oz",
+      "Great Value Golden Sweet Whole Kernel Corn 15 oz Can",
+      "Butterfinger Fun Size 5 oz Bag",
+      "Stella Artois 11.2oz Bottle",
+      "Pilsner Urquell 11.2oz Bottle",
+      "Budweiser Lager 250ml Can",
+      "Asahi Super Dry 11.2oz Bottle",
+      "Heavenly Tea Leaves Chamomile Single Pyramid Sachet",
+      "Mighty Leaf Tea Chamomile Citrus Single Pyramid Sachet",
+      "Method Daily Shampoo 12 fl oz",
+      "DollarDays Argan Oil Shampoo 12 oz",
+      "Pravada Strengthening Shampoo with Biotin + Hyaluronic Acid 12 fl oz",
+      "Tide To Go Instant Stain Remover Pen 0.34 fl oz",
+      "Dr. Bronner's Pure-Castile Bar Soap 5 oz - Peppermint",
+      "Softsoap Body Wash 13.5 oz - Juicy Pomegranate & Mango Infusions",
+      "Dannon Plain Whole Milk Yogurt 32 oz Tub",
+      "Activia Probiotic Strawberry Yogurt 4 oz Cup",
+      "Oikos Triple Zero Vanilla Greek Yogurt 5.3 oz Cup",
+      "SunRidge Farms Organic Black Beans 1 lb",
+      "Bush's Best Large Butter Beans 16 oz Can",
+      "Eden Foods Organic Adzuki Beans 1 lb",
+      "Medi-First Antacid Chewable Tablets Assorted 150-Count Bottle"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "soda",
+        "results": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "category": "Water & Sparkling Water",
+            "wholesale_price": 0.5
+          },
+          {
+            "name": "Sprite 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.99
+          },
+          {
+            "name": "Sprite Zero Sugar 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.05
+          }
+        ],
+        "timestamp": 1774938102.3555484
+      },
+      {
+        "query": "snack",
+        "results": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 0.56
+          },
+          {
+            "name": "Butterfinger Fun Size 5 oz Bag",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 4.36
+          },
+          {
+            "name": "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+            "category": "Baby Food & Formula",
+            "wholesale_price": 1.5
+          }
+        ],
+        "timestamp": 1774938114.2546098
+      }
+    ]
+  }
+}

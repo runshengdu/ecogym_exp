@@ -60,6 +60,12 @@ models:
     extra_body: {"enable_thinking": true}
     max_tokens: 60000
   
+  - name: deepseek-reasoner
+    temperature: 1.0
+    base_url: https://api.deepseek.com
+    api_key: "${DEEPSEEK_API_KEY}"
+    max_tokens: 60000
+
   - name: qwen3.5-flash
     temperature: 1.0
     base_url: https://dashscope.aliyuncs.com/compatible-mode/v1

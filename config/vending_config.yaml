@@ -20,7 +20,7 @@ run_settings:
   max_days: 182
   no_sales_days_threshold: 182
   max_actions_per_day: 4
-  history_limit: 64
+  history_limit: 128
   excluded_tools_from_count: ["task_done"]
 
 model_config:

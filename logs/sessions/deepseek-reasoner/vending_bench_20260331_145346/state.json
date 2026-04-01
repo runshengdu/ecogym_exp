@@ -1,0 +1,3413 @@
+{
+  "step": 553,
+  "timestamp": "2026-03-31T16:08:36.711521",
+  "state": {
+    "money": 2625.309999999997,
+    "day": 183,
+    "product_prices": {
+      "Mountain Dew 20oz Bottle": 21.5,
+      "Hershey's Assorted Miniatures 8 oz Bag": 6.5,
+      "Bulk Jelly Babies 2 oz Bag": 5.09,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 5.39,
+      "Gourmet Food Marketplace Carnaroli Rice 1 lb": 40.99,
+      "Hershey's Assorted Miniatures 4 oz Bag": 32.49,
+      "Gourmet Food Marketplace Venere Black Rice 1 lb": 40.49,
+      "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 22.99,
+      "Gourmet Food Marketplace Bomba Rice 1 lb": 37.99,
+      "Hershey's Kisses Milk Chocolate 4 oz Bag": 65.49,
+      "South Coast Organics Organic Arborio Rice 1 lb": 38.49,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 15.99
+    },
+    "product_quantities": {
+      "Mountain Dew 20oz Bottle": 35,
+      "Hershey's Assorted Miniatures 8 oz Bag": 0,
+      "Bulk Jelly Babies 2 oz Bag": 0,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 13,
+      "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+      "Hershey's Assorted Miniatures 4 oz Bag": 10,
+      "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+      "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+      "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+      "Hershey's Kisses Milk Chocolate 4 oz Bag": 5,
+      "South Coast Organics Organic Arborio Rice 1 lb": 0,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 10
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Economy Produce Romaine Lettuce Head 1 ct": 2.25,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 3.0,
+      "Mountain Dew 20oz Bottle": 0.95,
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister": 1.5,
+      "Pizza Puffs Spinach 5 oz": 1.67,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Bitchin' Sauce Chipotle 8 oz": 3.0,
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle": 4.5,
+      "DiChickos Extra Hot Peri-Peri Sauce 12 oz": 2.25,
+      "Bulk Jelly Babies 2 oz Bag": 0.86,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1.24,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Hershey's Kisses Milk Chocolate 4 oz Bag": 3.67,
+      "Sprite 20oz Bottle": 0.99,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.05,
+      "Gourmet Food Marketplace Carnaroli Rice 1 lb": 4.5,
+      "Gourmet Food Marketplace Venere Black Rice 1 lb": 4.8,
+      "Gourmet Food Marketplace Bomba Rice 1 lb": 4.4,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Blue Bunny Chocolate Eclair Bar 24-count": 0.81,
+      "Barbara's Puffins Peanut Butter 11.5 oz Box": 4.3,
+      "Post Honey Bunches of Oats Honey Roasted 18 oz Box": 3.7,
+      "Costa Penne Rigate 500g": 1.65,
+      "De Cecco Penne Rigate No. 41 16 oz": 1.85,
+      "Barilla Penne Rigate 16 oz": 1.25,
+      "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 4.6,
+      "Lotus Foods Jasmine White Rice 1 lb": 3.02,
+      "South Coast Organics Organic Arborio Rice 1 lb": 4.7
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 2
+        },
+        "revenue": 4.0
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 2
+        },
+        "revenue": 4.0
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.25
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 2
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.25
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 2
+        },
+        "revenue": 4.5
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.25
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.25
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.25
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.25
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.25
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1
+        },
+        "revenue": 2.25
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 2
+        },
+        "revenue": 15.25
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 2
+        },
+        "revenue": 15.25
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1
+        },
+        "revenue": 8.75
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0
+        },
+        "revenue": 2.5
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0
+        },
+        "revenue": 4.49
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0
+        },
+        "revenue": 4.79
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0
+        },
+        "revenue": 5.04
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0
+        },
+        "revenue": 5.04
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0
+        },
+        "revenue": 7.970000000000001
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0
+        },
+        "revenue": 5.48
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0
+        },
+        "revenue": 7.970000000000001
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 4
+        },
+        "revenue": 41.44
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1
+        },
+        "revenue": 14.47
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0
+        },
+        "revenue": 6.04
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0
+        },
+        "revenue": 6.04
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0
+        },
+        "revenue": 9.23
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0
+        },
+        "revenue": 9.23
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0
+        },
+        "revenue": 9.48
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0
+        },
+        "revenue": 6.49
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 5
+        },
+        "revenue": 53.940000000000005
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0
+        },
+        "revenue": 6.49
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0
+        },
+        "revenue": 6.79
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0
+        },
+        "revenue": 6.79
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 4,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0
+        },
+        "revenue": 47.45
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0
+        },
+        "revenue": 17.98
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0
+        },
+        "revenue": 7.79
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0
+        },
+        "revenue": 7.79
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 4
+        },
+        "revenue": 47.75
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 1
+        },
+        "revenue": 18.28
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0
+        },
+        "revenue": 8.04
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0
+        },
+        "revenue": 8.04
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 3
+        },
+        "revenue": 38.01
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 2
+        },
+        "revenue": 29.02
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 4.29
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 4.59
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 3,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 38.55
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 2,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 36.56
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 4,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 54.54
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 4.25
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 3,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 40.22
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 2,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 2
+        },
+        "revenue": 53.21
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 3
+        },
+        "revenue": 37.47
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 4,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 51.96
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 17.990000000000002
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 4,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 55.96
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 2
+        },
+        "revenue": 43.47
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 3
+        },
+        "revenue": 44.97
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 3,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 47.97
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 2,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 32.98
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 3,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 53.97
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 2,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 55.97
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 3,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 58.47
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 19.99
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 2
+        },
+        "revenue": 41.98
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1
+        },
+        "revenue": 21.49
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 2
+        },
+        "revenue": 43.98
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 2,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 44.98
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 2,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 45.98
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 1,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 22.99
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 2,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 48.98
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 24.99
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 25.49
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 51.48
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 2,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 52.98
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 2,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 53.98
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1
+        },
+        "revenue": 27.99
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 2
+        },
+        "revenue": 56.98
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1
+        },
+        "revenue": 28.99
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1
+        },
+        "revenue": 29.49
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 30.99
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 31.49
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 31.99
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 32.49
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 32.99
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 33.99
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 33.99
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 2,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 68.98
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 34.99
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0
+        },
+        "revenue": 35.99
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 35.99
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 35.99
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 36.49
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 1
+        },
+        "revenue": 73.98
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 1
+        },
+        "revenue": 37.49
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 2
+        },
+        "revenue": 75.98
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 1
+        },
+        "revenue": 38.49
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 35.99
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 36.49
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 36.99
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 37.49
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 37.99
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 35.99
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 36.49
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 36.99
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 37.49
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 1,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 37.99
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 38.99
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 39.49
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 1,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 39.99
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 2,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 80.98
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 38.99
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 39.49
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 39.99
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 40.49
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 1,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 40.99
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Mountain Dew 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Jelly Belly Assorted Jelly Beans 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Hershey's Kisses Milk Chocolate 4 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Gourmet Food Marketplace Carnaroli Rice 1 lb": 0,
+          "Gourmet Food Marketplace Venere Black Rice 1 lb": 0,
+          "Gourmet Food Marketplace Vialone Nano Rice 1 lb": 0,
+          "Gourmet Food Marketplace Bomba Rice 1 lb": 0,
+          "South Coast Organics Organic Arborio Rice 1 lb": 0
+        },
+        "revenue": 0.0
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 100
+          }
+        ],
+        "status": "delivered",
+        "created_day": 0,
+        "delivery_day": 7,
+        "delivery_days": 7,
+        "total_cost": 95.0,
+        "delivered_day": 7
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 13,
+        "delivery_day": 20,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 20
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Jelly Babies 2 oz Bag",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 22,
+        "delivery_day": 29,
+        "delivery_days": 7,
+        "total_cost": 25.8,
+        "delivered_day": 29
+      },
+      {
+        "items": [
+          {
+            "name": "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 25,
+        "delivery_day": 32,
+        "delivery_days": 7,
+        "total_cost": 37.2,
+        "delivered_day": 32
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 33,
+        "delivery_day": 40,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 40
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 4 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 36,
+        "delivery_day": 43,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 43
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 41,
+        "delivery_day": 48,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 48
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 45,
+        "delivery_day": 52,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 52
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Vialone Nano Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 49,
+        "delivery_day": 56,
+        "delivery_days": 7,
+        "total_cost": 23.0,
+        "delivered_day": 56
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 53,
+        "delivery_day": 60,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 60
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 57,
+        "delivery_day": 64,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 64
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 58,
+        "delivery_day": 65,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 65
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Vialone Nano Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 61,
+        "delivery_day": 68,
+        "delivery_days": 7,
+        "total_cost": 23.0,
+        "delivered_day": 68
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 62,
+        "delivery_day": 69,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 69
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 66,
+        "delivery_day": 73,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 73
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 70,
+        "delivery_day": 77,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 77
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 71,
+        "delivery_day": 78,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 78
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Vialone Nano Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 75,
+        "delivery_day": 82,
+        "delivery_days": 7,
+        "total_cost": 23.0,
+        "delivered_day": 82
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 79,
+        "delivery_day": 86,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 86
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 80,
+        "delivery_day": 87,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 87
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 84,
+        "delivery_day": 91,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 91
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Vialone Nano Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 88,
+        "delivery_day": 95,
+        "delivery_days": 7,
+        "total_cost": 23.0,
+        "delivered_day": 95
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 90,
+        "delivery_day": 97,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 97
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 94,
+        "delivery_day": 101,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 101
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 98,
+        "delivery_day": 105,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 105
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 104,
+        "delivery_day": 111,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 111
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 109,
+        "delivery_day": 116,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 116
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Kisses Milk Chocolate 4 oz Bag",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 110,
+        "delivery_day": 117,
+        "delivery_days": 7,
+        "total_cost": 18.35,
+        "delivered_day": 117
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 120,
+        "delivery_day": 127,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 127
+      },
+      {
+        "items": [
+          {
+            "name": "South Coast Organics Organic Arborio Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 121,
+        "delivery_day": 128,
+        "delivery_days": 7,
+        "total_cost": 23.5,
+        "delivered_day": 128
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 122,
+        "delivery_day": 129,
+        "delivery_days": 7,
+        "total_cost": 5.6,
+        "delivered_day": 129
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 135,
+        "delivery_day": 142,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 142
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 147,
+        "delivery_day": 154,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 154
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 159,
+        "delivery_day": 166,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 166
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "delivered",
+        "created_day": 170,
+        "delivery_day": 177,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 177
+      },
+      {
+        "items": [
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "quantity": 5
+          }
+        ],
+        "status": "processing",
+        "created_day": 182,
+        "delivery_day": 189,
+        "delivery_days": 7,
+        "total_cost": 22.0
+      }
+    ],
+    "products": [
+      "Economy Produce Romaine Lettuce Head 1 ct",
+      "Tresemme Pro Pure Shampoo 16 fl oz",
+      "Mountain Dew 20oz Bottle",
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+      "Pizza Puffs Spinach 5 oz",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Bitchin' Sauce Chipotle 8 oz",
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle",
+      "DiChickos Extra Hot Peri-Peri Sauce 12 oz",
+      "Bulk Jelly Babies 2 oz Bag",
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Hershey's Kisses Milk Chocolate 4 oz Bag",
+      "Sprite 20oz Bottle",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Coca-Cola Zero Sugar 20oz Bottle",
+      "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+      "Gourmet Food Marketplace Venere Black Rice 1 lb",
+      "Gourmet Food Marketplace Bomba Rice 1 lb",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Blue Bunny Chocolate Eclair Bar 24-count",
+      "Barbara's Puffins Peanut Butter 11.5 oz Box",
+      "Post Honey Bunches of Oats Honey Roasted 18 oz Box",
+      "Costa Penne Rigate 500g",
+      "De Cecco Penne Rigate No. 41 16 oz",
+      "Barilla Penne Rigate 16 oz",
+      "Gourmet Food Marketplace Vialone Nano Rice 1 lb",
+      "Lotus Foods Jasmine White Rice 1 lb",
+      "South Coast Organics Organic Arborio Rice 1 lb"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "gourmet rice",
+        "results": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "category": "Rice, Grains & Beans",
+            "wholesale_price": 4.5
+          },
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "category": "Rice, Grains & Beans",
+            "wholesale_price": 4.4
+          },
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "category": "Rice, Grains & Beans",
+            "wholesale_price": 4.8
+          }
+        ],
+        "timestamp": 1774944214.3215652
+      },
+      {
+        "query": "gourmet rice",
+        "results": [
+          {
+            "name": "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+            "category": "Rice, Grains & Beans",
+            "wholesale_price": 4.5
+          },
+          {
+            "name": "Gourmet Food Marketplace Bomba Rice 1 lb",
+            "category": "Rice, Grains & Beans",
+            "wholesale_price": 4.4
+          },
+          {
+            "name": "Gourmet Food Marketplace Venere Black Rice 1 lb",
+            "category": "Rice, Grains & Beans",
+            "wholesale_price": 4.8
+          }
+        ],
+        "timestamp": 1774944496.2000363
+      }
+    ]
+  }
+}

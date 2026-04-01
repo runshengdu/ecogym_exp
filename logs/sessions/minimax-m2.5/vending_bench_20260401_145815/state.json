@@ -1,0 +1,4291 @@
+{
+  "step": 415,
+  "timestamp": "2026-04-01T17:55:31.807143",
+  "state": {
+    "money": 424.0700000000001,
+    "day": 183,
+    "product_prices": {
+      "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2.99,
+      "Sprite 20oz Bottle": 1.49,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.99,
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 1.79,
+      "Mountain Dew 20oz Bottle": 1.49,
+      "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2.49,
+      "Pepsi 20oz Bottle": 1.49,
+      "Bulk Jelly Babies 2 oz Bag": 0.99,
+      "Rayovac High Energy AAA Alkaline": 2.99,
+      "Zest Aqua Bar Soap 4 oz": 1.5,
+      "Bob's Red Mill Classic Granola 12 oz Bag": 4.99,
+      "Maruchan Ramen Noodle Soup Chicken 3 oz": 0.99,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 3.99,
+      "Sprite Zero Sugar 20oz Bottle": 1.49,
+      "Hershey's Assorted Miniatures 4 oz Bag": 3.49,
+      "Bulk Gummy Worms 2.5 oz Bag": 1.49,
+      "Amscan 9\" Round Paper Plates, Black, 18-Count Pack": 2.49
+    },
+    "product_quantities": {
+      "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+      "Sprite 20oz Bottle": 55,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+      "Mountain Dew 20oz Bottle": 22,
+      "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+      "Pepsi 20oz Bottle": 65,
+      "Bulk Jelly Babies 2 oz Bag": 0,
+      "Rayovac High Energy AAA Alkaline": 30,
+      "Zest Aqua Bar Soap 4 oz": 0,
+      "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+      "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+      "Sprite Zero Sugar 20oz Bottle": 0,
+      "Hershey's Assorted Miniatures 4 oz Bag": 19,
+      "Bulk Gummy Worms 2.5 oz Bag": 22,
+      "Amscan 9\" Round Paper Plates, Black, 18-Count Pack": 49
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Generic 9-Inch 2-Ply Jumbo Toilet Tissue Roll": 4.96,
+      "Generic 3-in-1 Laundry Pods 15g 50-Count Tub": 4.5,
+      "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 1.77,
+      "Generic Liquid Bleach 1 Gallon Jug": 2.5,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box": 1.2,
+      "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box": 0.9,
+      "Sprite 20oz Bottle": 0.99,
+      "Pepsi Wild Cherry 20oz Bottle": 1.05,
+      "Modelo Especial 12oz Bottle": 1.55,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Evian Natural Spring Water 500 ml Bottle": 1.1,
+      "Smartwater Vapor Distilled Water 1 Liter Bottle": 1.25,
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 1.1,
+      "Bitchin' Sauce Chipotle 8 oz": 3.0,
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle": 4.5,
+      "DiChickos Hot Peri-Peri Sauce 12 oz": 2.25,
+      "Full Harvest Russet Potatoes 1 lb": 0.8,
+      "Dr Pepper Cherry 20oz Bottle": 1.05,
+      "Spindrift Raspberry Lime Sparkling Water 12 oz Can": 1.25,
+      "Post Fruity Pebbles 11 oz Box": 2.6,
+      "General Mills Cheerios 12 oz Box": 2.9,
+      "Bob's Red Mill Classic Granola 12 oz Bag": 2.52,
+      "Mountain Dew 20oz Bottle": 0.95,
+      "Mountain Dew SPARK 12oz Can (355ml)": 0.79,
+      "Liquid Death Mountain Water 16.9 oz Can": 1.8,
+      "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1.1,
+      "Method Daily Conditioner 12 fl oz": 3.0,
+      "Method Daily Shampoo 12 fl oz": 3.0,
+      "Pepsi 20oz Bottle": 0.99,
+      "Polar Seltzer Orange Vanilla 12 oz Can": 0.5,
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)": 1.63,
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)": 1.34,
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC13135)": 1.61,
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1.25,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1.95,
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)": 3.59,
+      "Creative Converting Paper Straws, Black Chevron, 24-Count": 1.1,
+      "Oriental Trading 12\" Latex Balloons, Assorted Colors, 15-Count Pack": 1.39,
+      "Amscan Blowouts/Noisemakers, Color Assortment, 8-Count": 1.25,
+      "Factory Direct Party Confetti Party Poppers, 6-Count": 1.29,
+      "Dove Beauty Bar Soap 3.75 oz - Original": 1.38,
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1.2,
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz": 4.13,
+      "Monster Ultra Peachy Keen 16oz Can": 1.49,
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister": 1.5,
+      "Bulk Jelly Babies 2 oz Bag": 0.86,
+      "Quaker Cap'n Crunch Original 14 oz Box": 3.2,
+      "Kellogg's Corn Flakes 18 oz Box": 3.2,
+      "Savory Spice Shop Everything Bagel Seasoning 1 lb Bag": 4.9,
+      "Nature's Path Organic Pumpkin Seed + Flax Granola 11.5 oz Bag": 4.5,
+      "Barbara's Puffins Peanut Butter 11.5 oz Box": 4.3,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2.2,
+      "Generic Odor Eliminator Laundry Additive 16 fl oz": 3.5,
+      "Bubly Blackberry Sparkling Water 12 oz Can": 0.5,
+      "Blue Bunny Vanilla Ice Cream Sandwich 24-count": 0.81,
+      "Oreo Ice Cream Sandwich 12-count": 1.52,
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count": 0.81,
+      "Energizer CR2450 Lithium Coin Cell 3V": 0.85,
+      "Energizer CR2032 Lithium Coin Cell 3V": 0.75,
+      "Rayovac High Energy AAA Alkaline": 0.5,
+      "Medi-First Wound Wash Saline 3 oz Spray": 2.6,
+      "Medi-First Aspirin 325mg Tablets 100-Count Box": 4.47,
+      "First Aid Only Eye Wash 4 oz Bottle": 2.4,
+      "Medi-First Antacid Chewable Tablets Assorted 150-Count Bottle": 3.5,
+      "Organic Citrus Ginger Vinaigrette 12oz Bottle": 3.85,
+      "Golden Pompano Frozen 1 kg": 1.8,
+      "Purvey'd Bulk Carrots 1 lb": 0.66,
+      "Happy Baby Superfood Puffs Banana & Pumpkin 2.1 oz Canister": 2.4,
+      "The Republic of Tea Double Green Matcha Single Tea Bag": 0.57,
+      "The Republic of Tea Decaf British Breakfast Single Tea Bag": 0.58,
+      "Heavenly Tea Leaves English Breakfast Single Pyramid Sachet": 0.7,
+      "Full Harvest Roma Tomatoes 1 lb": 1.9,
+      "Full Harvest Turnips 1 lb": 1.2,
+      "Kegel's Produce Eggplant 1 lb": 1.8,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.05,
+      "Cream-O-Land Whole Milk Half Gallon": 1.8,
+      "Cream-O-Land Skim Milk Half Gallon": 1.6,
+      "Cream-O-Land 2% Reduced Fat Milk Half Gallon": 1.75,
+      "Bakers Authority Impastata (Smooth Ricotta) 16oz Tub": 4.78,
+      "Bakers Authority Impastata (Smooth Ricotta) 8oz Tub": 2.39,
+      "Crisco All-Vegetable Shortening 1 lb Can": 2.6,
+      "Plastirun 2-Ply Facial Tissue 100-Sheet Box": 0.8,
+      "Tork Universal Multifold Hand Towels 250-Sheet Pack": 1.8,
+      "Genuine Joe 2-Ply Kitchen Paper Towels 70-Sheet Roll": 1.35,
+      "DiChickos Lemon Herb Peri-Peri Sauce 12 oz": 2.25,
+      "American Spice Company Montreal Steak Seasoning 1 lb Bag": 4.85,
+      "SheaMoisture Coconut & Hibiscus Curl & Shine Shampoo 13 oz": 5.0,
+      "The Soap Guy Handmade Bar Soap 5 oz - Lavender": 1.39,
+      "Zest Aqua Bar Soap 4 oz": 0.9,
+      "Dial Antibacterial Gold Bar Soap 3.2 oz": 0.85,
+      "Gourmet Food Marketplace Carnaroli Rice 1 lb": 4.5,
+      "Costa Penne Rigate 500g": 1.65,
+      "South Coast Organics Farro 1 lb": 3.65,
+      "Nature Valley Oats & Honey Granola 17 oz Bag": 4.8,
+      "Bob's Red Mill Honey Oat Granola 12 oz Bag": 2.64,
+      "Cascadian Farm Organic Honey Nut O's 12 oz Box": 4.4,
+      "Bakers Authority Ricotta Cheese 16oz Tub": 2.22,
+      "Bakers Authority Ricotta Cheese 32oz Tub": 4.44,
+      "Annie Chun's Udon Soup Bowl 5.9 oz": 2.3,
+      "Maruchan Ramen Noodle Soup Chicken 3 oz": 0.55,
+      "Koyo Ramen Garlic Pepper 2.1 oz": 1.15,
+      "Hormel Beef Tamales in Chili Sauce 15 oz Can": 2.37,
+      "SPAM Less Sodium 12 oz Can": 3.88,
+      "AlBayrouty Chick Peas in Brine 400g Can": 1.99,
+      "Generic 3-in-1 Laundry Pods 15g 20-Count Pouch": 1.8,
+      "Fanta Strawberry 20oz Bottle": 1.05,
+      "DollarDays Essentials Daily Shampoo 8 oz": 1.25,
+      "Butterfinger Fun Size 5 oz Bag": 4.36,
+      "Blue Bunny Fudge Bar 24-count": 0.81,
+      "Downy Unstopables In-Wash Scent Booster Beads Fresh 5 oz Bottle": 4.68,
+      "Tresemme Pro Pure Shampoo 16 fl oz": 3.0,
+      "Generic Delicates Laundry Wash Liquid 16 fl oz": 4.0,
+      "Lever 2000 Bar Soap 4 oz - Original": 1.0,
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag": 1.24,
+      "Nongshim Shin Ramyun 4.2 oz": 1.1,
+      "Dr Pepper 20oz Bottle": 1.0,
+      "M&M's Milk Chocolate Fun Size 6 oz Bag": 3.09,
+      "DollarDays Argan Oil Shampoo 12 oz": 3.49,
+      "DollarDays Generic 2-Ply 400-Sheet Toilet Paper Roll": 0.72,
+      "Bulk Jelly Babies 3.5 oz Bag": 1.5,
+      "Perrier Sparkling Natural Mineral Water 8.45 fl oz Glass Bottle": 0.8,
+      "San Pellegrino Sparkling Natural Mineral Water 25.3 fl oz Glass Bottle": 1.67,
+      "Generic Fabric Softener Dryer Sheets Lavender 80-Count Box": 1.6,
+      "Coca-Cola Original Taste 20oz Bottle": 1.05,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0.99,
+      "Sanu Foods Frozen Mixed Vegetables Blend 16 oz (Corn, Carrots, Peas, Green Beans)": 3.5,
+      "Kegel's Produce Garlic Bulb 1 ct": 0.55,
+      "McKesson StayDry Scented Wipes Large 24-Count Soft Pack": 4.37,
+      "McKesson StayDry Scented Wipes Large 20-Count Soft Pack": 3.64,
+      "Oreo Ice Cream Sandwich 24-count": 0.76,
+      "Energizer 357/303 SR44 Silver Oxide Button Cell": 0.9,
+      "Energizer L91 AA Lithium Battery": 1.85,
+      "Generic 2-Ply Facial Tissue Cube 85-Sheet Box": 2.21,
+      "Generic 2-Ply Facial Tissue Flat 144-Sheet Box": 0.67,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Bulk Gummy Worms 2.5 oz Bag": 0.61,
+      "Generic Fabric Softener Dryer Sheets Fresh 40-Count Box": 0.85,
+      "Amscan 9\" Round Paper Plates, Black, 18-Count Pack": 1.34,
+      "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0.87,
+      "Creative Converting Heavyweight Plastic Cutlery Set, 24-Piece (8 Forks/Knives/Spoons)": 1.55
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 3
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 3
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 11.950000000000001
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 3
+        },
+        "revenue": 13.440000000000001
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 4,
+          "Sprite 20oz Bottle": 3
+        },
+        "revenue": 16.43
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 8.96
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 4
+        },
+        "revenue": 11.940000000000001
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 8.96
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 15.420000000000002
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 12.940000000000001
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 4
+        },
+        "revenue": 20.1
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 4
+        },
+        "revenue": 15.620000000000001
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 6
+        },
+        "revenue": 17.71
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 1,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 6
+        },
+        "revenue": 14.72
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 4
+        },
+        "revenue": 8.15
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 5
+        },
+        "revenue": 9.94
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 1
+        },
+        "revenue": 7.25
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0
+        },
+        "revenue": 5.46
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0
+        },
+        "revenue": 11.44
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 1,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0
+        },
+        "revenue": 6.960000000000001
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 4,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 15.420000000000002
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 13.93
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 16.92
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 16.42
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 13.430000000000001
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 12.440000000000001
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 13.93
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 12.440000000000001
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 2,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 13.430000000000001
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 3,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1
+        },
+        "revenue": 13.93
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 13.940000000000001
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 15.43
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 10.44
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 7.46
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 2
+        },
+        "revenue": 12.45
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 3,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 3
+        },
+        "revenue": 24.94
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 2,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 2
+        },
+        "revenue": 21.43
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 3,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 2
+        },
+        "revenue": 21.94
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 2,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 2
+        },
+        "revenue": 20.44
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 2,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 23.41
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 2,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 25.400000000000002
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 2,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 26.39
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 3,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 16.919999999999998
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 2,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 14.919999999999998
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 2,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 10.440000000000001
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 8.450000000000001
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.95
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 4
+        },
+        "revenue": 5.45
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0
+        },
+        "revenue": 5.47
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 5.96
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.949999999999999
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 7.949999999999999
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 9.44
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 11.940000000000001
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.45
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 11.43
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 3,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 10.44
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.45
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 10.940000000000001
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 11.419999999999998
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 10.43
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.450000000000001
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 5.460000000000001
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 5.960000000000001
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.960000000000001
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 9.94
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 9.94
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 9.94
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 9.94
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 5.949999999999999
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 14.420000000000002
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 19.400000000000002
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 16.41
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 3,
+          "Sprite 20oz Bottle": 0,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 17.419999999999998
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 2,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 14.420000000000002
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.44
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 2,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.44
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.44
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 7.45
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.44
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 8.44
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.46
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.46
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.46
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.46
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 2,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 7.95
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.96
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.449999999999999
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.45
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 7.4399999999999995
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 7.4399999999999995
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.449999999999999
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 2,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.449999999999999
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 2.98
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 6.470000000000001
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 2.98
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 2.98
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 2,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 2.98
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 2.98
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 5.96
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 5.96
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Amscan 9\" Round Paper Plates, Black, 18-Count Pack": 1
+        },
+        "revenue": 8.45
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 0,
+          "Sprite 20oz Bottle": 1,
+          "Mountain Dew 20oz Bottle": 1,
+          "Pepsi 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 0,
+          "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Zest Aqua Bar Soap 4 oz": 0,
+          "Bob's Red Mill Classic Granola 12 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Amscan 9\" Round Paper Plates, Black, 18-Count Pack": 0
+        },
+        "revenue": 4.47
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 0,
+        "delivery_day": 7,
+        "delivery_days": 7,
+        "total_cost": 35.4,
+        "delivered_day": 7
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 8,
+        "delivery_day": 15,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 15
+      },
+      {
+        "items": [
+          {
+            "name": "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 10,
+        "delivery_day": 17,
+        "delivery_days": 7,
+        "total_cost": 53.1,
+        "delivered_day": 17
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 16,
+        "delivery_day": 23,
+        "delivery_days": 7,
+        "total_cost": 28.0,
+        "delivered_day": 23
+      },
+      {
+        "items": [
+          {
+            "name": "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 18,
+        "delivery_day": 25,
+        "delivery_days": 7,
+        "total_cost": 33.0,
+        "delivered_day": 25
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 24,
+        "delivery_day": 31,
+        "delivery_days": 7,
+        "total_cost": 38.0,
+        "delivered_day": 31
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 26,
+        "delivery_day": 33,
+        "delivery_days": 7,
+        "total_cost": 33.0,
+        "delivered_day": 33
+      },
+      {
+        "items": [
+          {
+            "name": "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 27,
+        "delivery_day": 34,
+        "delivery_days": 7,
+        "total_cost": 53.1,
+        "delivered_day": 34
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 30,
+        "delivery_day": 37,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 37
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Jelly Babies 2 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 35,
+        "delivery_day": 42,
+        "delivery_days": 7,
+        "total_cost": 17.2,
+        "delivered_day": 42
+      },
+      {
+        "items": [
+          {
+            "name": "Rayovac High Energy AAA Alkaline",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 39,
+        "delivery_day": 46,
+        "delivery_days": 7,
+        "total_cost": 15.0,
+        "delivered_day": 46
+      },
+      {
+        "items": [
+          {
+            "name": "Zest Aqua Bar Soap 4 oz",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 43,
+        "delivery_day": 50,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 50
+      },
+      {
+        "items": [
+          {
+            "name": "Bob's Red Mill Classic Granola 12 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 44,
+        "delivery_day": 51,
+        "delivery_days": 7,
+        "total_cost": 37.8,
+        "delivered_day": 51
+      },
+      {
+        "items": [
+          {
+            "name": "Maruchan Ramen Noodle Soup Chicken 3 oz",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 48,
+        "delivery_day": 55,
+        "delivery_days": 7,
+        "total_cost": 16.5,
+        "delivered_day": 55
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 59,
+        "delivery_day": 66,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 66
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 16.8,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 63,
+        "delivery_day": 70,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 70
+      },
+      {
+        "items": [
+          {
+            "name": "Maruchan Ramen Noodle Soup Chicken 3 oz",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 70,
+        "delivery_day": 77,
+        "delivery_days": 7,
+        "total_cost": 16.5,
+        "delivered_day": 77
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 76,
+        "delivery_day": 83,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 83
+      },
+      {
+        "items": [
+          {
+            "name": "Maruchan Ramen Noodle Soup Chicken 3 oz",
+            "quantity": 24
+          }
+        ],
+        "status": "delivered",
+        "created_day": 78,
+        "delivery_day": 85,
+        "delivery_days": 7,
+        "total_cost": 13.2,
+        "delivered_day": 85
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 24
+          }
+        ],
+        "status": "delivered",
+        "created_day": 81,
+        "delivery_day": 88,
+        "delivery_days": 7,
+        "total_cost": 13.44,
+        "delivered_day": 88
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz",
+            "quantity": 24
+          }
+        ],
+        "status": "delivered",
+        "created_day": 82,
+        "delivery_day": 89,
+        "delivery_days": 7,
+        "total_cost": 26.4,
+        "delivered_day": 89
+      },
+      {
+        "items": [
+          {
+            "name": "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)",
+            "quantity": 12
+          }
+        ],
+        "status": "delivered",
+        "created_day": 82,
+        "delivery_day": 89,
+        "delivery_days": 7,
+        "total_cost": 21.24,
+        "delivered_day": 89
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Jelly Babies 2 oz Bag",
+            "quantity": 24
+          }
+        ],
+        "status": "delivered",
+        "created_day": 84,
+        "delivery_day": 91,
+        "delivery_days": 7,
+        "total_cost": 20.64,
+        "delivered_day": 91
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 86,
+        "delivery_day": 93,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 93
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 89,
+        "delivery_day": 96,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 96
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 94,
+        "delivery_day": 101,
+        "delivery_days": 7,
+        "total_cost": 28.5,
+        "delivered_day": 101
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 103,
+        "delivery_day": 110,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 110
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 105,
+        "delivery_day": 112,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 112
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 109,
+        "delivery_day": 116,
+        "delivery_days": 7,
+        "total_cost": 14.25,
+        "delivered_day": 116
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 110,
+        "delivery_day": 117,
+        "delivery_days": 7,
+        "total_cost": 14.85,
+        "delivered_day": 117
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 112,
+        "delivery_day": 119,
+        "delivery_days": 7,
+        "total_cost": 11.2,
+        "delivered_day": 119
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Jelly Babies 2 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 114,
+        "delivery_day": 121,
+        "delivery_days": 7,
+        "total_cost": 12.9,
+        "delivered_day": 121
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 118,
+        "delivery_day": 125,
+        "delivery_days": 7,
+        "total_cost": 14.85,
+        "delivered_day": 125
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 122,
+        "delivery_day": 129,
+        "delivery_days": 7,
+        "total_cost": 14.25,
+        "delivered_day": 129
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 124,
+        "delivery_day": 131,
+        "delivery_days": 7,
+        "total_cost": 14.85,
+        "delivered_day": 131
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite Zero Sugar 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 130,
+        "delivery_day": 137,
+        "delivery_days": 7,
+        "total_cost": 15.75,
+        "delivered_day": 137
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 131,
+        "delivery_day": 138,
+        "delivery_days": 7,
+        "total_cost": 14.25,
+        "delivered_day": 138
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 133,
+        "delivery_day": 140,
+        "delivery_days": 7,
+        "total_cost": 8.4,
+        "delivered_day": 140
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 138,
+        "delivery_day": 145,
+        "delivery_days": 7,
+        "total_cost": 14.85,
+        "delivered_day": 145
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 141,
+        "delivery_day": 148,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 148
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 4 oz Bag",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 148,
+        "delivery_day": 155,
+        "delivery_days": 7,
+        "total_cost": 45.0,
+        "delivered_day": 155
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 163,
+        "delivery_day": 170,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 170
+      },
+      {
+        "items": [
+          {
+            "name": "Mountain Dew 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 164,
+        "delivery_day": 171,
+        "delivery_days": 7,
+        "total_cost": 28.5,
+        "delivered_day": 171
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 170,
+        "delivery_day": 177,
+        "delivery_days": 7,
+        "total_cost": 15.25,
+        "delivered_day": 177
+      },
+      {
+        "items": [
+          {
+            "name": "Amscan 9\" Round Paper Plates, Black, 18-Count Pack",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 174,
+        "delivery_day": 181,
+        "delivery_days": 7,
+        "total_cost": 67.0,
+        "delivered_day": 181
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "processing",
+        "created_day": 182,
+        "delivery_day": 189,
+        "delivery_days": 7,
+        "total_cost": 29.7
+      }
+    ],
+    "products": [
+      "Generic 9-Inch 2-Ply Jumbo Toilet Tissue Roll",
+      "Generic 3-in-1 Laundry Pods 15g 50-Count Tub",
+      "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)",
+      "Generic Liquid Bleach 1 Gallon Jug",
+      "Generic Eco-Friendly Laundry Detergent Sheets Fresh Scent 60-Load Box",
+      "Generic Eco-Friendly Laundry Detergent Sheets Fragrance-Free 30-Load Box",
+      "Sprite 20oz Bottle",
+      "Pepsi Wild Cherry 20oz Bottle",
+      "Modelo Especial 12oz Bottle",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Evian Natural Spring Water 500 ml Bottle",
+      "Smartwater Vapor Distilled Water 1 Liter Bottle",
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle",
+      "Bitchin' Sauce Chipotle 8 oz",
+      "Cindy's Chipotle Ranch Dressing 16oz Bottle",
+      "DiChickos Hot Peri-Peri Sauce 12 oz",
+      "Full Harvest Russet Potatoes 1 lb",
+      "Dr Pepper Cherry 20oz Bottle",
+      "Spindrift Raspberry Lime Sparkling Water 12 oz Can",
+      "Post Fruity Pebbles 11 oz Box",
+      "General Mills Cheerios 12 oz Box",
+      "Bob's Red Mill Classic Granola 12 oz Bag",
+      "Mountain Dew 20oz Bottle",
+      "Mountain Dew SPARK 12oz Can (355ml)",
+      "Liquid Death Mountain Water 16.9 oz Can",
+      "DollarDays Essentials 2-in-1 Shampoo + Conditioner 8 oz",
+      "Method Daily Conditioner 12 fl oz",
+      "Method Daily Shampoo 12 fl oz",
+      "Pepsi 20oz Bottle",
+      "Polar Seltzer Orange Vanilla 12 oz Can",
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)",
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC17713)",
+      "Cottonelle Professional 2-Ply 451-Sheet Toilet Paper Roll (KCC13135)",
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)",
+      "Creative Converting Paper Straws, Black Chevron, 24-Count",
+      "Oriental Trading 12\" Latex Balloons, Assorted Colors, 15-Count Pack",
+      "Amscan Blowouts/Noisemakers, Color Assortment, 8-Count",
+      "Factory Direct Party Confetti Party Poppers, 6-Count",
+      "Dove Beauty Bar Soap 3.75 oz - Original",
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz",
+      "Monster Ultra Peachy Keen 16oz Can",
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+      "Bulk Jelly Babies 2 oz Bag",
+      "Quaker Cap'n Crunch Original 14 oz Box",
+      "Kellogg's Corn Flakes 18 oz Box",
+      "Savory Spice Shop Everything Bagel Seasoning 1 lb Bag",
+      "Nature's Path Organic Pumpkin Seed + Flax Granola 11.5 oz Bag",
+      "Barbara's Puffins Peanut Butter 11.5 oz Box",
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+      "Generic Odor Eliminator Laundry Additive 16 fl oz",
+      "Bubly Blackberry Sparkling Water 12 oz Can",
+      "Blue Bunny Vanilla Ice Cream Sandwich 24-count",
+      "Oreo Ice Cream Sandwich 12-count",
+      "Blue Bunny Neapolitan Ice Cream Sandwich 24-count",
+      "Energizer CR2450 Lithium Coin Cell 3V",
+      "Energizer CR2032 Lithium Coin Cell 3V",
+      "Rayovac High Energy AAA Alkaline",
+      "Medi-First Wound Wash Saline 3 oz Spray",
+      "Medi-First Aspirin 325mg Tablets 100-Count Box",
+      "First Aid Only Eye Wash 4 oz Bottle",
+      "Medi-First Antacid Chewable Tablets Assorted 150-Count Bottle",
+      "Organic Citrus Ginger Vinaigrette 12oz Bottle",
+      "Golden Pompano Frozen 1 kg",
+      "Purvey'd Bulk Carrots 1 lb",
+      "Happy Baby Superfood Puffs Banana & Pumpkin 2.1 oz Canister",
+      "The Republic of Tea Double Green Matcha Single Tea Bag",
+      "The Republic of Tea Decaf British Breakfast Single Tea Bag",
+      "Heavenly Tea Leaves English Breakfast Single Pyramid Sachet",
+      "Full Harvest Roma Tomatoes 1 lb",
+      "Full Harvest Turnips 1 lb",
+      "Kegel's Produce Eggplant 1 lb",
+      "Coca-Cola Zero Sugar 20oz Bottle",
+      "Cream-O-Land Whole Milk Half Gallon",
+      "Cream-O-Land Skim Milk Half Gallon",
+      "Cream-O-Land 2% Reduced Fat Milk Half Gallon",
+      "Bakers Authority Impastata (Smooth Ricotta) 16oz Tub",
+      "Bakers Authority Impastata (Smooth Ricotta) 8oz Tub",
+      "Crisco All-Vegetable Shortening 1 lb Can",
+      "Plastirun 2-Ply Facial Tissue 100-Sheet Box",
+      "Tork Universal Multifold Hand Towels 250-Sheet Pack",
+      "Genuine Joe 2-Ply Kitchen Paper Towels 70-Sheet Roll",
+      "DiChickos Lemon Herb Peri-Peri Sauce 12 oz",
+      "American Spice Company Montreal Steak Seasoning 1 lb Bag",
+      "SheaMoisture Coconut & Hibiscus Curl & Shine Shampoo 13 oz",
+      "The Soap Guy Handmade Bar Soap 5 oz - Lavender",
+      "Zest Aqua Bar Soap 4 oz",
+      "Dial Antibacterial Gold Bar Soap 3.2 oz",
+      "Gourmet Food Marketplace Carnaroli Rice 1 lb",
+      "Costa Penne Rigate 500g",
+      "South Coast Organics Farro 1 lb",
+      "Nature Valley Oats & Honey Granola 17 oz Bag",
+      "Bob's Red Mill Honey Oat Granola 12 oz Bag",
+      "Cascadian Farm Organic Honey Nut O's 12 oz Box",
+      "Bakers Authority Ricotta Cheese 16oz Tub",
+      "Bakers Authority Ricotta Cheese 32oz Tub",
+      "Annie Chun's Udon Soup Bowl 5.9 oz",
+      "Maruchan Ramen Noodle Soup Chicken 3 oz",
+      "Koyo Ramen Garlic Pepper 2.1 oz",
+      "Hormel Beef Tamales in Chili Sauce 15 oz Can",
+      "SPAM Less Sodium 12 oz Can",
+      "AlBayrouty Chick Peas in Brine 400g Can",
+      "Generic 3-in-1 Laundry Pods 15g 20-Count Pouch",
+      "Fanta Strawberry 20oz Bottle",
+      "DollarDays Essentials Daily Shampoo 8 oz",
+      "Butterfinger Fun Size 5 oz Bag",
+      "Blue Bunny Fudge Bar 24-count",
+      "Downy Unstopables In-Wash Scent Booster Beads Fresh 5 oz Bottle",
+      "Tresemme Pro Pure Shampoo 16 fl oz",
+      "Generic Delicates Laundry Wash Liquid 16 fl oz",
+      "Lever 2000 Bar Soap 4 oz - Original",
+      "Jelly Belly Assorted Jelly Beans 2 oz Bag",
+      "Nongshim Shin Ramyun 4.2 oz",
+      "Dr Pepper 20oz Bottle",
+      "M&M's Milk Chocolate Fun Size 6 oz Bag",
+      "DollarDays Argan Oil Shampoo 12 oz",
+      "DollarDays Generic 2-Ply 400-Sheet Toilet Paper Roll",
+      "Bulk Jelly Babies 3.5 oz Bag",
+      "Perrier Sparkling Natural Mineral Water 8.45 fl oz Glass Bottle",
+      "San Pellegrino Sparkling Natural Mineral Water 25.3 fl oz Glass Bottle",
+      "Generic Fabric Softener Dryer Sheets Lavender 80-Count Box",
+      "Coca-Cola Original Taste 20oz Bottle",
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+      "Sanu Foods Frozen Mixed Vegetables Blend 16 oz (Corn, Carrots, Peas, Green Beans)",
+      "Kegel's Produce Garlic Bulb 1 ct",
+      "McKesson StayDry Scented Wipes Large 24-Count Soft Pack",
+      "McKesson StayDry Scented Wipes Large 20-Count Soft Pack",
+      "Oreo Ice Cream Sandwich 24-count",
+      "Energizer 357/303 SR44 Silver Oxide Button Cell",
+      "Energizer L91 AA Lithium Battery",
+      "Generic 2-Ply Facial Tissue Cube 85-Sheet Box",
+      "Generic 2-Ply Facial Tissue Flat 144-Sheet Box",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Bulk Gummy Worms 2.5 oz Bag",
+      "Generic Fabric Softener Dryer Sheets Fresh 40-Count Box",
+      "Amscan 9\" Round Paper Plates, Black, 18-Count Pack",
+      "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count",
+      "Creative Converting Heavyweight Plastic Cutlery Set, 24-Piece (8 Forks/Knives/Spoons)"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "cleaning supplies household",
+        "results": [
+          {
+            "name": "Generic Liquid Bleach 1 Gallon Jug",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 2.5
+          },
+          {
+            "name": "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 2.2
+          },
+          {
+            "name": "Generic Delicates Laundry Wash Liquid 16 fl oz",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 4.0
+          }
+        ],
+        "timestamp": 1775037209.4421387
+      },
+      {
+        "query": "beverages drinks soda",
+        "results": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.99
+          },
+          {
+            "name": "Sprite Zero Sugar 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.05
+          },
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "category": "Water & Sparkling Water",
+            "wholesale_price": 0.5
+          }
+        ],
+        "timestamp": 1775037247.731963
+      }
+    ]
+  }
+}

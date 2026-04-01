@@ -55,6 +55,9 @@ token_pricing:
   "doubao-seed-2-0-pro-260215":
     input: 0.47
     output: 2.37
+  "deepseek-reasoner":
+    input: 0.28
+    output: 0.42
   "openai/text-embedding-3-small":
     input: 0.02
     output: 0.00
