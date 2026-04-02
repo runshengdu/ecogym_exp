@@ -40,6 +40,9 @@ token_pricing:
   "qwen3.5-plus":
     input: 0.26
     output: 1.56
+  "qwen3.6-plus":
+    input: 0.71
+    output: 4.28
   "qwen3.5-flash":
     input: 0.065
     output: 0.26
