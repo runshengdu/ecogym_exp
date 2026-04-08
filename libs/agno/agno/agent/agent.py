@@ -315,6 +315,27 @@ class Agent:
         except Exception as e:
             print(f"\n📊 [Session State After Tools] (Error formatting: {e})\n{str(self.session_state)}\n")
 
+    def _ensure_user_after_system(self, original_messages: List[Dict[str, Any]]) -> None:
+        """Some providers (e.g. Zhipu GLM) reject requests where the first non-system message is not user."""
+        if len(self.messages) <= 1:
+            return
+        if self.messages[1].get("role") == "user":
+            return
+        text: str
+        found = False
+        for msg in original_messages[1:]:
+            if msg.get("role") == "user":
+                found = True
+                raw = msg.get("content")
+                if isinstance(raw, str):
+                    text = raw
+                else:
+                    text = str(raw) if raw is not None else ""
+                break
+        if not found:
+            text = "Please proceed with your task according to the instructions."
+        self.messages.insert(1, {"role": "user", "content": text})
+
     def run(self, user_query: str = "", session_id: Optional[str] = None) -> SimpleRunOutput:
         if not self.messages or self.messages[0].get("role") != "system":
             self.messages = [{"role": "system", "content": self.instructions}]
@@ -322,12 +343,14 @@ class Agent:
         if self.history_limit is not None and self.history_limit > 0:
             current_len = len(self.messages)
             if current_len > self.history_limit + 1:
+                original_messages = self.messages
                 kept_slice = self.messages[-self.history_limit:]
                 
                 while kept_slice and kept_slice[0].get("role") == "tool":
                     kept_slice.pop(0)
                 
                 self.messages = [self.messages[0]] + kept_slice
+                self._ensure_user_after_system(original_messages)
         
         last_message_role = self.messages[-1].get("role") if len(self.messages) > 1 else None
         
