@@ -521,7 +521,8 @@ class BenchmarkLauncher(object):
                                         "name": "task_done",
                                         "arguments": "{}"
                                     }}]}
-                            if "kimi" in (self.model_name or "").lower():
+                            model_name_lower = (self.model_name or "").lower()
+                            if "kimi" in model_name_lower or "deepseek-v4" in model_name_lower:
                                 assistant_msg["reasoning_content"] = "System-generated tool call to advance the day after reaching the daily action limit."
 
                             tool_msg = {
