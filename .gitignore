@@ -24,7 +24,6 @@ certs/
 /storage
 .images
 /qdrant_storage
-logs
 
 # ignore wip dir
 wip

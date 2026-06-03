@@ -1,0 +1,4668 @@
+{
+  "step": 287,
+  "timestamp": "2026-04-24T13:55:13.659420",
+  "state": {
+    "money": 1036.920000000003,
+    "day": 183,
+    "product_prices": {
+      "Energizer CR2032 Lithium Coin Cell 3V": 1.5,
+      "Energizer CR2450 Lithium Coin Cell 3V": 1.99,
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2.49,
+      "Energizer 357/303 SR44 Silver Oxide Button Cell": 1.99,
+      "Dove Beauty Bar Soap 3.75 oz - Original": 2.99,
+      "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1.99,
+      "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 2.49,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 1.49,
+      "Sprite 20oz Bottle": 2.49,
+      "Sprite Zero Sugar 20oz Bottle": 2.49,
+      "Coca-Cola Zero Sugar 20oz Bottle": 2.49,
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze": 2.99,
+      "Evian Natural Spring Water 500 ml Bottle": 2.49
+    },
+    "product_quantities": {
+      "Energizer CR2032 Lithium Coin Cell 3V": 0,
+      "Energizer CR2450 Lithium Coin Cell 3V": 0,
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 12,
+      "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+      "Sprite 20oz Bottle": 7,
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+      "Evian Natural Spring Water 500 ml Bottle": 6
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Energizer CR2450 Lithium Coin Cell 3V": 0.85,
+      "Energizer CR2032 Lithium Coin Cell 3V": 0.75,
+      "Energizer 357/303 SR44 Silver Oxide Button Cell": 0.9,
+      "Bulk Jelly Babies 2 oz Bag": 0.86,
+      "Oriental Trading Silicone Tongs 9-inch": 2.8,
+      "Oriental Trading Tissue Paper Pom Poms, 10\", Assorted Colors, 5-Count": 2.85,
+      "Dove Beauty Bar Soap 3.75 oz - Original": 1.38,
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz": 4.13,
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1.2,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1.95,
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)": 3.59,
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)": 1.63,
+      "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 1.1,
+      "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0.87,
+      "Butterfinger Fun Size 5 oz Bag": 4.36,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Penny Diapers Pull-Ups Training Pants Size 4T-5T 14-Count Pack": 4.9,
+      "Oriental Trading 12\" Latex Balloons, Assorted Colors, 15-Count Pack": 1.39,
+      "Unique Industries Cone Party Hats, Metallic Assorted, 8-Count": 1.79,
+      "Koyal Wholesale \"I Do Crew\" Gift Bags, Rose Gold Foil, 12-Pack": 3.18,
+      "Unique Industries Number Cake Toppers, Gold Glitter, 0–9 Assortment, 2-Count": 0.95,
+      "Sprite 20oz Bottle": 0.99,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.05,
+      "Medi-First Aspirin 325mg Tablets 100-Count Box": 4.47,
+      "Medi-First Antacid Chewable Tablets Assorted 150-Count Bottle": 3.5,
+      "Pravada Strengthening Shampoo with Biotin + Hyaluronic Acid 12 fl oz": 3.95,
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1.8,
+      "Dial Body Wash 16 oz - Spring Water": 3.4,
+      "Softsoap Body Wash 13.5 oz - Juicy Pomegranate & Mango Infusions": 2.75,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Smartwater Vapor Distilled Water 1 Liter Bottle": 1.25,
+      "Evian Natural Spring Water 500 ml Bottle": 1.1
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 4,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 8.5
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 5,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 10.25
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 4,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 9.99
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 7.47
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 8.959999999999999
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 3.49
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 4,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 9.46
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 4,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 9.46
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 5.97
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 4,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 9.46
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 7.47
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 7.47
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 10.74
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0
+        },
+        "revenue": 11.46
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 11.46
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 11.46
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.24
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 10.96
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 11.46
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 13.950000000000001
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 15.940000000000001
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 15.940000000000001
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 16.44
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 10.46
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 20.92
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 19.92
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 13.950000000000001
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 21.41
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 12.940000000000001
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 13.440000000000001
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 8.46
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 17.92
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 22.900000000000002
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 17.92
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 12.940000000000001
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 12.940000000000001
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 1,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 10.450000000000001
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 18.42
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 15.930000000000001
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 18.42
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 18.42
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 8.46
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 8.46
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 8.46
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 6.470000000000001
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 6.470000000000001
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 6.470000000000001
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 19.92
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 17.93
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 10.46
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 17.93
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 12.950000000000001
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 12.950000000000001
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 19.92
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 2,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 19.92
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 4
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 1
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 4
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 3
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 4,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 4.98
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 2.49
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 12.450000000000001
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 2,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 17.43
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 0,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 0,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Energizer CR2032 Lithium Coin Cell 3V": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Energizer 357/303 SR44 Silver Oxide Button Cell": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 3,
+          "Dove Beauty Bar Soap 3.75 oz - Original": 0,
+          "Suave Essentials Body Wash 15 oz - Ocean Breeze": 0,
+          "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count": 0,
+          "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Sprite 20oz Bottle": 1,
+          "Sprite Zero Sugar 20oz Bottle": 0,
+          "Coca-Cola Zero Sugar 20oz Bottle": 0,
+          "Evian Natural Spring Water 500 ml Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Energizer CR2032 Lithium Coin Cell 3V",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 15.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Energizer CR2450 Lithium Coin Cell 3V",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 17.0,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 3,
+        "delivery_day": 10,
+        "delivery_days": 7,
+        "total_cost": 13.05,
+        "delivered_day": 10
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 4,
+        "delivery_day": 11,
+        "delivery_days": 7,
+        "total_cost": 14.0,
+        "delivered_day": 11
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 11,
+        "delivery_day": 18,
+        "delivery_days": 7,
+        "total_cost": 36.0,
+        "delivered_day": 18
+      },
+      {
+        "items": [
+          {
+            "name": "Energizer CR2032 Lithium Coin Cell 3V",
+            "quantity": 14
+          }
+        ],
+        "status": "delivered",
+        "created_day": 12,
+        "delivery_day": 19,
+        "delivery_days": 7,
+        "total_cost": 10.5,
+        "delivered_day": 19
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 14
+          }
+        ],
+        "status": "delivered",
+        "created_day": 14,
+        "delivery_day": 21,
+        "delivery_days": 7,
+        "total_cost": 16.8,
+        "delivered_day": 21
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 17,
+        "delivery_day": 24,
+        "delivery_days": 7,
+        "total_cost": 5.94,
+        "delivered_day": 24
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 9
+          }
+        ],
+        "status": "delivered",
+        "created_day": 19,
+        "delivery_day": 26,
+        "delivery_days": 7,
+        "total_cost": 10.8,
+        "delivered_day": 26
+      },
+      {
+        "items": [
+          {
+            "name": "Suave Essentials Body Wash 15 oz - Ocean Breeze",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 22,
+        "delivery_day": 29,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 29
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 24,
+        "delivery_day": 31,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 31
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 25,
+        "delivery_day": 32,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 32
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 26,
+        "delivery_day": 33,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 33
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 27,
+        "delivery_day": 34,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 34
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 32,
+        "delivery_day": 39,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 39
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 34,
+        "delivery_day": 41,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 41
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 34,
+        "delivery_day": 41,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 41
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 41,
+        "delivery_day": 48,
+        "delivery_days": 7,
+        "total_cost": 12.0,
+        "delivered_day": 48
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 43,
+        "delivery_day": 50,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 50
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 43,
+        "delivery_day": 50,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 50
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 50,
+        "delivery_day": 57,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 57
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 50,
+        "delivery_day": 57,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 57
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 50,
+        "delivery_day": 57,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 57
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 57,
+        "delivery_day": 64,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 64
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 67,
+        "delivery_day": 74,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 74
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 67,
+        "delivery_day": 74,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 74
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 67,
+        "delivery_day": 74,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 74
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 74,
+        "delivery_day": 81,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 81
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 74,
+        "delivery_day": 81,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 81
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 74,
+        "delivery_day": 81,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 81
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 81,
+        "delivery_day": 88,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 88
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 81,
+        "delivery_day": 88,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 88
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 81,
+        "delivery_day": 88,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 88
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 89,
+        "delivery_day": 96,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 96
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 89,
+        "delivery_day": 96,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 96
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 89,
+        "delivery_day": 96,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 96
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 99,
+        "delivery_day": 106,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 106
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 99,
+        "delivery_day": 106,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 106
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 99,
+        "delivery_day": 106,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 106
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 108,
+        "delivery_day": 115,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 115
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 108,
+        "delivery_day": 115,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 115
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 108,
+        "delivery_day": 115,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 115
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 117,
+        "delivery_day": 124,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 124
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 117,
+        "delivery_day": 124,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 124
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 117,
+        "delivery_day": 124,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 124
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 125,
+        "delivery_day": 132,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 132
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 125,
+        "delivery_day": 132,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 132
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 125,
+        "delivery_day": 132,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 132
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 133,
+        "delivery_day": 140,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 140
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 133,
+        "delivery_day": 140,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 140
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 133,
+        "delivery_day": 140,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 140
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 141,
+        "delivery_day": 148,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 148
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 141,
+        "delivery_day": 148,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 148
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 141,
+        "delivery_day": 148,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 148
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 149,
+        "delivery_day": 156,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 156
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 149,
+        "delivery_day": 156,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 156
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 149,
+        "delivery_day": 156,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 156
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 157,
+        "delivery_day": 164,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 164
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 157,
+        "delivery_day": 164,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 164
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 157,
+        "delivery_day": 164,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 164
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 165,
+        "delivery_day": 172,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 172
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 165,
+        "delivery_day": 172,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 172
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 165,
+        "delivery_day": 172,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 172
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 175,
+        "delivery_day": 182,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 182
+      },
+      {
+        "items": [
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 175,
+        "delivery_day": 182,
+        "delivery_days": 7,
+        "total_cost": 8.8,
+        "delivered_day": 182
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 8
+          }
+        ],
+        "status": "delivered",
+        "created_day": 175,
+        "delivery_day": 182,
+        "delivery_days": 7,
+        "total_cost": 7.92,
+        "delivered_day": 182
+      }
+    ],
+    "products": [
+      "Energizer CR2450 Lithium Coin Cell 3V",
+      "Energizer CR2032 Lithium Coin Cell 3V",
+      "Energizer 357/303 SR44 Silver Oxide Button Cell",
+      "Bulk Jelly Babies 2 oz Bag",
+      "Oriental Trading Silicone Tongs 9-inch",
+      "Oriental Trading Tissue Paper Pom Poms, 10\", Assorted Colors, 5-Count",
+      "Dove Beauty Bar Soap 3.75 oz - Original",
+      "Dove Beauty Bond Strength Shampoo 13.5 fl oz",
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)",
+      "Pacific Blue Select 2-Ply 550-Sheet Toilet Paper Roll (GPC1824001)",
+      "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll",
+      "Unique Industries 2-Ply Beverage Napkins, Gold Foil Dots, 16-Count",
+      "Butterfinger Fun Size 5 oz Bag",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Penny Diapers Pull-Ups Training Pants Size 4T-5T 14-Count Pack",
+      "Oriental Trading 12\" Latex Balloons, Assorted Colors, 15-Count Pack",
+      "Unique Industries Cone Party Hats, Metallic Assorted, 8-Count",
+      "Koyal Wholesale \"I Do Crew\" Gift Bags, Rose Gold Foil, 12-Pack",
+      "Unique Industries Number Cake Toppers, Gold Glitter, 0–9 Assortment, 2-Count",
+      "Sprite 20oz Bottle",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Coca-Cola Zero Sugar 20oz Bottle",
+      "Medi-First Aspirin 325mg Tablets 100-Count Box",
+      "Medi-First Antacid Chewable Tablets Assorted 150-Count Bottle",
+      "Pravada Strengthening Shampoo with Biotin + Hyaluronic Acid 12 fl oz",
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze",
+      "Dial Body Wash 16 oz - Spring Water",
+      "Softsoap Body Wash 13.5 oz - Juicy Pomegranate & Mango Infusions",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Smartwater Vapor Distilled Water 1 Liter Bottle",
+      "Evian Natural Spring Water 500 ml Bottle"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "candy chocolate bars",
+        "results": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 0.56
+          },
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 4.5
+          },
+          {
+            "name": "Hershey's Assorted Miniatures 4 oz Bag",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 2.25
+          }
+        ],
+        "timestamp": 1777007555.0088956
+      },
+      {
+        "query": "water bottled drinks",
+        "results": [
+          {
+            "name": "Smartwater Vapor Distilled Water 1 Liter Bottle",
+            "category": "Water & Sparkling Water",
+            "wholesale_price": 1.25
+          },
+          {
+            "name": "Sprite 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.99
+          },
+          {
+            "name": "Evian Natural Spring Water 500 ml Bottle",
+            "category": "Water & Sparkling Water",
+            "wholesale_price": 1.1
+          }
+        ],
+        "timestamp": 1777007562.9684298
+      }
+    ]
+  }
+}

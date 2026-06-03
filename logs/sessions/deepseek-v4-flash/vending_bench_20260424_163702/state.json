@@ -1,0 +1,3020 @@
+{
+  "step": 264,
+  "timestamp": "2026-04-24T17:13:21.852202",
+  "state": {
+    "money": 55.470000000000006,
+    "day": 183,
+    "product_prices": {
+      "Rayovac High Energy AA Alkaline": 1.49,
+      "Rayovac High Energy AAA Alkaline": 1.49,
+      "Bulk Jelly Babies 2 oz Bag": 1.49,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.99,
+      "Maruchan Ramen Noodle Soup Chicken 3 oz": 0.99,
+      "Bulk Gummy Worms 2.5 oz Bag": 0.99,
+      "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 4.99,
+      "Sprite 20oz Bottle": 1.99,
+      "Hershey's Assorted Miniatures 8 oz Bag": 6.99,
+      "Pepsi 20oz Bottle": 1.99
+    },
+    "product_quantities": {
+      "Rayovac High Energy AA Alkaline": 0,
+      "Rayovac High Energy AAA Alkaline": 0,
+      "Bulk Jelly Babies 2 oz Bag": 0,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+      "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+      "Bulk Gummy Worms 2.5 oz Bag": 0,
+      "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 262,
+      "Sprite 20oz Bottle": 0,
+      "Hershey's Assorted Miniatures 8 oz Bag": 0,
+      "Pepsi 20oz Bottle": 27
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Rayovac High Energy AA Alkaline": 0.5,
+      "Rayovac High Energy AAA Alkaline": 0.5,
+      "Panasonic Eneloop AA NiMH Rechargeable Battery": 2.5,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1.95,
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)": 3.59,
+      "Oriental Trading Silicone Whisk 10-inch": 2.4,
+      "Sprite 20oz Bottle": 0.99,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Monster Nitro Super Dry 16oz Can": 1.49,
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1.25,
+      "Genuine Joe 2-Ply Kitchen Paper Towels 70-Sheet Roll": 1.35,
+      "Tork Universal Multifold Hand Towels 250-Sheet Pack": 1.8,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Bulk Jelly Babies 2 oz Bag": 0.86,
+      "DollarDays Generic 1-Ply 1200-Sheet Economy Toilet Paper Roll": 0.55,
+      "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll": 1.1,
+      "DollarDays Generic 2-Ply 250-Sheet Compact Toilet Paper Roll": 0.52,
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle": 1.1,
+      "Perrier Sparkling Natural Mineral Water 8.45 fl oz Glass Bottle": 0.8,
+      "Quaker Cap'n Crunch Original 14 oz Box": 3.2,
+      "Kellogg's Corn Flakes 18 oz Box": 3.2,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Butterfinger Fun Size 5 oz Bag": 4.36,
+      "Blue Bunny Fudge Bar 24-count": 0.81,
+      "Maruchan Ramen Noodle Soup Chicken 3 oz": 0.55,
+      "Koyo Ramen Garlic Pepper 2.1 oz": 1.15,
+      "Lotus Foods Millet & Brown Rice Ramen 2.8 oz": 1.7,
+      "Generic Delicates Laundry Wash Liquid 16 fl oz": 4.0,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2.2,
+      "Generic Liquid Bleach 1 Gallon Jug": 2.5,
+      "Bulk Gummy Worms 2.5 oz Bag": 0.61,
+      "Bulk Jelly Babies 3.5 oz Bag": 1.5,
+      "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 2.2,
+      "Medi-First Aspirin 325mg Tablets 100-Count Box": 4.47,
+      "Medi-First Acetaminophen 500mg Caplets 50-Count Bottle": 2.4,
+      "Swan Isopropyl Rubbing Alcohol 70% 16oz Bottle": 1.25,
+      "Method Daily Conditioner 12 fl oz": 3.0,
+      "Medline Hydrogen Peroxide 3% Solution 16oz Bottle": 0.95,
+      "Polar Seltzer Orange Vanilla 12 oz Can": 0.5,
+      "Smartwater Vapor Distilled Water 1 Liter Bottle": 1.25,
+      "Method Daily Shampoo 12 fl oz": 3.0,
+      "DollarDays Essentials Daily Shampoo 8 oz": 1.25,
+      "Head & Shoulders Classic Clean Dandruff Shampoo 13.5 fl oz": 4.5,
+      "Pepsi 20oz Bottle": 0.99,
+      "Pepsi Wild Cherry 20oz Bottle": 1.05,
+      "Dr Pepper 20oz Bottle": 1.0
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1
+        },
+        "revenue": 0.99
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 0.99
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 0.99
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1
+        },
+        "revenue": 1.58
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1
+        },
+        "revenue": 1.58
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1
+        },
+        "revenue": 1.58
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1
+        },
+        "revenue": 1.58
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 2
+        },
+        "revenue": 3.9699999999999998
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 3.4699999999999998
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 2.48
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 3.4699999999999998
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 2.48
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0
+        },
+        "revenue": 0.99
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0
+        },
+        "revenue": 0.99
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 3.4699999999999998
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 2.48
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 3.4699999999999998
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 3.4699999999999998
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 1.49
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 2.48
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 1
+        },
+        "revenue": 2.48
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.99
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 2.9699999999999998
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 3.96
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 2.9699999999999998
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 2.9699999999999998
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 2.9699999999999998
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 3.96
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 2.9699999999999998
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 4.949999999999999
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 4.949999999999999
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 1
+        },
+        "revenue": 4.95
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 5.9399999999999995
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 5.9399999999999995
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 3.96
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 4
+        },
+        "revenue": 7.92
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 5.9399999999999995
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 4
+        },
+        "revenue": 7.92
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 5.9399999999999995
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 6.93
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 5.9399999999999995
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 4.949999999999999
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3
+        },
+        "revenue": 7.919999999999999
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 1
+        },
+        "revenue": 4.95
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 3.96
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2
+        },
+        "revenue": 4.949999999999999
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 9.94
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 9.94
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 11.92
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 13.9
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 11.92
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 3,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 11.92
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 11.92
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 11.93
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 12.92
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 12.92
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 13.92
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 2,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 13.92
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 1,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 10.94
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 8.96
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 8.96
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 11.94
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 8.96
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 9.96
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 9.95
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.95
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.95
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.95
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 4,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 1,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 10.93
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 11.93
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 11.43
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 10.44
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 4,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 13.91
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 12.92
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 6.970000000000001
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 6.970000000000001
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 6.970000000000001
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.46
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 9.97
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 13.950000000000001
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 13.950000000000001
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 3
+        },
+        "revenue": 15.940000000000001
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 13.950000000000001
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 12.950000000000001
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 2,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 17.95
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 12.96
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 3
+        },
+        "revenue": 14.95
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 13.950000000000001
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 14.940000000000001
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 3
+        },
+        "revenue": 14.95
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 1,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 2,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 19.93
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.95
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 1,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.95
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 2,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 9.94
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 7.96
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 6.970000000000001
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.46
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.46
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0
+        },
+        "revenue": 8.46
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 3
+        },
+        "revenue": 14.43
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 8.96
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 3,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 11.94
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 2,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 10.950000000000001
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 1
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Rayovac High Energy AA Alkaline": 0,
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Bulk Jelly Babies 2 oz Bag": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Bulk Gummy Worms 2.5 oz Bag": 0,
+          "Hershey's Assorted Miniatures 8 oz Bag": 0,
+          "Maruchan Ramen Noodle Soup Chicken 3 oz": 0,
+          "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle": 1,
+          "Sprite 20oz Bottle": 0,
+          "Pepsi 20oz Bottle": 2
+        },
+        "revenue": 8.97
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Rayovac High Energy AA Alkaline",
+            "quantity": 100
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 50.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Rayovac High Energy AAA Alkaline",
+            "quantity": 100
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 50.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Jelly Babies 2 oz Bag",
+            "quantity": 6
+          }
+        ],
+        "status": "delivered",
+        "created_day": 14,
+        "delivery_day": 21,
+        "delivery_days": 7,
+        "total_cost": 5.16,
+        "delivered_day": 21
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Jelly Babies 2 oz Bag",
+            "quantity": 16
+          }
+        ],
+        "status": "delivered",
+        "created_day": 22,
+        "delivery_day": 29,
+        "delivery_days": 7,
+        "total_cost": 13.76,
+        "delivered_day": 29
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 25
+          }
+        ],
+        "status": "delivered",
+        "created_day": 29,
+        "delivery_day": 36,
+        "delivery_days": 7,
+        "total_cost": 14.0,
+        "delivered_day": 36
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 45
+          }
+        ],
+        "status": "delivered",
+        "created_day": 38,
+        "delivery_day": 45,
+        "delivery_days": 7,
+        "total_cost": 25.2,
+        "delivered_day": 45
+      },
+      {
+        "items": [
+          {
+            "name": "Maruchan Ramen Noodle Soup Chicken 3 oz",
+            "quantity": 32
+          }
+        ],
+        "status": "delivered",
+        "created_day": 45,
+        "delivery_day": 52,
+        "delivery_days": 7,
+        "total_cost": 17.6,
+        "delivered_day": 52
+      },
+      {
+        "items": [
+          {
+            "name": "Maruchan Ramen Noodle Soup Chicken 3 oz",
+            "quantity": 42
+          }
+        ],
+        "status": "delivered",
+        "created_day": 53,
+        "delivery_day": 60,
+        "delivery_days": 7,
+        "total_cost": 23.1,
+        "delivered_day": 60
+      },
+      {
+        "items": [
+          {
+            "name": "Bulk Gummy Worms 2.5 oz Bag",
+            "quantity": 60
+          }
+        ],
+        "status": "delivered",
+        "created_day": 60,
+        "delivery_day": 67,
+        "delivery_days": 7,
+        "total_cost": 36.6,
+        "delivered_day": 67
+      },
+      {
+        "items": [
+          {
+            "name": "Maruchan Ramen Noodle Soup Chicken 3 oz",
+            "quantity": 35
+          }
+        ],
+        "status": "delivered",
+        "created_day": 64,
+        "delivery_day": 71,
+        "delivery_days": 7,
+        "total_cost": 19.25,
+        "delivered_day": 71
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 71,
+        "delivery_day": 78,
+        "delivery_days": 7,
+        "total_cost": 44.0,
+        "delivered_day": 78
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 34
+          }
+        ],
+        "status": "delivered",
+        "created_day": 80,
+        "delivery_day": 87,
+        "delivery_days": 7,
+        "total_cost": 74.8,
+        "delivered_day": 87
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 83,
+        "delivery_day": 90,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 90
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 45
+          }
+        ],
+        "status": "delivered",
+        "created_day": 91,
+        "delivery_day": 98,
+        "delivery_days": 7,
+        "total_cost": 99.0,
+        "delivered_day": 98
+      },
+      {
+        "items": [
+          {
+            "name": "Maruchan Ramen Noodle Soup Chicken 3 oz",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 98,
+        "delivery_day": 105,
+        "delivery_days": 7,
+        "total_cost": 22.0,
+        "delivered_day": 105
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 60
+          }
+        ],
+        "status": "delivered",
+        "created_day": 105,
+        "delivery_day": 112,
+        "delivery_days": 7,
+        "total_cost": 132.0,
+        "delivered_day": 112
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 112,
+        "delivery_day": 119,
+        "delivery_days": 7,
+        "total_cost": 67.5,
+        "delivered_day": 119
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 119,
+        "delivery_day": 126,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 126
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 126,
+        "delivery_day": 133,
+        "delivery_days": 7,
+        "total_cost": 110.0,
+        "delivered_day": 133
+      },
+      {
+        "items": [
+          {
+            "name": "Maruchan Ramen Noodle Soup Chicken 3 oz",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 133,
+        "delivery_day": 140,
+        "delivery_days": 7,
+        "total_cost": 27.5,
+        "delivered_day": 140
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 80
+          }
+        ],
+        "status": "delivered",
+        "created_day": 140,
+        "delivery_day": 147,
+        "delivery_days": 7,
+        "total_cost": 176.0,
+        "delivered_day": 147
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 147,
+        "delivery_day": 154,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 154
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 154,
+        "delivery_day": 161,
+        "delivery_days": 7,
+        "total_cost": 88.0,
+        "delivered_day": 161
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 162,
+        "delivery_day": 169,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 169
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 164,
+        "delivery_day": 171,
+        "delivery_days": 7,
+        "total_cost": 88.0,
+        "delivered_day": 171
+      },
+      {
+        "items": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 171,
+        "delivery_day": 178,
+        "delivery_days": 7,
+        "total_cost": 29.7,
+        "delivered_day": 178
+      },
+      {
+        "items": [
+          {
+            "name": "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+            "quantity": 40
+          }
+        ],
+        "status": "processing",
+        "created_day": 178,
+        "delivery_day": 185,
+        "delivery_days": 7,
+        "total_cost": 88.0
+      }
+    ],
+    "products": [
+      "Rayovac High Energy AA Alkaline",
+      "Rayovac High Energy AAA Alkaline",
+      "Panasonic Eneloop AA NiMH Rechargeable Battery",
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)",
+      "Oriental Trading Silicone Whisk 10-inch",
+      "Sprite 20oz Bottle",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Monster Nitro Super Dry 16oz Can",
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+      "Genuine Joe 2-Ply Kitchen Paper Towels 70-Sheet Roll",
+      "Tork Universal Multifold Hand Towels 250-Sheet Pack",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Bulk Jelly Babies 2 oz Bag",
+      "DollarDays Generic 1-Ply 1200-Sheet Economy Toilet Paper Roll",
+      "DollarDays Generic 2-Ply 600-Sheet Commercial Toilet Paper Roll",
+      "DollarDays Generic 2-Ply 250-Sheet Compact Toilet Paper Roll",
+      "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle",
+      "Perrier Sparkling Natural Mineral Water 8.45 fl oz Glass Bottle",
+      "Quaker Cap'n Crunch Original 14 oz Box",
+      "Kellogg's Corn Flakes 18 oz Box",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Butterfinger Fun Size 5 oz Bag",
+      "Blue Bunny Fudge Bar 24-count",
+      "Maruchan Ramen Noodle Soup Chicken 3 oz",
+      "Koyo Ramen Garlic Pepper 2.1 oz",
+      "Lotus Foods Millet & Brown Rice Ramen 2.8 oz",
+      "Generic Delicates Laundry Wash Liquid 16 fl oz",
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+      "Generic Liquid Bleach 1 Gallon Jug",
+      "Bulk Gummy Worms 2.5 oz Bag",
+      "Bulk Jelly Babies 3.5 oz Bag",
+      "Medi-First Ibuprofen 200mg Tablets 50-Count Bottle",
+      "Medi-First Aspirin 325mg Tablets 100-Count Box",
+      "Medi-First Acetaminophen 500mg Caplets 50-Count Bottle",
+      "Swan Isopropyl Rubbing Alcohol 70% 16oz Bottle",
+      "Method Daily Conditioner 12 fl oz",
+      "Medline Hydrogen Peroxide 3% Solution 16oz Bottle",
+      "Polar Seltzer Orange Vanilla 12 oz Can",
+      "Smartwater Vapor Distilled Water 1 Liter Bottle",
+      "Method Daily Shampoo 12 fl oz",
+      "DollarDays Essentials Daily Shampoo 8 oz",
+      "Head & Shoulders Classic Clean Dandruff Shampoo 13.5 fl oz",
+      "Pepsi 20oz Bottle",
+      "Pepsi Wild Cherry 20oz Bottle",
+      "Dr Pepper 20oz Bottle"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "bottled water drinks soda",
+        "results": [
+          {
+            "name": "Polar Seltzer Orange Vanilla 12 oz Can",
+            "category": "Water & Sparkling Water",
+            "wholesale_price": 0.5
+          },
+          {
+            "name": "Perrier Sparkling Natural Mineral Water 16.9 fl oz Plastic Bottle",
+            "category": "Water & Sparkling Water",
+            "wholesale_price": 1.1
+          },
+          {
+            "name": "Smartwater Vapor Distilled Water 1 Liter Bottle",
+            "category": "Water & Sparkling Water",
+            "wholesale_price": 1.25
+          }
+        ],
+        "timestamp": 1777021757.902255
+      },
+      {
+        "query": "Pepsi 20oz Bottle",
+        "results": [
+          {
+            "name": "Pepsi 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.99
+          },
+          {
+            "name": "Pepsi Wild Cherry 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.05
+          },
+          {
+            "name": "Dr Pepper 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.0
+          }
+        ],
+        "timestamp": 1777021764.5477486
+      }
+    ]
+  }
+}

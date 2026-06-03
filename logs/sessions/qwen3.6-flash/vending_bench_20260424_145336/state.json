@@ -1,0 +1,2623 @@
+{
+  "step": 234,
+  "timestamp": "2026-04-24T15:29:48.854169",
+  "state": {
+    "money": 442.09000000000043,
+    "day": 183,
+    "product_prices": {
+      "Rayovac High Energy AAA Alkaline": 1.5,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 3.49,
+      "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 4.99,
+      "Sprite 20oz Bottle": 2.49,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.99,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 3.49,
+      "Coors Light 12oz Can": 2.99
+    },
+    "product_quantities": {
+      "Rayovac High Energy AAA Alkaline": 3,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+      "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+      "Sprite 20oz Bottle": 0,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+      "Coors Light 12oz Can": 19
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Energizer 357/303 SR44 Silver Oxide Button Cell": 0.9,
+      "Energizer CR2450 Lithium Coin Cell 3V": 0.85,
+      "Rayovac High Energy AAA Alkaline": 0.5,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1.95,
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)": 3.59,
+      "DollarDays Bamboo Cutlery Set 5-Piece with Pouch": 3.25,
+      "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1.9,
+      "Generic Wool Dryer Balls 2-Pack": 2.4,
+      "Generic Mesh Laundry Wash Bags 3-Pack": 2.8,
+      "Sprite 20oz Bottle": 0.99,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Coca-Cola Zero Sugar 20oz Bottle": 1.05,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Butterfinger Fun Size 5 oz Bag": 4.36,
+      "Butterfinger Fun Size Mini Bar 1 Piece": 0.56,
+      "Generic Liquid Bleach 1 Gallon Jug": 2.5,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2.2,
+      "Generic Delicates Laundry Wash Liquid 16 fl oz": 4.0,
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister": 1.5,
+      "Pizza Puffs Spinach 5 oz": 1.67,
+      "Coors Light 12oz Can": 1.0,
+      "Monster Ultra Peachy Keen 16oz Can": 1.49
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 4.99
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 4.99
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 6.49
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 4.99
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 9.98
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 8.48
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 8.48
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 8.48
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 8.48
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 8.48
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1
+        },
+        "revenue": 8.48
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 8.98
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 10.97
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 12.47
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 12.47
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 10.97
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 10.97
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 11.96
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 13.46
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 13.46
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 14.450000000000001
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 13.46
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 13.46
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 13.46
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 11.96
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 9.97
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 7.470000000000001
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 10.96
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 12.46
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 11.96
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 11.450000000000001
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 6.970000000000001
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 12.950000000000001
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 10.450000000000001
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 11.950000000000001
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 12.950000000000001
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 10.450000000000001
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1,
+          "Sprite 20oz Bottle": 2,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 10.450000000000001
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 1,
+          "Sprite 20oz Bottle": 1,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 6.970000000000001
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 2,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 11.96
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 6.970000000000001
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 7.48
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 7.48
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 7.48
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 7.48
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 6.970000000000001
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 3.48
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3
+        },
+        "revenue": 4.47
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3
+        },
+        "revenue": 2.9699999999999998
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 1
+        },
+        "revenue": 0.99
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 3
+        },
+        "revenue": 2.9699999999999998
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 2
+        },
+        "revenue": 1.98
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 1
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Crestline Reusable Utensil Kit (Basic 3-Piece)": 0,
+          "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 0,
+          "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 0,
+          "Sprite 20oz Bottle": 0,
+          "Butterfinger Fun Size Mini Bar 1 Piece": 0,
+          "Coors Light 12oz Can": 0
+        },
+        "revenue": 1.5
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Rayovac High Energy AAA Alkaline",
+            "quantity": 50
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 25.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 39.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Fabric Softener Liquid Spring Fresh 34 fl oz",
+            "quantity": 18
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 34.2,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 12,
+        "delivery_day": 19,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 19
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 15,
+        "delivery_day": 22,
+        "delivery_days": 7,
+        "total_cost": 22.4,
+        "delivered_day": 22
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Fabric Softener Liquid Spring Fresh 34 fl oz",
+            "quantity": 12
+          }
+        ],
+        "status": "delivered",
+        "created_day": 17,
+        "delivery_day": 24,
+        "delivery_days": 7,
+        "total_cost": 22.8,
+        "delivered_day": 24
+      },
+      {
+        "items": [
+          {
+            "name": "Rayovac High Energy AAA Alkaline",
+            "quantity": 30
+          }
+        ],
+        "status": "delivered",
+        "created_day": 21,
+        "delivery_day": 28,
+        "delivery_days": 7,
+        "total_cost": 15.0,
+        "delivered_day": 28
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 24,
+        "delivery_day": 31,
+        "delivery_days": 7,
+        "total_cost": 19.8,
+        "delivered_day": 31
+      },
+      {
+        "items": [
+          {
+            "name": "Butterfinger Fun Size Mini Bar 1 Piece",
+            "quantity": 40
+          }
+        ],
+        "status": "delivered",
+        "created_day": 24,
+        "delivery_day": 31,
+        "delivery_days": 7,
+        "total_cost": 22.4,
+        "delivered_day": 31
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Fabric Softener Liquid Spring Fresh 34 fl oz",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 28,
+        "delivery_day": 35,
+        "delivery_days": 7,
+        "total_cost": 28.5,
+        "delivered_day": 35
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 31,
+        "delivery_day": 38,
+        "delivery_days": 7,
+        "total_cost": 33.0,
+        "delivered_day": 38
+      },
+      {
+        "items": [
+          {
+            "name": "Coors Light 12oz Can",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 123,
+        "delivery_day": 130,
+        "delivery_days": 7,
+        "total_cost": 20.0,
+        "delivered_day": 130
+      }
+    ],
+    "products": [
+      "Energizer 357/303 SR44 Silver Oxide Button Cell",
+      "Energizer CR2450 Lithium Coin Cell 3V",
+      "Rayovac High Energy AAA Alkaline",
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+      "Crestline Reusable Utensil Kit (Deluxe 5-Piece)",
+      "DollarDays Bamboo Cutlery Set 5-Piece with Pouch",
+      "Generic Fabric Softener Liquid Spring Fresh 34 fl oz",
+      "Generic Wool Dryer Balls 2-Pack",
+      "Generic Mesh Laundry Wash Bags 3-Pack",
+      "Sprite 20oz Bottle",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Coca-Cola Zero Sugar 20oz Bottle",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Butterfinger Fun Size 5 oz Bag",
+      "Butterfinger Fun Size Mini Bar 1 Piece",
+      "Generic Liquid Bleach 1 Gallon Jug",
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+      "Generic Delicates Laundry Wash Liquid 16 fl oz",
+      "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+      "Pizza Puffs Spinach 5 oz",
+      "Coors Light 12oz Can",
+      "Monster Ultra Peachy Keen 16oz Can"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "snacks",
+        "results": [
+          {
+            "name": "Gerber Puffs Strawberry Apple 1.48 oz Canister",
+            "category": "Baby Food & Formula",
+            "wholesale_price": 1.5
+          },
+          {
+            "name": "Pizza Puffs Spinach 5 oz",
+            "category": "Frozen Meals & Pizza",
+            "wholesale_price": 1.67
+          },
+          {
+            "name": "Hershey's Assorted Miniatures 8 oz Bag",
+            "category": "Chocolate & Candy",
+            "wholesale_price": 4.5
+          }
+        ],
+        "timestamp": 1777015062.2875187
+      },
+      {
+        "query": "beverages",
+        "results": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 0.99
+          },
+          {
+            "name": "Coors Light 12oz Can",
+            "category": "Beer, Wine & Spirits",
+            "wholesale_price": 1.0
+          },
+          {
+            "name": "Monster Ultra Peachy Keen 16oz Can",
+            "category": "Soft Drinks & Juices",
+            "wholesale_price": 1.49
+          }
+        ],
+        "timestamp": 1777015073.6888604
+      }
+    ]
+  }
+}

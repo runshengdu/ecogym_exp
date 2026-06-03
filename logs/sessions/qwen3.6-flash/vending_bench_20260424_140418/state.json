@@ -1,0 +1,3577 @@
+{
+  "step": 246,
+  "timestamp": "2026-04-24T14:53:06.719807",
+  "state": {
+    "money": 1209.550000000003,
+    "day": 183,
+    "product_prices": {
+      "Rayovac High Energy AAA Alkaline": 1.5,
+      "Generic Wool Dryer Balls 2-Pack": 4.99,
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2.99,
+      "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 3.49,
+      "Energizer CR2450 Lithium Coin Cell 3V": 2.49,
+      "Sprite 20oz Bottle": 2.49,
+      "Hershey's Assorted Miniatures 4 oz Bag": 4.99,
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 3.49,
+      "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 2.99,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 2.49
+    },
+    "product_quantities": {
+      "Rayovac High Energy AAA Alkaline": 0,
+      "Generic Wool Dryer Balls 2-Pack": 6,
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 30,
+      "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 20,
+      "Energizer CR2450 Lithium Coin Cell 3V": 19,
+      "Sprite 20oz Bottle": 0,
+      "Hershey's Assorted Miniatures 4 oz Bag": 0,
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 5,
+      "Oriental Trading 12\" Latex Balloons, Assorted Colors, 15-Count Pack": 10,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0
+    },
+    "product_categories": {},
+    "wholesale_prices": {
+      "Panasonic Eneloop AA NiMH Rechargeable Battery": 2.5,
+      "Rayovac High Energy AAA Alkaline": 0.5,
+      "GP 23A 12V Alkaline Battery": 0.8,
+      "Generic Fabric Softener Liquid Spring Fresh 34 fl oz": 1.9,
+      "Generic Wool Dryer Balls 2-Pack": 2.4,
+      "Prevail Per-Fit Men's Pull-Ups Heavy Absorbency Medium 3-Count Pack": 2.7,
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1.2,
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze": 1.8,
+      "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)": 1.77,
+      "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0.95,
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)": 1.95,
+      "Crestline Silicone Spatula 10-inch": 1.8,
+      "Energizer L91 AA Lithium Battery": 1.85,
+      "Energizer CR2450 Lithium Coin Cell 3V": 0.85,
+      "Sprite 20oz Bottle": 0.99,
+      "Sprite Zero Sugar 20oz Bottle": 1.05,
+      "Fanta Strawberry 20oz Bottle": 1.05,
+      "Hershey's Assorted Miniatures 8 oz Bag": 4.5,
+      "Hershey's Assorted Miniatures 4 oz Bag": 2.25,
+      "Hershey's Kisses Pink Foils 5 oz Bag": 4.58,
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1.25,
+      "Generic Liquid Bleach 1 Gallon Jug": 2.5,
+      "The Spice House Italian Seasoning 1 lb Bag": 4.6,
+      "Purvey'd Bulk Carrots 1 lb": 0.66,
+      "Oriental Trading Tissue Paper Pom Poms, 10\", Assorted Colors, 5-Count": 2.85,
+      "Oriental Trading Silicone Tongs 9-inch": 2.8,
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0.99,
+      "Oriental Trading 12\" Latex Balloons, Assorted Colors, 15-Count Pack": 1.39,
+      "Beistle Birthday Photo Booth Props, 12-Piece Assortment": 3.49,
+      "Quaker Cap'n Crunch Original 14 oz Box": 3.2,
+      "Kellogg's Corn Flakes 18 oz Box": 3.2,
+      "Nature Valley Oats & Honey Granola 17 oz Bag": 4.8,
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz": 2.2,
+      "Generic Odor Eliminator Laundry Additive 16 fl oz": 3.5
+    },
+    "sales_history": [
+      {
+        "day": 0,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 1,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 2,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 3,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 4,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 5,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 6,
+        "sold": {},
+        "revenue": 0.0
+      },
+      {
+        "day": 7,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0
+        },
+        "revenue": 0.0
+      },
+      {
+        "day": 8,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 9,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 9.48
+      },
+      {
+        "day": 10,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 11,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 10.97
+      },
+      {
+        "day": 12,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 13,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 12.97
+      },
+      {
+        "day": 14,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 12.97
+      },
+      {
+        "day": 15,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 16,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 17,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 18,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 19,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 5.48
+      },
+      {
+        "day": 20,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 5.48
+      },
+      {
+        "day": 21,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 5.48
+      },
+      {
+        "day": 22,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 5.48
+      },
+      {
+        "day": 23,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 5.48
+      },
+      {
+        "day": 24,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 5.48
+      },
+      {
+        "day": 25,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 15.46
+      },
+      {
+        "day": 26,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 16.96
+      },
+      {
+        "day": 27,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 10.47
+      },
+      {
+        "day": 28,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 15.46
+      },
+      {
+        "day": 29,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 10.47
+      },
+      {
+        "day": 30,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1
+        },
+        "revenue": 10.47
+      },
+      {
+        "day": 31,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1
+        },
+        "revenue": 21.950000000000003
+      },
+      {
+        "day": 32,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0
+        },
+        "revenue": 15.46
+      },
+      {
+        "day": 33,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 1,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1
+        },
+        "revenue": 16.96
+      },
+      {
+        "day": 34,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1
+        },
+        "revenue": 12.97
+      },
+      {
+        "day": 35,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1
+        },
+        "revenue": 10.97
+      },
+      {
+        "day": 36,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 37,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 38,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 39,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 40,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 41,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1
+        },
+        "revenue": 21.450000000000003
+      },
+      {
+        "day": 42,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 43,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 1,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1
+        },
+        "revenue": 21.450000000000003
+      },
+      {
+        "day": 44,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 45,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1
+        },
+        "revenue": 19.450000000000003
+      },
+      {
+        "day": 46,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 47,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 48,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 13.96
+      },
+      {
+        "day": 49,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 21.940000000000005
+      },
+      {
+        "day": 50,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 13.96
+      },
+      {
+        "day": 51,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 9.47
+      },
+      {
+        "day": 52,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 7.98
+      },
+      {
+        "day": 53,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.96
+      },
+      {
+        "day": 54,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 55,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 8.47
+      },
+      {
+        "day": 56,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 5.48
+      },
+      {
+        "day": 57,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 58,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 59,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 60,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.98
+      },
+      {
+        "day": 61,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 62,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 63,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 17.96
+      },
+      {
+        "day": 64,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 19.450000000000003
+      },
+      {
+        "day": 65,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 13.96
+      },
+      {
+        "day": 66,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 1,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 18.950000000000003
+      },
+      {
+        "day": 67,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 68,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 69,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 19.450000000000003
+      },
+      {
+        "day": 70,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 71,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 72,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 9.47
+      },
+      {
+        "day": 73,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 74,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 75,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 9.47
+      },
+      {
+        "day": 76,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 77,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 78,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 79,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 80,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 81,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 82,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 83,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 84,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 85,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 86,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 87,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 88,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 89,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 90,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 91,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 92,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 93,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 94,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 95,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 96,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 97,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 98,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 99,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 100,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 19.450000000000003
+      },
+      {
+        "day": 101,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 102,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 103,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 104,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 105,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 14.46
+      },
+      {
+        "day": 106,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 107,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 108,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 109,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 110,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 111,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 112,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 14.46
+      },
+      {
+        "day": 113,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 114,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 115,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 116,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 117,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 118,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 17.96
+      },
+      {
+        "day": 119,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 120,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 121,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 122,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 123,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 124,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 125,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 12.97
+      },
+      {
+        "day": 126,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 127,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 1,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 12.97
+      },
+      {
+        "day": 128,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 129,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 130,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 131,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 19.450000000000003
+      },
+      {
+        "day": 132,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 133,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 134,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 135,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 19.450000000000003
+      },
+      {
+        "day": 136,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 137,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 138,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 139,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 14.46
+      },
+      {
+        "day": 140,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 3,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 21.450000000000003
+      },
+      {
+        "day": 141,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 142,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 143,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 144,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 145,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 146,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 147,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 148,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 149,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 150,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 151,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 152,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 153,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 6.48
+      },
+      {
+        "day": 154,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 155,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 156,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 19.450000000000003
+      },
+      {
+        "day": 157,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 14.46
+      },
+      {
+        "day": 158,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 159,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 160,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 14.46
+      },
+      {
+        "day": 161,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 162,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 163,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 164,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 14.46
+      },
+      {
+        "day": 165,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 14.46
+      },
+      {
+        "day": 166,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 167,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 14.46
+      },
+      {
+        "day": 168,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 169,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 170,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 171,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 2.99
+      },
+      {
+        "day": 172,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 0,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 2,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 0,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 5.98
+      },
+      {
+        "day": 173,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 174,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 175,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 176,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 1,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 13.96
+      },
+      {
+        "day": 177,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 178,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 2,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 16.46
+      },
+      {
+        "day": 179,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 180,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 181,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      },
+      {
+        "day": 182,
+        "sold": {
+          "Rayovac High Energy AAA Alkaline": 0,
+          "Energizer CR2450 Lithium Coin Cell 3V": 0,
+          "Generic Wool Dryer Balls 2-Pack": 1,
+          "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom": 1,
+          "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush": 0,
+          "Sprite 20oz Bottle": 0,
+          "Hershey's Assorted Miniatures 4 oz Bag": 0,
+          "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll": 1,
+          "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count": 0,
+          "Oriental Trading 12\\\" Latex Balloons, Assorted Colors, 15-Count Pack": 0
+        },
+        "revenue": 11.47
+      }
+    ],
+    "orders": [
+      {
+        "items": [
+          {
+            "name": "Rayovac High Energy AAA Alkaline",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 0,
+        "delivery_day": 7,
+        "delivery_days": 7,
+        "total_cost": 5.0,
+        "delivered_day": 7
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 1,
+        "delivery_day": 8,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 8
+      },
+      {
+        "items": [
+          {
+            "name": "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 2,
+        "delivery_day": 9,
+        "delivery_days": 7,
+        "total_cost": 19.0,
+        "delivered_day": 9
+      },
+      {
+        "items": [
+          {
+            "name": "Energizer CR2450 Lithium Coin Cell 3V",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 3,
+        "delivery_day": 10,
+        "delivery_days": 7,
+        "total_cost": 17.0,
+        "delivered_day": 10
+      },
+      {
+        "items": [
+          {
+            "name": "Sprite 20oz Bottle",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 12,
+        "delivery_day": 19,
+        "delivery_days": 7,
+        "total_cost": 14.85,
+        "delivered_day": 19
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 12,
+        "delivery_day": 19,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 19
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 18,
+        "delivery_day": 25,
+        "delivery_days": 7,
+        "total_cost": 36.0,
+        "delivered_day": 25
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 19,
+        "delivery_day": 26,
+        "delivery_days": 7,
+        "total_cost": 18.0,
+        "delivered_day": 26
+      },
+      {
+        "items": [
+          {
+            "name": "Hershey's Assorted Miniatures 4 oz Bag",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 24,
+        "delivery_day": 31,
+        "delivery_days": 7,
+        "total_cost": 22.5,
+        "delivered_day": 31
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 33,
+        "delivery_day": 40,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 40
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 33,
+        "delivery_day": 40,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 40
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 33,
+        "delivery_day": 40,
+        "delivery_days": 7,
+        "total_cost": 36.0,
+        "delivered_day": 40
+      },
+      {
+        "items": [
+          {
+            "name": "Oriental Trading 12\" Latex Balloons, Assorted Colors, 15-Count Pack",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 41,
+        "delivery_day": 48,
+        "delivery_days": 7,
+        "total_cost": 13.9,
+        "delivered_day": 48
+      },
+      {
+        "items": [
+          {
+            "name": "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+            "quantity": 10
+          }
+        ],
+        "status": "delivered",
+        "created_day": 41,
+        "delivery_day": 48,
+        "delivery_days": 7,
+        "total_cost": 9.9,
+        "delivered_day": 48
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 54,
+        "delivery_day": 61,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 61
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 54,
+        "delivery_day": 61,
+        "delivery_days": 7,
+        "total_cost": 36.0,
+        "delivered_day": 61
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 54,
+        "delivery_day": 61,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 61
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 71,
+        "delivery_day": 78,
+        "delivery_days": 7,
+        "total_cost": 48.0,
+        "delivered_day": 78
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 71,
+        "delivery_day": 78,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 78
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 71,
+        "delivery_day": 78,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 78
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 86,
+        "delivery_day": 93,
+        "delivery_days": 7,
+        "total_cost": 48.0,
+        "delivered_day": 93
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 86,
+        "delivery_day": 93,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 93
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 86,
+        "delivery_day": 93,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 93
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 99,
+        "delivery_day": 106,
+        "delivery_days": 7,
+        "total_cost": 48.0,
+        "delivered_day": 106
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 99,
+        "delivery_day": 106,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 106
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 99,
+        "delivery_day": 106,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 106
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 116,
+        "delivery_day": 123,
+        "delivery_days": 7,
+        "total_cost": 48.0,
+        "delivered_day": 123
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 116,
+        "delivery_day": 123,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 123
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 116,
+        "delivery_day": 123,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 123
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 132,
+        "delivery_day": 139,
+        "delivery_days": 7,
+        "total_cost": 48.0,
+        "delivered_day": 139
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 132,
+        "delivery_day": 139,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 139
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 132,
+        "delivery_day": 139,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 139
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 149,
+        "delivery_day": 156,
+        "delivery_days": 7,
+        "total_cost": 48.0,
+        "delivered_day": 156
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 149,
+        "delivery_day": 156,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 156
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 149,
+        "delivery_day": 156,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 156
+      },
+      {
+        "items": [
+          {
+            "name": "Generic Wool Dryer Balls 2-Pack",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 166,
+        "delivery_day": 173,
+        "delivery_days": 7,
+        "total_cost": 48.0,
+        "delivered_day": 173
+      },
+      {
+        "items": [
+          {
+            "name": "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+            "quantity": 20
+          }
+        ],
+        "status": "delivered",
+        "created_day": 166,
+        "delivery_day": 173,
+        "delivery_days": 7,
+        "total_cost": 24.0,
+        "delivered_day": 173
+      },
+      {
+        "items": [
+          {
+            "name": "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+            "quantity": 15
+          }
+        ],
+        "status": "delivered",
+        "created_day": 166,
+        "delivery_day": 173,
+        "delivery_days": 7,
+        "total_cost": 18.75,
+        "delivered_day": 173
+      }
+    ],
+    "products": [
+      "Panasonic Eneloop AA NiMH Rechargeable Battery",
+      "Rayovac High Energy AAA Alkaline",
+      "GP 23A 12V Alkaline Battery",
+      "Generic Fabric Softener Liquid Spring Fresh 34 fl oz",
+      "Generic Wool Dryer Balls 2-Pack",
+      "Prevail Per-Fit Men's Pull-Ups Heavy Absorbency Medium 3-Count Pack",
+      "Caress Daily Silk Bar Soap 3.75 oz - White Peach & Orange Blossom",
+      "Suave Essentials Body Wash 15 oz - Ocean Breeze",
+      "Pacific Blue Basic 2-Ply 400-Sheet Toilet Paper Roll (GPC16560)",
+      "Crestline Stainless Steel Reusable Straw 8.5-inch with Cleaning Brush",
+      "Crestline Reusable Utensil Kit (Basic 3-Piece)",
+      "Crestline Silicone Spatula 10-inch",
+      "Energizer L91 AA Lithium Battery",
+      "Energizer CR2450 Lithium Coin Cell 3V",
+      "Sprite 20oz Bottle",
+      "Sprite Zero Sugar 20oz Bottle",
+      "Fanta Strawberry 20oz Bottle",
+      "Hershey's Assorted Miniatures 8 oz Bag",
+      "Hershey's Assorted Miniatures 4 oz Bag",
+      "Hershey's Kisses Pink Foils 5 oz Bag",
+      "DollarDays Generic 2-Ply 700-Sheet Household Toilet Paper Roll",
+      "Generic Liquid Bleach 1 Gallon Jug",
+      "The Spice House Italian Seasoning 1 lb Bag",
+      "Purvey'd Bulk Carrots 1 lb",
+      "Oriental Trading Tissue Paper Pom Poms, 10\", Assorted Colors, 5-Count",
+      "Oriental Trading Silicone Tongs 9-inch",
+      "Factory Direct Party Favor Goody Bags with Twist Ties, 20-Count",
+      "Oriental Trading 12\" Latex Balloons, Assorted Colors, 15-Count Pack",
+      "Beistle Birthday Photo Booth Props, 12-Piece Assortment",
+      "Quaker Cap'n Crunch Original 14 oz Box",
+      "Kellogg's Corn Flakes 18 oz Box",
+      "Nature Valley Oats & Honey Granola 17 oz Bag",
+      "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+      "Generic Odor Eliminator Laundry Additive 16 fl oz"
+    ],
+    "day_history": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "product_research_history": [
+      {
+        "query": "snack chips crackers",
+        "results": [
+          {
+            "name": "Quaker Cap'n Crunch Original 14 oz Box",
+            "category": "Breakfast Cereals",
+            "wholesale_price": 3.2
+          },
+          {
+            "name": "Kellogg's Corn Flakes 18 oz Box",
+            "category": "Breakfast Cereals",
+            "wholesale_price": 3.2
+          },
+          {
+            "name": "Nature Valley Oats & Honey Granola 17 oz Bag",
+            "category": "Breakfast Cereals",
+            "wholesale_price": 4.8
+          }
+        ],
+        "timestamp": 1777011745.1307113
+      },
+      {
+        "query": "cleaning supplies disinfectant",
+        "results": [
+          {
+            "name": "Generic Laundry Pre-Treatment Stain Spray 22 fl oz",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 2.2
+          },
+          {
+            "name": "Generic Liquid Bleach 1 Gallon Jug",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 2.5
+          },
+          {
+            "name": "Generic Odor Eliminator Laundry Additive 16 fl oz",
+            "category": "Laundry Detergent & Supplies",
+            "wholesale_price": 3.5
+          }
+        ],
+        "timestamp": 1777011754.2755358
+      }
+    ]
+  }
+}

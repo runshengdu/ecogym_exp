@@ -66,7 +66,7 @@ def get_model_config(model_name: str, models_path: Optional[str] = None) -> Dict
 
 def get_model_request_params(model_config: Dict[str, Any]) -> Dict[str, Any]:
     params: Dict[str, Any] = {}
-    for key in ("temperature", "max_tokens", "extra_body"):
+    for key in ("temperature", "max_tokens", "max_completion_tokens", "extra_body"):
         if key in model_config and model_config[key] is not None:
             params[key] = model_config[key]
     return params
