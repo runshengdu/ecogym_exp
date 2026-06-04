@@ -65,3 +65,7 @@ models:
     api_key: "${DASHSCOPE_API_KEY}"
     extra_body: {"enable_thinking": true}
     max_completion_tokens: 60000
+
+  - name: openai/text-embedding-3-small
+    base_url: https://openrouter.ai/api/v1
+    api_key: "${OPENROUTER_API_KEY}"
